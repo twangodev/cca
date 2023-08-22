@@ -22,3 +22,52 @@ that were just made)? (Hint: There are a finite number of solutions)
 ## Solution
 Click [here](../assets/Take_Home_Quiz_1.pdf) to view the solution.
 
+## Verification
+In Kotlin, the solution can be verified by running the following code:
+
+```kotlin
+fun calculatePercentages(
+    percentInitial: Int,
+    percentFinal: Int,
+    successes: Int,
+    rounds: Int,
+    iterations: Int,
+): MutableList<Pair<Int, Int>> {
+
+    val solutions = mutableListOf<Pair<Int, Int>>();
+
+    assert(iterations > 1) { "iterations $iterations must be greater than 1" };
+
+    for (n in 1..iterations) {
+        for (s in 1..n) {
+            val rawPercent = s.toDouble() / n.toDouble();
+
+            val percentRounded = Math.round(rawPercent * 100).toInt();
+
+            val finalSuccesses = s + successes;
+            val finalRounds = n + rounds;
+
+            val rawFinalPercent = finalSuccesses.toDouble() / finalRounds.toDouble();
+            val finalPercentRounded = Math.round(rawFinalPercent * 100).toInt();
+
+            if (percentRounded == percentInitial && finalPercentRounded == percentFinal) {
+                solutions.add(Pair(s, n));
+            }
+
+        }
+    }
+
+    return solutions;
+}
+
+//sampleStart
+fun main() {
+    val iterations = 1000;
+
+    calculatePercentages(78, 76, 1, 2, iterations).forEach {
+        println("s: ${it.first}, n: ${it.second}")
+    }
+}
+//sampleEnd
+```
+

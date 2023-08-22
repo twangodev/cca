@@ -82,8 +82,11 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/katex.js
+  - javascripts/kotlin.js
+  - https://unpkg.com/kotlin-playground@1
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 extra_css:
+  - stylesheets/kotlin.css
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
