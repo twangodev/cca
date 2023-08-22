@@ -1,4 +1,4 @@
-site_name: California Crosspoint Academy Guide
+site_name: CCA Guide
 
 repo_name: twangodev/cca
 repo_url: https://github.com/twangodev/cca
@@ -9,6 +9,9 @@ site_description: A handy guide and reference for students at California Crosspo
 
 nav:
   - Home: index.md
+  - Economics:
+    - Notes:
+      - Chapter 1: economics/notes/chapter-1.md
 
 theme:
   name: material

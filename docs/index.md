@@ -1,6 +1,6 @@
-# Welcome to California Crosspoint Academy Guide
+# Welcome to CCA Guide
 
-This guide is a collection of notes and resources for some courses at California Crosspoint Academy.
+This is a collection of notes and resources for some courses at California Crosspoint Academy.
 
 !!! warning "Disclaimer"
     This guide is not updated, endorsed, or approved by the California Crosspoint Academy. Content may be outdated or incorrect. 
