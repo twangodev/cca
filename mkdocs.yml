@@ -9,6 +9,9 @@ site_description: A handy guide and reference for students at California Crosspo
 
 nav:
   - Home: index.md
+  - AP Calculus BC:
+    - Take Home Quizzes:
+      - Quiz 1: ap-calculus-bc/take-home-quiz/quiz-1.md
   - Economics:
     - Notes:
       - Chapter 1: economics/notes/chapter-1.md
