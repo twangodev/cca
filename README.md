@@ -1,7 +1,7 @@
-# mkdocs-template
+# CCA Guide
 This template provdes most of the default plugins pre-configured to use mkdocs to publish notes and guides for instructional courses.
 
-Visit a [live preview](https://mkdocs-template.twango.dev/) of this site
+Visit a [live preview](https://cca.twango.dev/) of this site
 
 ## README
 Rename this file to README with the following contents.

@@ -1,19 +1,19 @@
-site_name: COURSE Guide # TODO
+site_name: California Crosspoint Academy Guide
 
-repo_name: COURSE # TODO
-repo_url: https://example.com # TODO
+repo_name: twangodev/cca
+repo_url: https://github.com/cca
 edit_uri: edit/main/docs/
 
-site_url: https://example.com # TODO
-site_description: A handy guide and reference for [COURSE]
+site_url: https://cca.twango.dev
+site_description: A handy guide and reference for students at California Crosspoint Academy.
 
 nav:
   - Home: index.md
 
 theme:
   name: material
-#  TODO logo: assets/
-#  TODO favicon: assets/
+  logo: assets/cca.png
+  favicon: assets/favicon.ico
   features:
     - toc.follow
     - navigation.top
@@ -41,7 +41,7 @@ plugins:
   - search
   - glightbox
   - offline
-# TODO - social
+  - social
 
 markdown_extensions:
   - abbr
