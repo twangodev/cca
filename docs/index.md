@@ -6,7 +6,7 @@ This guide is a collection of notes and resources for some courses at California
     This guide is not updated, endorsed, or approved by the California Crosspoint Academy. Content may be outdated or incorrect. 
     Please refer to the teachers for the most up-to-date information.
 
-    This is not meant to replace taking notes, but rather to supplement it.
+    This is not meant to replace taking notes and creating your own resources, but rather to supplement it.
 
 If you found this guide helpful, please consider starring the [GitHub repository](https://github.com/twangodev/cca) and sharing it with others.
 
