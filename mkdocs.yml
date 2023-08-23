@@ -47,7 +47,7 @@ plugins:
   - search
   - glightbox
   - offline
-#  - social
+ - social
 
 markdown_extensions:
   - abbr
