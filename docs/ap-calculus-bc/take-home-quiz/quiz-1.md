@@ -20,7 +20,7 @@ For this player, what are all possible numbers of free-throws made and attempted
 that were just made)? (Hint: There are a finite number of solutions)
 
 ## Solution
-Click [here](../assets/Take_Home_Quiz_1.pdf) to view the solution.
+Click [here](../assets/take-home-quiz-1.pdf) to view the solution.
 
 ## Verification
 In Kotlin, the solution can be verified by running the following code:

@@ -10,6 +10,8 @@ site_description: A handy guide and reference for students at California Crosspo
 nav:
   - Home: index.md
   - AP Calculus BC:
+    - Homework:
+      - Limits Review: ap-calculus-bc/assets/limits-review.pdf
     - Take Home Quizzes:
       - Quiz 1: ap-calculus-bc/take-home-quiz/quiz-1.md
   - Economics:
