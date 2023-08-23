@@ -1,6 +1,6 @@
 # Analyzing Plot Structure
 
-# Prompt
+## Prompt
 
 Choose a story – novel, myth, film, short story, etc. That does not tell its story chronologically and analyze its
 plot. (5 elements)
@@ -10,7 +10,7 @@ Then write a paragraph (5-7 sentences) where you answer the following questions.
 - What effect does this plot choice have on the story as a whole?
 - How do these structural choices impact the way we understand the characters and the surrounding setting?
 
-# Response
+## Response
 
 I’ve chosen Dunkirk, directed by Christopher Nolan, and is known for it’s unique 3 consecutive timelines.
 
