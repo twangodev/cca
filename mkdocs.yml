@@ -23,6 +23,7 @@ nav:
   - Economics:
     - Notes:
       - Chapter 1: economics/notes/chapter-1.md
+      - Chapter 2: economics/notes/chapter-2.md
 
 theme:
   name: material
