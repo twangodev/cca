@@ -59,7 +59,7 @@ Only have one or two predominant traits; summed up in a sentence or two
 Complex & many-sided
 
 !!! tip
-Most short stories will only have one or two round characters; minor characters must primarily remain flat
+  Most short stories will only have one or two round characters; minor characters must primarily remain flat
 
 ### Stock Characters
 
@@ -74,6 +74,19 @@ Remains the same person from beginning to end
 ### Developing & Dynamic Character
 
 Undergoes some distinct change of character, personality, or outlook
+
+## Setting
+- Time and place, the when and where of a literary text
+- “Bedrock” or “harmony” of a narrative on which the characters or soloists of the story are maneuvered
+- Includes objective facts - community or nation, date and time, weather, and season
+- Setting should illuminate character, not the other way around
+- Author will often contrast character’s emotions with the setting
+- Consider how the setting takes place to the story as whole by examining details that might seem physical and objective
+
+    !!! example
+        Winter transitions into  spring - new beginnings
+
+- Highlight the details - the sights and sounds, textures, and tones, colors, and shape - because they often depict more about the setting than a when and where
 
 ## Plot and Structure
 
