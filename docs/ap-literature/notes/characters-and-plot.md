@@ -25,3 +25,41 @@ Coming of age story (bildungsroman) - shows how the young character grows from i
 
 ### Epiphany
 A pivotal realization about life
+
+## Commercial Fiction Characters
+
+### Main Character 
+
+- Less easily labeled and pigeonholed
+- Could be wholly unsympathetic or even despicable
+- Deals with characters who have both “good” and “evil” impulses; three -dimensional
+- Allow the reader to observe human nature in complexity & multiplicity
+- Good writers “show, not tell,” which allow the characters to be dramatized
+
+#### Consistent with Behavior
+- Attractive and sympathetic
+- Not perfect, but fundamentally decent, honest good-hearted, and preferable good-looking
+- May have larger-than-life qualities or defy laws of “ordinary “ people
+- Vices must be willing to be accepted by the reader (e.g. James Bond)
+
+## Character Categories
+
+### Flat Characters
+Only have one or two predominant traits; summed up in a sentence or two
+
+### Round Characters
+Complex & many-sided
+
+!!! tip
+    Most short stories will only have one or two round characters; minor characters must primarily remain flat
+
+### Stock Characters
+
+- Stereotyped figures that appear in fiction, so we recognize them immediately
+- The strong, silent sheriff, glamorous international spy, the cruel stepmother, mad scientist, brilliant, eccentric detective
+
+### Static Character
+Remains the same person from beginning to end
+
+### Developing & Dynamic Character
+Undergoes some distinct change of character, personality, or outlook
