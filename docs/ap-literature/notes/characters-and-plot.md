@@ -59,7 +59,7 @@ Only have one or two predominant traits; summed up in a sentence or two
 Complex & many-sided
 
 !!! tip
-  Most short stories will only have one or two round characters; minor characters must primarily remain flat
+    Most short stories will only have one or two round characters; minor characters must primarily remain flat
 
 ### Stock Characters
 
