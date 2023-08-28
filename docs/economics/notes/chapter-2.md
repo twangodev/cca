@@ -68,7 +68,7 @@ An economic model that shows (at the moment) all combinations of how an economy 
 Using resources to produce the maximum amount of goods and services
 
 #### Production Possibility Curve
-![Production Possibility Curve](../../assets/production-possibility-curve.jpg)
+![Production Possibility Curve](../assets/production-possibility-curve.jpg)
 
 Represents the maximum amount of goods and services that can be produced using a fixed amount of resources
 
