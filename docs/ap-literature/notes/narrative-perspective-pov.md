@@ -1,5 +1,5 @@
 # Narrative Perspective & Point of View
-- All focus on who tells the story, how they tell it, and how they and we, as readers, understand their roles in the narrative
+All focus on who tells the story, how they tell it, and how they and we, as readers, understand their roles in the narrative
 
 ## Point of View
 The position from which a narrator relates the events of a narrative
