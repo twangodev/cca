@@ -23,6 +23,10 @@ nav:
     - Notes:
       - Chapter 1: economics/notes/chapter-1.md
       - Chapter 2: economics/notes/chapter-2.md
+  - Senior Bible:
+    - What If Jesus Was Serious:
+      - Intro, 1-2: senior-bible/wijws/intro-1-2.md
+      - 3-4: senior-bible/wijws/3-4.md
 
 theme:
   name: material
