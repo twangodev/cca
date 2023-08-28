@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cca.twango.dev/index.html</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cca.twango.dev/ap-calculus-bc/take-home-quiz/quiz-1.html</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cca.twango.dev/ap-literature/assignments/analyzing-plot-structure.html</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/ap-literature/assignments/hills-like-white-elephants-pov.html</loc>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cca.twango.dev/ap-literature/assignments/walker-mansfield-joyce.html</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cca.twango.dev/ap-literature/notes/narrative-perspective-pov.html</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cca.twango.dev/economics/notes/chapter-1.html</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cca.twango.dev/economics/notes/chapter-2.html</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
