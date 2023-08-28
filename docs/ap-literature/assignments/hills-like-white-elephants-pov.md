@@ -47,6 +47,6 @@
    detached, while Jig appears more emotionally tuned into the complexity of the situation. Neither clearly "wins" the
    conflict; the story ends ambiguously, and the power dynamics are left unresolved.
 
-6. The point of view used in "Hills Like White Elephants" is third-person limited omniscient. The narrator reports the
+6. The point of view used in "Hills Like White Elephants" is third-person limited objective. The narrator reports the
    events and dialogue without providing direct insight into the characters' thoughts or feelings, leaving it to the
    reader to interpret the emotional nuances.
