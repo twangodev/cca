@@ -13,11 +13,11 @@ Puts the reader directly into the story; rarely used, could be viewed as gimmick
 ### Third Person
 Tells the story with third-person pronouns - he, she, and it. Views all events from a distance.
 
-#### Third Person Limited
+#### Limited
 Views all events from one person's perspective; good insight into how that character views the world
 
-#### Third Person Omniscient
+#### Omniscient
 Views and knows events from perspectives of multiple characters.
 
-#### Third Person Objective
+#### Objective
 Most neutral and impartial. Does not follow a single character or enter one's perspective. Don't know what characters are thinking or feeling.
