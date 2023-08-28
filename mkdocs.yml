@@ -24,6 +24,15 @@ nav:
       - Notes:
         - Characters and Plot: ap-literature/notes/characters-and-plot.md
         - Narrative Perspective & POV: ap-literature/notes/narrative-perspective-pov.md
+  - AP Statistics:
+    - Chapter 1 - Collecting Data in Reasonable Ways: ap-statistics/chapter-1.md
+    - Chapter 2 - Graphical Methods for Describing Data Distributions: ap-statistics/chapter-2.md
+    - Chapter 3 - Numerical Methods for Describing Data Distributions: ap-statistics/chapter-3.md
+    - Chapter 4 - Describing Bivariate Numerical Data: ap-statistics/chapter-4.md
+    - Chapter 5 - Probability: ap-statistics/chapter-5.md
+    - Chapter 6 - Random Variables and Probability Distributions: ap-statistics/chapter-6.md
+    - Chapter 8 - Sampling Variability and Sampling Distributions: ap-statistics/chapter-8.md
+    - Chi Square Tests: ap-statistics/chi-square-tests.md
   - Economics:
     - Assignments:
       - The Road Not Taken: economics/assignments/the-road-not-taken.md
