@@ -46,6 +46,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cca.twango.dev/ap-literature/notes/theme.html</loc>
+         <lastmod>2023-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cca.twango.dev/ap-statistics/chapter-1.html</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
@@ -102,6 +107,11 @@
     </url>
     <url>
          <loc>https://cca.twango.dev/economics/notes/chapter-2.html</loc>
+         <lastmod>2023-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/economics/notes/chapter-3.html</loc>
          <lastmod>2023-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
