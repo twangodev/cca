@@ -1,7 +1,61 @@
 # Chapter 2: Factors of Production
-How can we satisfy economic wants?
+
+## The Five Steps of Economic Decision Making
+
+1. Define the problem. What is the decision that needs to be made?
+2. Identify possible alternatives. What are the different options available?
+3. Develop criteria and a ranking system. How will the alternatives be evaluated?
+4. Evaluate alternatives against the criteria. Which alternative is the best?
+5. Make a decision. Implement the chosen alternative.
+
+## Economic Fundamentals
+* **Our wants always exceed our resources.** We desire many things, but we can only afford to have a limited number of them.
+* **The choices we make are influenced by our wants and our resources.** We have to decide what we want most and what we are willing to give up to get it.
+* **The choices we make can have a big impact on our lives.** The decisions we make about our education, our careers, and our relationships can all affect our happiness and success.
+
+## Scarcity
+### Types of Scarcity
+
+* Absolute scarcity means that there is not enough of a resource to meet everyone's needs.
+* For example, there is not enough water for everyone in the world to have enough to drink.
+* Relative scarcity means that there is not enough of a resource to meet everyone's wants.
+* For example, there is not enough money for everyone in the world to have a private jet.
+
+### The Causes of Scarcity
+There are three main causes of scarcity:
+
+* Limited resources: There are only a finite number of resources in the world.
+* Unlimited wants: We have unlimited wants for goods and services.
+* Different wants: People have different wants, and these wants often conflict with each other.
+
+### The Consequences of Scarcity
+
+* Scarcity forces us to make choices.
+* We have to decide which of our wants are most important and which ones we can afford to give up.
+* Scarcity also leads to competition.
+* People compete for resources, and this can lead to conflict.
+
+## Human Capital
+Human capital is the skills and knowledge that people have that can be used to produce goods and services.
+
+### Importance of Human Capital
+
+* Human capital is important for economic growth.
+* A more skilled workforce can produce more goods and services.
+* Human capital can also help to reduce poverty.
+
+### Ways to Increase Human Capital
+
+* Education: Education is the most important way to increase human capital.
+* Training: Training can help people to develop new skills and knowledge.
+* Experience: Experience can also help people to develop skills and knowledge.
 
 ## Capital
+
+* Capital is the tools, machines, and buildings used in the production of other goods and services.
+* It can take a surprising number of forms, from simple screwdrivers to complex supercomputers.
+* Capital has replaced labor in many industries, but it has also created new jobs in the design, production, and maintenance of new machines.
+
 ### Financial Capital
 Money used in the production of goods & services
 
