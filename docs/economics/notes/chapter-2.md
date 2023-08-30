@@ -1,6 +1,6 @@
 # Chapter 2: Factors of Production
 
-## The Five Steps of Economic Decision Making
+## The Five Steps of Economic Decision-Making
 
 1. Define the problem. What is the decision that needs to be made?
 2. Identify possible alternatives. What are the different options available?
