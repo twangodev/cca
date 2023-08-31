@@ -11,7 +11,7 @@ List the patients you chose to receive treatment in order of preference.  Be sur
    | Patient G : 6 hours | Patient F: 4 hours    |
    | Patient K: 10 hours | Patient I: 4 hours    |
    |                     | Patient J: 6 hours    |
-   | Total: 3            | Total: 23             |
+   | Total: 30 hours     | Total: 23 hours       |
 
 1. Who was the first patient you chose to prioritize and why were they the most important?
 
