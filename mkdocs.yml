@@ -39,6 +39,7 @@ nav:
     - Inference: ap-statistics/inference.md
   - Economics:
     - Assignments:
+      - Kidney Opportunity Cost: economics/assignments/kidney-opportunity-cost.md
       - The Road Not Taken: economics/assignments/the-road-not-taken.md
     - Notes:
       - Chapter 1: economics/notes/chapter-1.md
