@@ -19,7 +19,7 @@ List the patients you chose to receive treatment in order of preference.  Be sur
 
 2. Who was the last patient you left out and why were they the least important?
 
-       Patient D, she is the oldest and has the least amount of time left to live.
+      Patient D, she is the oldest and has the least amount of time left to live.
 
 3. The last person to be chosen to use the machine represents what kind of economic reasoning? (or what do we call it when you choose one more of something)
 
