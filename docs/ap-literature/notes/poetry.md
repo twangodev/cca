@@ -16,3 +16,13 @@ Identify and characterize the speaker of the poem, relationship of idea that sig
 ### Style Details
 How does the style contribute to the poem's meaning. Connect style to meaning by providing evidence for your interpretation of the poem.
 
+## Stanzas and Line Breaks
+- Think of stanzas as paragraphs - they function to do three things
+
+### Stanza breaks
+- Mark beginnings and endings
+- Cause the reader to pause
+- Accelerate the pace
+
+### Line Breaks
+- Line turns are meaningful
