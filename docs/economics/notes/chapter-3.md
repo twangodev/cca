@@ -129,6 +129,11 @@ In a command economy, decisions about what, how, and for whom to produce are mad
 !!! warning
     While this system can achieve goals like equity or security more readily, it often lacks the efficiency and innovation driven by competition in market economies.
 
+    Command economies are often associated with socialism or communism, where the government owns the means of production and controls economic activities.
+
+??? example "Opportunity Cost for high school students waiting for Food"
+    For example, let's say that a high school student is waiting in line for food. The opportunity cost of waiting in line is the time that could have been spent studying or playing sports. The opportunity cost of studying is the time that could have been spent waiting in line for food.
+
 ### Market Economies: Driven by Supply and Demand
 Market economies are primarily driven by individual choices and market forces.
 
