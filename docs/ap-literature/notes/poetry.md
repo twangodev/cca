@@ -26,3 +26,23 @@ How does the style contribute to the poem's meaning. Connect style to meaning by
 
 ### Line Breaks
 - Line turns are meaningful
+
+## Rhyme Scheme
+Pattern of rhyme for the entire poem
+
+### Free Verse
+Poem that does not rhyme
+
+### End Rhyme
+Rhyme occurs at the end of the line
+
+### Internal Rhyme
+
+## Diction
+
+### Denotation
+A word's explicit meaning
+
+### Connotation
+Refers to the associated a word caries
+

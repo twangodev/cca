@@ -17,8 +17,8 @@ This definition assumes the method of picking some horizontal distance, $h$, and
     1. $$f(x) = \sqrt{x}$$ 
     2. $$f(x) = \frac{1}{x}$$
 6. Now consider the function $f(x) = x^2$. Using your new definition of the derivative get to a place of evaluating the derivative up to the point where you get a $\sqrt{x^2}$.
-   1. What is $\sqrt{x^2}$ precisely equal to? 
-   2. What, then becomes a difficulty when considering the derivative of $x^2$ if we consider when $x$ is a negative value? What is a way to resolve this issue?
+    1. What is $\sqrt{x^2}$ precisely equal to? 
+    2. What, then becomes a difficulty when considering the derivative of $x^2$ if we consider when $x$ is a negative value? What is a way to resolve this issue?
 
 ## Solution
 Click [here](../assets/take-home-quiz-2.pdf) to view the solution
