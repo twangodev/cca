@@ -14,8 +14,8 @@ This definition assumes the method of picking some horizontal distance, $h$, and
 3. Using algebra show that $k = f^{-1}(f(x) + h) - x$.
 4. Now that we know $k$, use a limit to define a new equation for the derivative of a function in terms of $h$, $x$, and $f(x)$.
 5. Use your new definition of the derivative to find the derivative of the following:
-    1. $$f(x) = \sqrt{x}$$ 
-    2. $$f(x) = \frac{1}{x}$$
+    1. $f(x) = \sqrt{x}$
+    2. $f(x) = \frac{1}{x}$
 6. Now consider the function $f(x) = x^2$. Using your new definition of the derivative get to a place of evaluating the derivative up to the point where you get a $\sqrt{x^2}$.
     1. What is $\sqrt{x^2}$ precisely equal to? 
     2. What, then becomes a difficulty when considering the derivative of $x^2$ if we consider when $x$ is a negative value? What is a way to resolve this issue?
