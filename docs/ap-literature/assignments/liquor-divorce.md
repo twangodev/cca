@@ -16,7 +16,7 @@ Who are what are "the knives they have hired"?
 
 ## Response
 
-## I Tasted a Liquor Never Brewed
+### I Tasted a Liquor Never Brewed
 I don't think there's as much of a comparison to alcoholic intoxication. Instead, I think the author somewhat uses
 alcoholic intoxication as a way to describe the beauty of nature, which can come from the intoxication of alcohol. This 
 is supported by the author's use of "inebriate of air" and "debauchee of dew", all phrases that can be used to show
@@ -29,7 +29,7 @@ This may be referencing the sky. The word "molten" could be used to describe the
 #### "snowy Hats"
 The snow that collects on hats could signify the coldness of alcohol, or just the total amount of alcohol that is consumed.
 
-## Divorce
+### Divorce
 Cutlery could be appropriate here because it is something that is commonly used, it's something a part of everyday life,
 something we get used to. The use of cutlery can help build that emotions of communal life and intimacy.
 
