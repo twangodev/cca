@@ -25,6 +25,8 @@ Vang uses contrasts to portray the complex relationships of members from the fam
 
 ## Double Dutch
 
+### Prompt
+
 In Gregory Pardlo’s poem “Double Dutch,” published in 2007, the speaker describes watching children playing double Dutch—a version of jumping rope in which two ropes are turned in opposite directions. Read the poem carefully. Then, write a paragraph in which you make a defensible claim regarding how Pardlo uses simile and metaphor to convey a complex image of the girls. In your paragraph, you should incorporate at least one piece of evidence from the text to support your claim.
 
 In your response you should do the following:
