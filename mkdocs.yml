@@ -69,11 +69,10 @@ nav:
       - Chapter 4: economics/notes/chapter-4.md
   - Senior Bible:
     - What If Jesus Was Serious:
-      - Intro, 1-2: senior-bible/wijws/1-2.md
-      - 3-4: senior-bible/wijws/3-4.md
-      - 5-6: senior-bible/wijws/5-6.md
-      - 7-8: senior-bible/wijws/7-8.md
-
+      - Intro, 1.1-2: senior-bible/wijws/1.1-2.md
+      - 1.3-4: senior-bible/wijws/1.3-4.md
+      - 1.5-6: senior-bible/wijws/1.5-6.md
+      - 1.7-8: senior-bible/wijws/1.7-8.md
 theme:
   name: material
   logo: assets/cca.png
