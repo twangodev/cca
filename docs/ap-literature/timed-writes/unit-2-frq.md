@@ -11,7 +11,7 @@ In your response you should do the following:
 - Respond to the prompt with a claim that presents a defensible interpretation.
 - Select and use evidence to support your interpretation.
 - Explain how the evidence supports your interpretation.
-- Use appropriate grammar and punctuation in communicating your your argument.
+- Use appropriate grammar and punctuation in communicating your argument.
 
 ### Response
 
