@@ -29,17 +29,11 @@ Economists use various models to predict and explain how entities interact in a 
 
 ## Benefits of Specialization
 
-### Efficiency
-Efficiency increases as entities focus on what they are best at.
-
-### Higher Quality
-Quality of output generally improves with specialization.
-
-### Greater Quantity
-Greater output can be achieved when specialized skills are utilized.
-
-### Innovation
-Specialization often leads to innovation as entities strive for a competitive edge.
+!!! tip "Highlights"
+    - Efficiency increases as entities focus on what they are best at.
+    - Quality of output generally improves with specialization.
+    - Greater output can be achieved when specialized skills are utilized.
+    - Specialization often leads to innovation as entities strive for a competitive edge.
 
 ## Case Studies
 
@@ -86,11 +80,8 @@ Pirate Jack has a lower opportunity cost for gathering turnips, giving him a com
 
 ## Specialization and Trade
 
-### Theoretical Benefits
-According to Ricardo's theory, both would benefit from specializing in what they have a comparative advantage in, and then trading.
-
-### Practical Gains from Trade
-By trading 17 clams for 25 turnips, both men end up with more food than they would have had if they worked alone.
+!!! success "Theoretical and Practical Gains"
+    According to Ricardo's theory, both would benefit from specializing in what they have a comparative advantage in, and then trading. By trading 17 clams for 25 turnips, both men end up with more food than they would have had if they worked alone.
 
 ## The Principle of Comparative Advantage
 - Definition: Specializing in what one is comparatively better at for mutual benefits.
@@ -116,18 +107,13 @@ By trading 17 clams for 25 turnips, both men end up with more food than they wou
 
 ## How Trade Makes Us Wealthier
 
-### Trade Moves Goods to People Who Value Them
-- Value of goods increases when moved from those who value them less to those who value them more.
-
-### Increases Quantity and Variety of Goods Available
-- Specialization allows for more production and trade, increasing availability of various goods.
-
-### Lowers the Cost of Goods
-- Economies of scale and more efficient production reduce costs.
+!!! tip "Key Points"
+    - Trade moves goods to people who value them.
+    - Increases quantity and variety of goods available.
+    - Lowers the cost of goods.
 
 ## Wealth in Economic Terms
-- Defined more broadly than just money; includes total value of all things a person owns.
-- Wealth increases when we trade for things we value.
+Wealth is defined more broadly than just money; it includes the total value of all things a person owns. Wealth increases when we trade for things we value.
 
 ## Impact of Trade on Goods and Services
 
@@ -140,34 +126,22 @@ By trading 17 clams for 25 turnips, both men end up with more food than they wou
 - In Nepal: limited variety, especially in rural areas
 
 ## Trade Lowers Cost of Goods
-
-### Comparative Advantage
-- Goods may be cheaper if imported from countries that specialize in their production
-
-### Economies of Scale
-- Larger markets allow for mass production, reducing per-unit costs
+- Comparative advantage: Goods may be cheaper if imported from countries that specialize in their production
+- Economies of scale: Larger markets allow for mass production, reducing per-unit costs
 
 ## Winners and Losers in Trade
 
-### Benefits Across Borders
-- Both rich and poor countries benefit
-- The poor, in particular, have seen significant income rises
-
-### Risks and Downsides
-- Local industries may suffer due to cheaper imports
-- Job losses in sectors that can't compete internationally
+!!! warning "Risks and Downsides"
+    - Local industries may suffer due to cheaper imports.
+    - Job losses in sectors that can't compete internationally.
 
 ## Economists' Perspective
 
 ### Tim Harford's View
-- Not possible for trade to destroy all jobs
-- Must be some level of export to sustain imports
+Tim Harford believes that it is not possible for trade to destroy all jobs and argues that there must be some level of export to sustain imports.
 
 ### Creation and Destruction of Jobs
-- Old jobs may be lost, but new ones are created
-- More winners than losers in the long run
+Old jobs may be lost, but new ones are created. More winners than losers in the long run.
 
 ## Personal Implications
-
-### Comparative Advantage
-- Focus on what you're good at for better life prospects
+Focus on what you're good at for better life prospects.
