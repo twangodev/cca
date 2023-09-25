@@ -47,6 +47,7 @@ nav:
         - Theme: ap-literature/notes/theme.md
       - Timed Writes:
           - Blind Date - Lydia Davis: ap-literature/timed-writes/blind-date-lydia-davis.md
+          - Unit 2 FRQ: ap-literature/timed-writes/unit-2-frq.md
   - AP Statistics:
     - Chapter 1 - Collecting Data in Reasonable Ways: ap-statistics/chapter-1.md
     - Chapter 2 - Graphical Methods for Describing Data Distributions: ap-statistics/chapter-2.md
@@ -68,11 +69,12 @@ nav:
       - Chapter 4: economics/notes/chapter-4.md
   - Senior Bible:
     - What If Jesus Was Serious:
-      - Intro, 1-2: senior-bible/wijws/1-2.md
-      - 3-4: senior-bible/wijws/3-4.md
-      - 5-6: senior-bible/wijws/5-6.md
-      - 7-8: senior-bible/wijws/7-8.md
-
+      - Intro, 1.1-2: senior-bible/wijws/1.1-2.md
+      - 1.3 - 1.4: senior-bible/wijws/1.3-4.md
+      - 1.5 - 1.6: senior-bible/wijws/1.5-6.md
+      - 1.7 - 1.8: senior-bible/wijws/1.7-8.md
+      - 1.9 - 2.1: senior-bible/wijws/1.9-2.1.md
+    - Personal Collect: senior-bible/personal-collect.md
 theme:
   name: material
   logo: assets/cca.png
