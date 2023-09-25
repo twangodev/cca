@@ -53,3 +53,20 @@ Longer works of fiction leave more room for more than one major conflict - many 
 
 !!! question
     What conflicts do we have already through the two acts (of Pygmalion)? What other conflicts do we see on the peripheral?
+
+## Diction
+
+### Formal
+Sophisticated, academic
+
+### Informal
+Slang or colloquial language
+
+!!! question "What is the difference between fake and artificial?"
+    Fake has the "not-real" connotations, while artificial is more neutral
+
+### Concrete
+Words that are generally perceived through your senses because they are a part of the physical world
+
+### Abstract
+Lass tangible and refer more to concepts or ideas
