@@ -99,7 +99,27 @@ nav:
       - 2.4 - 2.5: senior-bible/wijws/2.4-2.5.md
     - Personal Collect: senior-bible/personal-collect.md
   - US History:
-    - Causes of the Civil War: us-history/causes-of-the-civil-war.md
+    - Worksheets:
+      - 4.2 The Constitutional Convention: us-history/worksheets/4.2-the-constitutional-convention.md
+      - 4.3 The Enduring Constitution: us-history/worksheets/4.3-the-enduring-constitution.md
+      - 5.6 Nationalism Influences Policies: us-history/worksheets/5.6-nationalism-influences-policies.md
+      - 5.7 Jacksonian Democracy: us-history/worksheets/5.7-jacksonian-democracy.md
+      - 7.4 African Americans and the War: us-history/worksheets/7.4-african-americans-and-the-war.md
+      - 7.5 Everyday Life During the War: us-history/worksheets/7.5-everyday-life-during-the-war.md
+      - 10.4: us-history/worksheets/10.4-worksheet.md
+      - 11.3: us-history/worksheets/11.3-worksheet.md
+      - 11.5 American Influence Grows: us-history/worksheets/11.5-american-influence-grows.md
+      - 11.6 The Spanish-American War: us-history/worksheets/11.6-the-spanish-american-war.md
+      - 14.1 Rise of Aggressive Dictators: us-history/worksheets/14.1-rise-of-aggressive-dictators.md
+      - 15.3 The Cold War Intensifies: us-history/worksheets/15.3-the-cold-war-intensifies.md
+      - 15.4 Cold War Fears at Home: us-history/worksheets/15.4-cold-war-fears-at-home.md
+    - 13 Readings: us-history/13-readings.md
+    - 14 Savaas: us-history/14-savaas.md
+    - Frederick Douglass Primary Source Reading: us-history/frederick-douglass-primary-source-reading.md
+    - Reconstruction Webquest: us-history/reconstruction-webquest.md
+    - Slavery DBQ: us-history/slavery-dbq.md
+    - The Civil Rights Era: us-history/the-civil-rights-era.md
+    - Vietnam War Webquest: us-history/vietnam-war-webquest.md
 theme:
   name: material
   logo: assets/cca.png
