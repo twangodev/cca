@@ -9,10 +9,10 @@
 ## Stock and Foils
 
 ### Stock Characters
-Move the plot forwrad or illuminate major character's motivations and development
+Move the plot forward or illuminate major character's motivations and development
 
 ### Foil
-Contrasting character who shines a spotlight ont he protagonist through contrasting traits
+Contrasting character who shines a spotlight onto the protagonist through contrasting traits
 
 !!! example
     Mercutio is the foil to Romeo regarding love.
@@ -20,7 +20,7 @@ Contrasting character who shines a spotlight ont he protagonist through contrast
     Harry Potter is the foil to Draco Malfoy 
 
 ## Analyzing Dialogue
-Conversation between two or more characters - essential way to reveal character
+Conversation between two or more characters—an essential way to reveal character
 
 Three elements to identify when reading dialogue:
 - The content of what is being said
@@ -36,7 +36,7 @@ A character, alone on state, reveals their thoughts or emotions, as if the chara
 
 #### Physical Set and Props
 !!! question
-    What do set pieces reveal about character, plot, etc.? Can they foreshadow later events?
+    What set pieces reveal about character, plot, etc.? Can they foreshadow later events?
 
 #### Historical Context
 A time and place that has its own political, economic, or social norms and upheavals. Will go unmentioned most times because author assumes reader has general knowledge of event
@@ -49,7 +49,7 @@ Manners, mores, customs, rituals, and codes of conduct. Science Fiction often cr
 
 
 ### Plot and Structure
-Longer works of fiction leave more room for more than one major conflict - many of them continue to develop and eventually intersect
+Longer works of fiction leave more room for more than one major conflict—many of them continue to develop and eventually intersect
 
 !!! question
     What conflicts do we have already through the two acts (of Pygmalion)? What other conflicts do we see on the peripheral?
