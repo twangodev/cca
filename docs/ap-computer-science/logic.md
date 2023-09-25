@@ -11,7 +11,7 @@
 
 ##  De Morgan Laws
 
-## ##  Formal Definition
+###  Formal Definition
 
 $$
 \overline{A \cup B} = \overline A \cap \overline B
@@ -21,7 +21,7 @@ $$
 \overline{A \cap B} = \overline A \cup \overline B
 $$
 
-## ##  In Java
+### In Java
 
 ```java
 // Let a and b be to defined and instantiated booleans
