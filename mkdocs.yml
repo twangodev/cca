@@ -17,6 +17,9 @@ nav:
       - Quiz 2: ap-calculus-bc/take-home-quiz/quiz-2.md
       - Quiz 3: ap-calculus-bc/take-home-quiz/quiz-3.md
       - Quiz 4: ap-calculus-bc/take-home-quiz/quiz-4.md
+  - AP Language:
+      - Irony Timed Write: ap-language/irony-timed-write.md
+      - Semester 1 Final: ap-language/semester-1-final.md
   - AP Literature:
       - Annotations:
         - Fools Crow: ap-literature/annotations/fools-crow.pdf
@@ -78,6 +81,8 @@ nav:
       - 2.2 - 2.3: senior-bible/wijws/2.2-2.3.md
       - 2.4 - 2.5: senior-bible/wijws/2.4-2.5.md
     - Personal Collect: senior-bible/personal-collect.md
+  - US History:
+    - Causes of the Civil War: us-history/causes-of-the-civil-war.md
 theme:
   name: material
   logo: assets/cca.png
