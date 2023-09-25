@@ -17,9 +17,26 @@ nav:
       - Quiz 2: ap-calculus-bc/take-home-quiz/quiz-2.md
       - Quiz 3: ap-calculus-bc/take-home-quiz/quiz-3.md
       - Quiz 4: ap-calculus-bc/take-home-quiz/quiz-4.md
+  - AP Computer Science:
+    - Introduction to Java: ap-computer-science/introduction-to-java.md
+    - Variables: ap-computer-science/variables.md
+    - Scanner: ap-computer-science/scanner.md
+    - Logical Operators: ap-computer-science/logical-operators.md
+    - Type Casting: ap-computer-science/type-casting.md
+    - Random: ap-computer-science/random.md
+    - Time Complexity: ap-computer-science/time-complexity.md
+    - Loops: ap-computer-science/loops.md
+    - Commenting: ap-computer-science/commenting.md
+    - Strings and Characters: ap-computer-science/strings-and-characters.md
+    - Number Systems: ap-computer-science/number-systems.md
+    - Methods: ap-computer-science/methods.md
+    - Recursion: ap-computer-science/recursion.md
+    - Object Oriented Programming: ap-computer-science/object-oriented-programming.md
+    - Arrays: ap-computer-science/arrays.md
+    - Logic: ap-computer-science/logic.md
   - AP Language:
-      - Irony Timed Write: ap-language/irony-timed-write.md
-      - Semester 1 Final: ap-language/semester-1-final.md
+    - Irony Timed Write: ap-language/irony-timed-write.md
+    - Semester 1 Final: ap-language/semester-1-final.md
   - AP Literature:
       - Annotations:
         - Fools Crow: ap-literature/annotations/fools-crow.pdf
