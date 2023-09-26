@@ -1,9 +1,9 @@
 # Monkey Bridge Figurative Language
 
-1. **Metaphor**: "collecting words like a beggar gathering rain with an earthen pan."
+1. **Simile**: "collecting words like a beggar gathering rain with an earthen pan."
     - This suggests the narrator's desperation and eagerness to collect and understand every word she hears, similar to a beggar's desperation to collect rainwater.
 
-2. **Simile**: "Each word she uttered was a round stone, with the smoothness of something that had been rubbed and polished by the waves of a warm summer beach."
+2. **Metaphor**: "Each word she uttered was a round stone, with the smoothness of something that had been rubbed and polished by the waves of a warm summer beach."
     - This portrays words as tactile, smooth objects that have been refined over time, indicating the beauty and richness of the language.
 
 3. **Hyperbole**: "the ease with which continents shift and planets change course"
