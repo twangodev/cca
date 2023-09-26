@@ -1,0 +1,9 @@
+# Establishing Ethos - Differentiating Audiences
+
+## School Board:
+
+When presenting to people on the board of the school or even parents, I would begin by introducing myself and my credentials. This audience in this case would have more knowledge about the academic field than middle schoolers, which is something you could take advantage of. This includes the fact that I was recently or am in the student’s shoes, and I would make it clear that I am representing the majority of opinions at the school. This would allow for the audience to view me as someone credible. Another way I could use Ethos (as well as Logos I guess) is to bring up statistical data or studies. This would further increase my credibility as it allows for the audience to see that I have done research on this topic, like how being creative when dressing may lead to better academic performance. Finally, I would also offer opinions of people who would have different views, reinforcing the fact that I have researched deeply about this topic.
+
+## Middle Schoolers:
+
+When presenting to middle schoolers, I would tend to build ethos by using anecdotes. The reason for this is that anecdotes allow for the audience to be able to relate to the speaker (as they have experience), and when targeted towards a younger audience, this is something I would say is extremely effective. Using the idea of “I was once in your shoes”, I would say something along the lines like “When I was in middle school, I also wanted to be able to express my creativity with clothing, and not be confined to a strict uniform policy… etc.” Giving academic credentials in this case wouldn’t be super useful, as middle schoolers probably wouldn’t really care. However, social media could be used to further build ethos. Building ethos throughout will also act as a stepping stone towards pathos, as you can use this so called “experience” to gain trust among the audience.

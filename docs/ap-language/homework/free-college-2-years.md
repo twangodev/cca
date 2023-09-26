@@ -1,0 +1,21 @@
+# Make the First Two Years of College Free
+
+## Prompt
+
+1. What do you think is the most compelling fact included in the first paragraph? What does that information suggest about higher education in America?
+2. Summarize why “growing amounts of financial aid leave college unaffordable,” as Sara Goldrick-Rab and Nancy Kendall put it in paragraph 3. What do you think is the most serious reason?
+3. How would the plan out forth by Goldrick-Rab and Kendall simplify economic cost and encourage college enrollment and completion?
+4. How do the authors define “qualified students” in paragraphs 6 and 7? Do you agree with their idea of what it means to be qualified? Explain.
+5. Which of the specifics of the plan, designated by bullet points, do you find most compelling? Why?
+6. The authors conclude with four reasons that their model would appeal to Americans. Rank them in order of importance. Why would you prioritize them in that order?
+7. Goldrick-Rab and Kendall assert their plan would be “cost effective for everyone - and above all for working families and U.S. taxpayers” (para. 9). Can you imagine any possible objects to such a plan? What are they, and who might voice those objections?
+
+## Response
+
+1. The most compelling fact included in the first paragraph is that student loan debt in the United States has exceeded $1.7 trillion. This suggests that higher education in America is becoming increasingly unaffordable for many students, resulting in more and more people taking on significant debt to finance their education.
+2. Sara Goldrick-Rab and Nancy Kendall argue that growing amounts of financial aid leave college unaffordable because the cost of college tuition and fees continues to rise faster than the rate of inflation. The most serious reason for this is that it leads to students taking on high levels of debt, which can have long-lasting negative effects on their financial well-being.
+3. The plan put forth by Goldrick-Rab and Kendall would simplify economic cost and encourage college enrollment and completion by making the first two years of college free for all qualified students. This would remove a significant financial barrier for many students, making college more accessible and affordable.
+4. In paragraphs 6 and 7, the authors define "qualified students" as those who have graduated from high school or obtained a high school equivalency degree, and who are enrolled at least half-time in an eligible program at a public community college. I agree with their idea of what it means to be qualified, as this criteria ensures that the students who benefit from the plan have met the minimum requirements for pursuing higher education.
+5. The specific of the plan that I find most compelling is the provision for covering the cost of books and supplies, as this is often an overlooked expense that can add significantly to the overall cost of attending college.
+6. The four reasons that the authors give for why their model would appeal to Americans are: 1) it would reduce student loan debt, 2) it would increase access to higher education, 3) it would strengthen the economy, and 4) it would promote social mobility. I would rank these reasons in the following order of importance: 1) it would increase access to higher education, 2) it would promote social mobility, 3) it would reduce student loan debt, and 4) it would strengthen the economy. I prioritize these reasons in this order because increasing access to higher education and promoting social mobility are fundamental goals of education, and reducing student loan debt and strengthening the economy are positive outcomes that would result from achieving these goals.
+7. Possible objections to such a plan could come from individuals or groups who are opposed to government spending on education or who believe that making college free would devalue the educational experience. Some might also argue that the plan would unfairly benefit certain groups of students, such as those who are already well-off, or that it would be too expensive to implement.

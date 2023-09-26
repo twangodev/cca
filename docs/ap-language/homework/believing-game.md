@@ -1,0 +1,11 @@
+# Believing Game
+
+## Prompt
+
+Find an opinion piece – such as an editorial, a movie review, an op-ed column or a blog – that represents an opinion different from your own. Respond to it by playing the "believing game" - that is, write a short paragraph (8-9 sentences) in which you find a way to "believe" at least some part of your chosen piece. What did you learn by trying to "believe"? Did it affect your initial viewpoint about the piece?
+
+[10 things iOS does better than Android](https://www.androidauthority.com/ios-vs-android-1068950/)
+
+## Response
+
+In this article by Android Authority, I would say that there would be 3 main points this article makes that would be worth mentioning: performance, updates, and security. In terms of performance, Android authority argues that though today’s Android’s flagships are featured with faster processors and beefer batteries, their performance still often lacks due to how Android has been optimized. I would find this very believable from a software standpoint, there will oftentimes be performance tradeoffs for compatibility across different kinds of hardware, like the differences with ARM and x86 architecture. However, for iPhones, there’s only so many released every year, and this is where Apple’s silicon shines. The same logic goes with software updates - because there are so many different kinds of Androids, it is often impossible to release updates all at once, as they are often dependent to the manufacturer, but to Apple it is completely viable solution. However, I am still struggling to believe that Apple has better security than Android. While this idea holds true for an out of box iPhone, there are still many privacy enhancing features which Android offers in the long run that tend to provide a better idea of what security means to me. With apps such as Facebook, Instagram, YouTube, it is often impossible to get rid of tracking on the iPhone, but on Android this very easily achievable. This article didn’t really change too much about my initial viewpoint - as a consumer, purchase a phone that offers the most value to you.
