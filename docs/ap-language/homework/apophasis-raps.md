@@ -1,0 +1,5 @@
+# Apophasis RAPS
+
+When the author brings up a subject by saying that they will not mention it or by explicitly that they will discuss it. It is also known as praeteritio or paralipsis. Apophasis can be used to draw attention to a sensitive or controversial topic indirectly, to make an insinuation, or to create a sense of mystery or intrigue. It can also be used to criticize someone or something while appearing to take the high road by claiming not to engage in negative behavior. For example, a politician might say, "I won't stoop to my opponent's level by discussing their personal life," while insinuating that their opponent has something to hide.
+
+In her 2016 concession speech, Clinton strategically employs aphorism by acknowledging the issue of the glass ceiling for women in politics while simultaneously rejecting any intention of dwelling on it, as demonstrated by her statement: "I know we have still not shattered that highest and hardest glass ceiling, but someday someone will and hopefully sooner than we might think right now.”
