@@ -476,6 +476,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cca.twango.dev/ap-literature/notes/syntax.html</loc>
+         <lastmod>2023-09-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cca.twango.dev/ap-literature/notes/theme.html</loc>
          <lastmod>2023-09-26</lastmod>
          <changefreq>daily</changefreq>
