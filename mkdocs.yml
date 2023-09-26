@@ -18,6 +18,7 @@ nav:
       - Quiz 3: ap-calculus-bc/take-home-quiz/quiz-3.md
       - Quiz 4: ap-calculus-bc/take-home-quiz/quiz-4.md
   - AP Computer Science:
+    - Blue Pelican Java: ap-computer-science/blue-pelican-java.pdf
     - Introduction to Java: ap-computer-science/introduction-to-java.md
     - Variables: ap-computer-science/variables.md
     - Scanner: ap-computer-science/scanner.md
