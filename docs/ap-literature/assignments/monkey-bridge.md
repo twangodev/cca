@@ -25,3 +25,6 @@
     - The American Dream is personified as having the power to influence and attract, suggesting its allure and the narrator's growing attraction to it.
 
 From the use of these figurative expressions, it's evident that the narrator has a deeply ambivalent attitude towards her new language skills. On one hand, she is fascinated, eager, and marvels at the beauty and intricacy of the English language. On the other hand, there's a sense of loss, transformation, and the challenge of balancing between new cultural assimilation and preserving one's roots. The narrator feels the pull of the American Dream and the complexities of integrating into a new society while still reflecting on the communities that choose to maintain their distinct identities.
+
+## Claim
+Lan Cao in Monkey Bridge utilizes simile, personfication, and metaphors to demonstrate the contrast of the beauty of the English Language to one's historical roots.
