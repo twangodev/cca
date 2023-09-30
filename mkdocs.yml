@@ -18,6 +18,7 @@ nav:
       - Quiz 3: ap-calculus-bc/take-home-quiz/quiz-3.md
       - Quiz 4: ap-calculus-bc/take-home-quiz/quiz-4.md
   - AP Computer Science:
+    - Blue Pelican Java: ap-computer-science/blue-pelican-java.pdf
     - Introduction to Java: ap-computer-science/introduction-to-java.md
     - Variables: ap-computer-science/variables.md
     - Scanner: ap-computer-science/scanner.md
@@ -35,17 +36,58 @@ nav:
     - Arrays: ap-computer-science/arrays.md
     - Logic: ap-computer-science/logic.md
   - AP Language:
+    - Classwork:
+      - Analyzing Visual Texts: ap-language/classwork/analyzing-visual-texts.md
+      - Andrew Toles Washington Post: ap-language/classwork/andrew-toles-washington-post.md
+      - Barbie is Past Saving: ap-language/classwork/barbie-is-past-saving.md
+      - Bauerlein The Dumbest Generation: ap-language/classwork/bauerlein-the-dumbest-generation.md
+      - BLK History Month: ap-language/classwork/blk-history-month.md
+      - Clinton Concession Speech: ap-language/classwork/clinton-concession-speech.md
+      - College Claims of Value: ap-language/classwork/college-claims-of-value.md
+      - Conceding Arguments Turkle: ap-language/classwork/conceding-arguments-turkle.md
+      - Concept of Love: ap-language/classwork/concept-of-love.md
+      - Cost of College Synthesis Timed Write: ap-language/classwork/cost-of-college-synthesis-timed-write.md
+      - Damar Hamlin: ap-language/classwork/damar-hamlin.md
+      - Dumpster Diving Notes: ap-language/classwork/dumpster-diving-notes.md
+      - Exercises in Specificity: ap-language/classwork/exercises-in-specificity.md
+      - Felons Voting Counterclaim: ap-language/classwork/felons-voting-counterclaim.md
+      - Felons Right to Vote Timed Write: ap-language/classwork/felons-right-to-vote-timed-write.md
+      - Felons Voting Counterclaim: ap-language/classwork/felons-voting-counterclaim.md
+      - FRQ 2013 2: ap-language/classwork/frq-2013-2.md
+      - FRQ Unit 3: ap-language/classwork/frq-unit-3.md
+      - Ground Zero Mosque Speech: ap-language/classwork/ground-zero-mosque-speech.md
+      - Kristoff Response: ap-language/classwork/kristoff-response.md
+      - Lou Gehrigs Farewell Speech: ap-language/classwork/lou-gehrigs-farewell-speech.md
+      - Love Essay: ap-language/classwork/love-essay.md
+      - Malcolm X Rhetorical Situation: ap-language/classwork/malcolm-x-rhetorical-situation.md
+      - Next Level Barbie Evaluation: ap-language/classwork/next-level-barbie-evaluation.md
+      - Overrated FRQ: ap-language/classwork/overrated-frq.md
+      - Practice Argumentative Essay: ap-language/classwork/practice-argumentative-essay.md
+      - Practice Rhetorical Analysis: ap-language/classwork/practice-rhetorical-analysis.md
+      - Practice Synthesis: ap-language/classwork/practice-synthesis.md
+      - Pure Comedy Line of Reasoning: ap-language/classwork/pure-comedy-line-of-reasoning.md
+      - Sanders Free College: ap-language/classwork/sanders-free-college.md
+      - Serving in Florida: ap-language/classwork/serving-in-florida.md
+      - Sonia Sotomayor: ap-language/classwork/sonia-sotomayor.md
+      - Space Exploration Counter Argument: ap-language/classwork/space-exploration-counter-argument.md
+      - Superheroes Killed the Movie Star: ap-language/classwork/superheroes-killed-the-movie-star.md
+      - Suzanne Berne Where Nothing Says Everything: ap-language/classwork/suzanne-berne-where-nothing-says-everything.md
+      - Technology Education Quick Write: ap-language/classwork/technology-education-quick-write.md
+      - Thesis Practice: ap-language/classwork/thesis-practice.md
+      - Toulmin Model: ap-language/classwork/toulmin-model.md
+      - Unpaid College Athletes: ap-language/classwork/unpaid-college-athletes.md
     - Homework:
       - Abdul Jabbar: ap-language/homework/abdul-jabbar.md
       - Analyzing Sources: ap-language/homework/analyzing-sources.md
       - Apophasis RAPS: ap-language/homework/apophasis-raps.md
+      - Appositives Practice: ap-language/homework/appositives-practice.md
       - Believing Game: ap-language/homework/believing-game.md
       - Boxing Day: ap-language/homework/boxing-day.md
       - British Art Snots are Working in the Dark: ap-language/homework/british-art-snots-are-working-in-the-dark.md
       - Brooker T Washington Rhetorical Situation: ap-language/homework/brooker-t-washington-rhetorical-situation.md
       - Cesar Chavez: ap-language/homework/cesar-chavez.md
       - Class RAPS: ap-language/homework/class-raps.md
-      - Colorblind Environment: ap-language/homework/colorblind-environment.md
+      - Colorblind Environmentalism: ap-language/homework/colorblind-environmentalism.md
       - Declarative of Independence: ap-language/homework/declarative-of-independence.md
       - Direct Precise Active Passive: ap-language/homework/direct-precise-active-passive.md
       - Dog Refugee Analysis: ap-language/homework/dog-refugee-analysis.md
@@ -66,7 +108,7 @@ nav:
       - Lincoln Inaugural Address: ap-language/homework/lincoln-inaugural-address.md
       - My First Lifeline Maya Angelou: ap-language/homework/my-first-lifeline-maya-angelou.md
       - No Free College: ap-language/homework/no-free-college.md
-      - Oklahoma Bombing Memorial Prayer Service: ap-language/homework/oklahoma-bombing-memorial-prayer-service.md
+      - Oklahoma Bombing Memorial Prayer Service Address: ap-language/homework/oklahoma-bombing-memorial-prayer-service-address.md
       - Onion Girl Moved to Tears: ap-language/homework/onion-girl-moved-to-tears.md
       - Paying College Athletes: ap-language/homework/paying-college-athletes.md
       - Pure Comedy Response: ap-language/homework/pure-comedy-response.md
@@ -78,6 +120,14 @@ nav:
       - Synthesis Essay Notes: ap-language/homework/synthesis-essay-notes.md
       - The Hill We Climb: ap-language/homework/the-hill-we-climb.md
       - Toulmin Model Rewrites: ap-language/homework/toulmin-model-rewrites.md
+    - Index Cards:
+      - Diction: ap-language/index-cards/diction.md
+      - Irony: ap-language/index-cards/irony.md
+      - Parallelism: ap-language/index-cards/parallelism.md
+      - Rhetorical: ap-language/index-cards/rhetorical.md
+      - Syntax: ap-language/index-cards/syntax.md
+      - Text Arrangement: ap-language/index-cards/text-arrangement.md
+      - Tone: ap-language/index-cards/tone.md
     - Rhetoric:
       - What is Rhetoric: ap-language/rhetoric/what-is-rhetoric.md
       - Rhetorical Situation: ap-language/rhetoric/rhetorical-situation.md
@@ -114,6 +164,7 @@ nav:
         - Poetry: ap-literature/notes/poetry.md
         - Pygmalion: ap-literature/notes/pygmalion.md
         - Shifts: ap-literature/notes/shifts.md
+        - Syntax: ap-literature/notes/syntax.md
         - Theme: ap-literature/notes/theme.md
       - Timed Writes:
           - Blind Date - Lydia Davis: ap-literature/timed-writes/blind-date-lydia-davis.md
@@ -141,6 +192,8 @@ nav:
       - Chapter 2: economics/notes/chapter-2.md
       - Chapter 3: economics/notes/chapter-3.md
       - Chapter 4: economics/notes/chapter-4.md
+    - Study Guide:
+      - Chapter 3-4: economics/study-guide/chapter-3-4.md
   - Senior Bible:
     - What If Jesus Was Serious:
       - Intro, 1.1-2: senior-bible/wijws/1.1-1.2.md

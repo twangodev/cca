@@ -1,9 +1,9 @@
 # Monkey Bridge Figurative Language
 
-1. **Metaphor**: "collecting words like a beggar gathering rain with an earthen pan."
+1. **Simile**: "collecting words like a beggar gathering rain with an earthen pan."
     - This suggests the narrator's desperation and eagerness to collect and understand every word she hears, similar to a beggar's desperation to collect rainwater.
 
-2. **Simile**: "Each word she uttered was a round stone, with the smoothness of something that had been rubbed and polished by the waves of a warm summer beach."
+2. **Metaphor**: "Each word she uttered was a round stone, with the smoothness of something that had been rubbed and polished by the waves of a warm summer beach."
     - This portrays words as tactile, smooth objects that have been refined over time, indicating the beauty and richness of the language.
 
 3. **Hyperbole**: "the ease with which continents shift and planets change course"
@@ -25,3 +25,6 @@
     - The American Dream is personified as having the power to influence and attract, suggesting its allure and the narrator's growing attraction to it.
 
 From the use of these figurative expressions, it's evident that the narrator has a deeply ambivalent attitude towards her new language skills. On one hand, she is fascinated, eager, and marvels at the beauty and intricacy of the English language. On the other hand, there's a sense of loss, transformation, and the challenge of balancing between new cultural assimilation and preserving one's roots. The narrator feels the pull of the American Dream and the complexities of integrating into a new society while still reflecting on the communities that choose to maintain their distinct identities.
+
+## Claim
+Lan Cao in Monkey Bridge utilizes simile, personfication, and metaphors to demonstrate the contrast of the beauty of the English Language to one's historical roots.
