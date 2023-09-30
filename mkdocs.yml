@@ -128,6 +128,10 @@ nav:
     - Chapter 8 - Sampling Variability and Sampling Distributions: ap-statistics/chapter-8.md
     - Chi Square Tests: ap-statistics/chi-squared-tests.md
     - Inference: ap-statistics/inference.md
+  - Biology:
+    - Unit 1 Ecology:
+      - Module 4 Population Ecology:
+        - Lesson 1 Progress Check: biology/unit-1-ecology/module-4-population-ecology/lesson-1-progress-check.md
   - Economics:
     - Assignments:
       - Kidney Opportunity Cost: economics/assignments/kidney-opportunity-cost.md
@@ -219,7 +223,7 @@ plugins:
   - search
   - glightbox
   - offline
-  - social
+#  - social
 
 markdown_extensions:
   - abbr
