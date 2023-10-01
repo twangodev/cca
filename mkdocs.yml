@@ -4,6 +4,7 @@ repo_name: twangodev/cca
 repo_url: https://github.com/twangodev/cca
 edit_uri: edit/main/docs/
 
+site_author: James Ding
 site_url: https://cca.twango.dev
 site_description: A handy guide and reference for students at California Crosspoint Academy.
 
@@ -276,7 +277,7 @@ plugins:
   - search
   - glightbox
   - offline
-#  - social
+  - social
 
 markdown_extensions:
   - abbr
