@@ -4,6 +4,7 @@ repo_name: twangodev/cca
 repo_url: https://github.com/twangodev/cca
 edit_uri: edit/main/docs/
 
+site_author: James Ding
 site_url: https://cca.twango.dev
 site_description: A handy guide and reference for students at California Crosspoint Academy.
 
@@ -179,6 +180,10 @@ nav:
     - Chapter 8 - Sampling Variability and Sampling Distributions: ap-statistics/chapter-8.md
     - Chi Square Tests: ap-statistics/chi-squared-tests.md
     - Inference: ap-statistics/inference.md
+  - Biology:
+    - Unit 1 Ecology:
+      - Module 4 Population Ecology:
+        - Lesson 1 Progress Check: biology/unit-1-ecology/module-4-population-ecology/lesson-1-progress-check.md
   - Economics:
     - Assignments:
       - Kidney Opportunity Cost: economics/assignments/kidney-opportunity-cost.md
