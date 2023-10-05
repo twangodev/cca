@@ -8,6 +8,7 @@ mkdocs-material = "*"
 mkdocs-glightbox = "*"
 cairosvg = "*"
 mkdocs-minify-plugin = "*"
+mkdocs-charts-plugin = "*"
 
 [dev-packages]
 
