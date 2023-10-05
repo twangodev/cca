@@ -189,12 +189,14 @@ nav:
   - Economics:
     - Assignments:
       - Kidney Opportunity Cost: economics/assignments/kidney-opportunity-cost.md
+      - Pickleball Supply and Demand: economics/assignments/pickleball-supply-and-demand.md
       - The Road Not Taken: economics/assignments/the-road-not-taken.md
     - Notes:
       - Chapter 1: economics/notes/chapter-1.md
       - Chapter 2: economics/notes/chapter-2.md
       - Chapter 3: economics/notes/chapter-3.md
       - Chapter 4: economics/notes/chapter-4.md
+      - Chapter 5: economics/notes/chapter-5.md
     - Study Guide:
       - Chapter 3-4: economics/study-guide/chapter-3-4.md
   - Senior Bible:
@@ -279,7 +281,7 @@ plugins:
   - search
   - glightbox
   - offline
-#  - social
+  - social
 
 markdown_extensions:
   - abbr
