@@ -184,6 +184,8 @@ nav:
     - Unit 1 Ecology:
       - Module 4 Population Ecology:
         - Lesson 1 Progress Check: biology/unit-1-ecology/module-4-population-ecology/lesson-1-progress-check.md
+      - Module 5 Biodiversity and Conservation:
+        - Lesson 1-2 Progress Check: biology/unit-1-ecology/module-5-biodiversity-and-conservation/lesson-1-2-progress-check.md
   - Economics:
     - Assignments:
       - Kidney Opportunity Cost: economics/assignments/kidney-opportunity-cost.md
@@ -277,7 +279,7 @@ plugins:
   - search
   - glightbox
   - offline
-  - social
+#  - social
 
 markdown_extensions:
   - abbr
