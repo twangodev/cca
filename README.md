@@ -1,8 +1,10 @@
+# cca
+
 Notes and resources for some classes taken at California Crosspoint Academy during the 2017-2024 academic years.
 
 Resources for the courses are under the ./docs directory, which others may find useful.
-Feel free to leave a star or share this with a friend if you found this useful <3.
+Feel free to leave a star or share this with a friend if you found this useful :heart:.
 
-Links:
+## Links:
 
-    https://cca.twango.dev
+[cca.twango.dev](https://cca.twango.dev)
