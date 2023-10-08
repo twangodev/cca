@@ -28,8 +28,8 @@
         },
         "mark": "line",
         "encoding": {
-        "x": {"field": "Quantity", "type": "quantitative", "title": "Quantity"},
-        "y": {"field": "Price", "type": "quantitative", "title": "Price"}
+            "x": {"field": "Quantity", "type": "quantitative", "title": "Quantity"},
+            "y": {"field": "Price", "type": "quantitative", "title": "Price"}
         }
     }
     ```
@@ -124,7 +124,7 @@
       "encoding": {
         "x": {"field": "Quantity", "type": "quantitative", "title": "Quantity"},
         "y": {"field": "Price", "type": "quantitative", "title": "Price"},
-        "color": {"field": "Curve", "type": "nominal", "title": "Curve"}
+        "color": {"field": "Curve", "type": "nominal", "title": "Curve", "legend": {"orient": "bottom"}}
       }
     }
     ```
