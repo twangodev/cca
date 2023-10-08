@@ -283,6 +283,7 @@ plugins:
   - glightbox
   - offline
   - social
+  - charts
   - minify:
       minify_html: true
       minify_js: true
