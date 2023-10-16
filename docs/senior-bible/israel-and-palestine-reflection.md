@@ -2,6 +2,7 @@
 
 ## Prompt
 Articles:
+
 - [CHRISTIAN LEADERS CONDEMN VIOLENCE, YET URGE JUSTICE FOR PALESTINE](https://sojo.net/articles/christian-leaders-condemn-violence-yet-urge-justice-palestine)
 - [WHAT CHRISTIAN PEACE BUILDING LOOKS LIKE IN ISRAEL AND PALESTINE](https://sojo.net/articles/reconstruct/what-christian-peace-building-looks-israel-and-palestine)
 
@@ -15,8 +16,6 @@ Read the following two articles from Sojourners - "Christian Leaders: Condemn Vi
 6. Respond to the following quote, "Despair is the luxury of the privileged." What does this mean to you? How do you hold hope and solidarity?
 
 ## Response
-Sure, here's a more concise response to each of your questions:
-
 1. I know the conflict has been a historical issue, which was intertwined with religious and nationalistic claims to the territory. However, I don't really know too much about the details of why and what the conflict is specifically about.
 2. I found this article slightly saddening, but it also allowed me to develop a more informed perspective about this conflict. I don't think I'm necessarily overwhelmed - rather more intrigued/understanding.
 3. It's crucial to approach the Israel-Palestine conflict with nuance. Encouraging a broader understanding of both sides' historical and present contexts can promote more holistic solutions and mutual respect.
