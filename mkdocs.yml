@@ -186,13 +186,11 @@ nav:
     - Inference: ap-statistics/inference.md
   - Biology:
     - Unit 1 Ecology:
-      - Module 4 Population Ecology:
-        - Lesson 1 Progress Check: biology/unit-1-ecology/module-4-population-ecology/lesson-1-progress-check.md
-      - Module 5 Biodiversity and Conservation:
-        - Lesson 1-2 Progress Check: biology/unit-1-ecology/module-5-biodiversity-and-conservation/lesson-1-2-progress-check.md
       - Module 4 Lesson 1: biology/unit-1-ecology/m4-l1.md
       - Module 5 Lesson 1: biology/unit-1-ecology/m5-l1.md
       - Module 5 Lesson 2: biology/unit-1-ecology/m5-l2.md
+    - Unit 6 The Human Body:
+      - Module 25 Lesson 1: biology/unit-6-the-human-body/m25-l1.md
   - Economics:
     - Assignments:
       - Kidney Opportunity Cost: economics/assignments/kidney-opportunity-cost.md
