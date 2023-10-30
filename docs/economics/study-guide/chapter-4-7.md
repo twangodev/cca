@@ -86,5 +86,3 @@
 
 ## Market Failure
 - A situation where the allocation of goods and services is not efficient, leading to a net social welfare loss.
-
-This guide provides a concise overview of each topic. For a deeper understanding, additional resources such as textbooks, online materials, or academic journals can be explored.
