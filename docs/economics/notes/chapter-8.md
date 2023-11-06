@@ -67,5 +67,3 @@
   - Earned on savings and investments.
 
 - **Principal**: The base amount in savings, investments, or loans.
-
-By reorganizing the information into clear sections that flow logically from the basics of money to the complexities of investing, this structure provides a comprehensive overview suitable for individuals seeking to enhance their financial literacy.
