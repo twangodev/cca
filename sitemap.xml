@@ -946,11 +946,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cca.twango.dev/senior-bible/in-pursuit-of-jesus-reflection-questions.html</loc>
-         <lastmod>2023-11-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://cca.twango.dev/senior-bible/israel-and-palestine-reflection.html</loc>
          <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
@@ -962,6 +957,16 @@
     </url>
     <url>
          <loc>https://cca.twango.dev/senior-bible/personal-collect.html</loc>
+         <lastmod>2023-11-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/senior-bible/in-pursuit-of-jesus/project.html</loc>
+         <lastmod>2023-11-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/senior-bible/in-pursuit-of-jesus/reflection-questions.html</loc>
          <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
