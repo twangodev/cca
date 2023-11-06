@@ -137,8 +137,6 @@ nav:
     - Irony Timed Write: ap-language/irony-timed-write.md
     - Semester 1 Final: ap-language/semester-1-final.md
   - AP Literature:
-      - Annotations:
-        - Fools Crow: ap-literature/annotations/fools-crow.pdf
       - Assignments:
         - Analyzing Plot Structure: ap-literature/assignments/analyzing-plot-structure.md
         - Analyzing Symbol: ap-literature/assignments/analyzing-symbol.md
@@ -315,7 +313,7 @@ plugins:
   - search
   - glightbox
   - offline
-  - social
+#  - social
   - charts
   - minify:
       minify_html: true
