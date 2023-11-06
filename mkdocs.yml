@@ -4,6 +4,7 @@ repo_name: twangodev/cca
 repo_url: https://github.com/twangodev/cca
 edit_uri: edit/main/docs/
 
+site_author: James Ding
 site_url: https://cca.twango.dev
 site_description: A handy guide and reference for students at California Crosspoint Academy.
 
@@ -144,12 +145,13 @@ nav:
     - Irony Timed Write: ap-language/irony-timed-write.md
     - Semester 1 Final: ap-language/semester-1-final.md
   - AP Literature:
-      - Annotations:
-        - Fools Crow: ap-literature/annotations/fools-crow.pdf
       - Assignments:
         - Analyzing Plot Structure: ap-literature/assignments/analyzing-plot-structure.md
+        - Analyzing Symbol: ap-literature/assignments/analyzing-symbol.md
+        - Chapter 1-5 Reflection Questions: ap-literature/assignments/chapter-1-5-reflection-questions.md
         - Characterization of the First Day: ap-literature/assignments/characterization-first-day.md
         - Everyday Use: ap-literature/assignments/everyday-use.md
+        - Fall of the House of Usher Theme Analysis: ap-literature/assignments/fall-of-the-house-of-usher-theme-analysis.md
         - Happiness Claims: ap-literature/assignments/happiness-claims.md
         - Hills Like White Elephants (POV): ap-literature/assignments/hills-like-white-elephants-pov.md
         - Introduction to Poetry - Billy Collins: ap-literature/assignments/introduction-to-poetry-billy-collins.md
@@ -158,12 +160,19 @@ nav:
         - Liquor Divorce: ap-literature/assignments/liquor-divorce.md
         - Monkey Bridge: ap-literature/assignments/monkey-bridge.md
         - My Yellow Coat: ap-literature/assignments/my-yellow-coat.md
+        - Nathaniel Hawthorn Comparison: ap-literature/assignments/nathaniel-hawthorn-comparison.md
         - Pygmalion Act 2 Lesson Plan: ap-literature/assignments/pygmalion-act-2-lesson-plan.md
         - Solitude Noiseless Patient Spider: ap-literature/assignments/solitude-noiseless-patient-spider.md
         - Walker, Mansfield, Joyce Text: ap-literature/assignments/walker-mansfield-joyce.md
+        - Young Goodman Brown Dream: ap-literature/assignments/young-goodman-brown-dream-or-reality.md
+        - Young Goodman Brown Significance Passages: ap-literature/assignments/young-goodman-brown-significance-passages.md
+        - Young Goodman Brown Symbol Allegory Analysis: ap-literature/assignments/young-goodman-brown-symbol-allegory-analysis.md
+      - Classwork:
+        - Ethical Criticism Socratic Seminar: ap-literature/classwork/ethical-criticism-socratic-seminar.md
       - Notes:
         - Argumentation: ap-literature/notes/argumentation.md
         - Characters and Plot: ap-literature/notes/characters-and-plot.md
+        - Compression: ap-literature/notes/compression.md
         - Contrast: ap-literature/notes/contrast.md
         - Digging - Seamus Heaney: ap-literature/notes/digging-seamus-heaney.md
         - Fiction: ap-literature/notes/fiction.md
@@ -171,34 +180,63 @@ nav:
         - Narrative Perspective & POV: ap-literature/notes/narrative-perspective-pov.md
         - Poetry: ap-literature/notes/poetry.md
         - Pygmalion: ap-literature/notes/pygmalion.md
+        - Romantic Period: ap-literature/notes/romantic-period.md
         - Shifts: ap-literature/notes/shifts.md
         - Syntax: ap-literature/notes/syntax.md
         - Theme: ap-literature/notes/theme.md
       - Timed Writes:
           - Blind Date - Lydia Davis: ap-literature/timed-writes/blind-date-lydia-davis.md
+          - Hawthorn Prose Timed Write: ap-literature/timed-writes/hawthorn-prose-timed-write.md
+          - Pygmalion: ap-literature/timed-writes/pygmalion.md
           - Unit 2 FRQ: ap-literature/timed-writes/unit-2-frq.md
   - AP Statistics:
-    - Chapter 1 - Collecting Data in Reasonable Ways: ap-statistics/chapter-1.md
-    - Chapter 2 - Graphical Methods for Describing Data Distributions: ap-statistics/chapter-2.md
-    - Chapter 3 - Numerical Methods for Describing Data Distributions: ap-statistics/chapter-3.md
-    - Chapter 4 - Describing Bivariate Numerical Data: ap-statistics/chapter-4.md
-    - Chapter 5 - Probability: ap-statistics/chapter-5.md
-    - Chapter 6 - Random Variables and Probability Distributions: ap-statistics/chapter-6.md
-    - Chapter 8 - Sampling Variability and Sampling Distributions: ap-statistics/chapter-8.md
+    - Collecting Data in Reasonable Ways: ap-statistics/chapter-1.md
+    - Graphical Methods for Describing Data Distributions: ap-statistics/chapter-2.md
+    - Numerical Methods for Describing Data Distributions: ap-statistics/chapter-3.md
+    - Describing Bivariate Numerical Data: ap-statistics/chapter-4.md
+    - Probability: ap-statistics/chapter-5.md
+    - Random Variables and Probability Distributions: ap-statistics/chapter-6.md
+    - Sampling Variability and Sampling Distributions: ap-statistics/chapter-8.md
     - Chi Square Tests: ap-statistics/chi-squared-tests.md
     - Inference: ap-statistics/inference.md
+  - Biology:
+    - Unit 1 Ecology:
+      - Module 4 Lesson 1: biology/unit-1-ecology/m4-l1.md
+      - Module 5 Lesson 1: biology/unit-1-ecology/m5-l1.md
+      - Module 5 Lesson 2: biology/unit-1-ecology/m5-l2.md
+    - Unit 2 The Cell:
+      - Module 7 Lesson 1: biology/unit-2-the-cell/m7-l1.md
+      - Module 7 Lesson 2: biology/unit-2-the-cell/m7-l2.md
+      - Module 7 Lesson 3: biology/unit-2-the-cell/m7-l3.md
+      - Module 7 Lesson 4: biology/unit-2-the-cell/m7-l4.md
+    - Unit 6 The Human Body:
+      - Module 25 Lesson 1: biology/unit-6-the-human-body/m25-l1.md
+      - Module 25 Lesson 2: biology/unit-6-the-human-body/m25-l2.md
+      - Module 25 Lesson 3: biology/unit-6-the-human-body/m25-l3.md
   - Economics:
     - Assignments:
       - Kidney Opportunity Cost: economics/assignments/kidney-opportunity-cost.md
+      - Pickleball Supply and Demand: economics/assignments/pickleball-supply-and-demand.md
+      - Supply and Demand Worksheet: economics/assignments/supply-and-demand-worksheet.md
+      - Supply Demand Questions: economics/assignments/supply-demand-questions.md
       - The Road Not Taken: economics/assignments/the-road-not-taken.md
     - Notes:
       - Chapter 1: economics/notes/chapter-1.md
       - Chapter 2: economics/notes/chapter-2.md
       - Chapter 3: economics/notes/chapter-3.md
       - Chapter 4: economics/notes/chapter-4.md
+      - Chapter 5: economics/notes/chapter-5.md
+      - Chapter 6: economics/notes/chapter-6.md
+      - Chapter 7: economics/notes/chapter-7.md
+      - Chapter 8: economics/notes/chapter-8.md
     - Study Guide:
       - Chapter 3-4: economics/study-guide/chapter-3-4.md
+      - Chapter 3-7: economics/study-guide/chapter-3-7.md
+      - Chapter 4-7: economics/study-guide/chapter-4-7.md
   - Senior Bible:
+    - In Pursuit of Jesus:
+      - Project: senior-bible/in-pursuit-of-jesus/project.md
+      - Reflection Questions: senior-bible/in-pursuit-of-jesus/reflection-questions.md
     - What If Jesus Was Serious:
       - Intro, 1.1-2: senior-bible/wijws/1.1-1.2.md
       - 1.3 - 1.4: senior-bible/wijws/1.3-1.4.md
@@ -207,6 +245,12 @@ nav:
       - 1.9 - 2.1: senior-bible/wijws/1.9-2.1.md
       - 2.2 - 2.3: senior-bible/wijws/2.2-2.3.md
       - 2.4 - 2.5: senior-bible/wijws/2.4-2.5.md
+      - 2.6 - 2.7: senior-bible/wijws/2.6-2.7.md
+      - 3.1 - 3.2: senior-bible/wijws/3.1-3.2.md
+      - 3.3 - 3.4: senior-bible/wijws/3.3-3.4.md
+      - 3.5 - 3.7: senior-bible/wijws/3.5-3.7.md
+    - Israel and Palestine Reflection: senior-bible/israel-and-palestine-reflection.md
+    - Lent Devotional: senior-bible/lent-devotional.md
     - Personal Collect: senior-bible/personal-collect.md
   - US History:
     - 3 The American Revolution:
@@ -281,6 +325,11 @@ plugins:
   - glightbox
   - offline
   - social
+  - charts
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
 
 markdown_extensions:
   - abbr
@@ -304,6 +353,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -319,6 +371,9 @@ extra_javascript:
   - https://unpkg.com/kotlin-playground@1
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
 
 extra_css:
   - stylesheets/kotlin.css

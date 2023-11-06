@@ -1,4 +1,4 @@
-# Study Guide
+# Study Guide 3-4
 
 ## Economic Equality
 The idea that all individuals or households have equal access to resources and wealth. Aimed at reducing wealth gaps and disparities.

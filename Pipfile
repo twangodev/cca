@@ -7,8 +7,10 @@ name = "pypi"
 mkdocs-material = "*"
 mkdocs-glightbox = "*"
 cairosvg = "*"
+mkdocs-minify-plugin = "*"
+mkdocs-charts-plugin = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3"
