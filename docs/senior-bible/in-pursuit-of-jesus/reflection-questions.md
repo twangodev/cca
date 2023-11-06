@@ -10,11 +10,7 @@
 ## Response
 
 1. This usually implies seeking to understand his teachings, life, and significance, and trying to align one's life with those teachings and values. The Christian narrative posits that while individuals might pursue a relationship with Jesus, there's also the belief in Jesus (or God) pursuing humanity — this is seen in concepts like grace and salvation.
-
 2. Food, Culture, and Hospitality. These are often central in asian culture, where asking whether or not one ate is apart of social customs. I don't think this perspective has neccisarily challanged what I thought what Christianity was - there is a very clear social aspect that is apart of it. Sharing meals and opening one's home can bridge cultural and religious divides.
-
 3. Trying to initially wrap my head around the fact that food can be used as a social element. When I was younger, I never necessarily realized that food could be used in such a manner and in general, found it a bit pointless.
-
 4. For me, understanding the diverse cultural and historical contexts of Christianity allowed me to gain a deeper insight about the meaning of faith. But I don't think I understand or see my self aligning with the full picture yet.
-
 5. Considering the rise of Christianity in Eastern Asia (where religion is often put second), countries like China or South Korea could offer unique perspectives. Every region and culture will have its unique relationship with Christianity and its understanding of pursuing Jesus.
