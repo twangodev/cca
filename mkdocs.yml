@@ -134,6 +134,14 @@ nav:
       - Rhetorical Situation: ap-language/rhetoric/rhetorical-situation.md
       - Rhetoric Triangle: ap-language/rhetoric/rhetoric-triangle.md
       - Ethos Logos Pathos: ap-language/rhetoric/ethos-logos-pathos.md
+    - Writing:
+      - Argument: ap-language/writing/argument.md
+      - Claims: ap-language/writing/claims.md
+      - Evidence: ap-language/writing/evidence.md
+      - Grammar: ap-language/writing/grammar.md
+      - Stylistic Strategy: ap-language/writing/stylistic-strategy.md
+      - Thesis: ap-language/writing/thesis.md
+      - Verbs: ap-language/writing/verbs.md
     - Irony Timed Write: ap-language/irony-timed-write.md
     - Semester 1 Final: ap-language/semester-1-final.md
   - AP Literature:
@@ -226,6 +234,8 @@ nav:
       - Chapter 3-4: economics/study-guide/chapter-3-4.md
       - Chapter 3-7: economics/study-guide/chapter-3-7.md
       - Chapter 4-7: economics/study-guide/chapter-4-7.md
+  - PreCalc Honors:
+    - Copernicus Research Report: precalc-honors/copernicus-research-report.md
   - Senior Bible:
     - In Pursuit of Jesus:
       - Project: senior-bible/in-pursuit-of-jesus/project.md
@@ -286,6 +296,19 @@ nav:
       - Slavery DBQ: us-history/homework/slavery-dbq.md
       - The Civil Rights Era: us-history/homework/the-civil-rights-era.md
       - Vietnam War Webquest: us-history/homework/vietnam-war-webquest.md
+  - World History:
+    - Civic Discussion:
+        - Presentation: world-history/civic-discussion/presentation.md
+    - Minecraft Open House:
+        - Essay: world-history/minecraft-open-house/essay.md
+        - Outline: world-history/minecraft-open-house/outline.md
+    - Alliance Activity: world-history/alliance-activity.md
+    - Classical Greek Essay: world-history/classical-greek-essay.md
+    - Egypt Pyramids: world-history/egypt-pyramids.md
+    - Government Debate: world-history/government-debate.md
+    - Medival Period Government Influence: world-history/medival-period-government-influence.md
+
+
 theme:
   name: material
   logo: assets/cca.png
