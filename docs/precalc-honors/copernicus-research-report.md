@@ -1,0 +1,9 @@
+# Copernicus Research Report
+
+Nicolaus Copernicus is a well known German mathematician and astronomer during the Middle Ages. He was born on February 19, 1473 and passed away on May 24, 1543, at the age 70. Throughout his life, he made several major contributions to the mathematical and astronomical communities, his most well known contribution being the idea of a heliocentric universe (the idea of the Earth revolving around the Sun, contrary to what people during the Middle Ages believed). 
+
+Copernicus was born in a relatively wealthy family, and he was the youngest of his four siblings. However, his father died when he was just ten years old, and his uncle, Lucas Watzenrode the Younger, decided that it would be best for Copernicus to pursue education. When Copernicus was 18, he began studying at the University of Kraków. After studying at Kraków, he studied at the University of Bologna, University of Padua, and the University of Ferrara. In the University of Ferrara, he studied under Demenico Maria Novara de Ferrara, who became his mentor.
+
+Copernicus' discovery on the Earth revolving around the Sun is one of his well known achievements - it is something that the current model of the universe is based off of. Some lesser known accomplishment by Copernicus would be the Quantity Theory of Money (QTM). QTM basically says that the general price level of goods and services is directly proportional to the amount of money in circulation, and I think it's something that is taught in AP Macroeconomics.
+
+I chose Copernicus because I actually had to do research on Galileo Galilei (another astronomer) a couple months ago for an English paper. In the article I read about Galileo Galilei proving the idea of heliocentrism - an idea that Copernicus created. Because of this, I decided to choose Copernicus for my research report
