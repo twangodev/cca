@@ -295,6 +295,19 @@ nav:
       - Slavery DBQ: us-history/homework/slavery-dbq.md
       - The Civil Rights Era: us-history/homework/the-civil-rights-era.md
       - Vietnam War Webquest: us-history/homework/vietnam-war-webquest.md
+  - World History:
+    - Civic Discussion:
+        - Presentation: world-history/civic-discussion/presentation.md
+    - Minecraft Open House:
+        - Essay: world-history/minecraft-open-house/essay.md
+        - Outline: world-history/minecraft-open-house/outline.md
+    - Alliance Activity: world-history/alliance-activity.md
+    - Classical Greek Essay: world-history/classical-greek-essay.md
+    - Egypt Pyramids: world-history/egypt-pyramids.md
+    - Government Debate: world-history/government-debate.md
+    - Medival Period Government Influence: world-history/medival-period-government-influence.md
+
+
 theme:
   name: material
   logo: assets/cca.png
