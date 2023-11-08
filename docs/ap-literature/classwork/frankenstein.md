@@ -1,0 +1,13 @@
+# Frankenstein Reflection
+
+## Prompt
+
+1. How is nature serving as a character in Shelley's novel thus far? How is nature, as a setting illuminating our characters - Walton, Frankenstein, and the Creation.
+2. What does Frankenstein owe his creation? Is this a confession about William? Do you think Frankenstein believes him? What would you have done if given this ultimatum?
+3. How trustworthy is Frankenstein as a narrator? Explain your answer with evidence from the text.
+
+## Response
+
+1. For Victor Frankenstein, nature alternates between a source of isolation and stark juxtaposition to the grotesque artificiality of his creation, highlighting his inner turmoil. The Creature, on the other hand, finds in nature an educator and comforter, demonstrating his innocence and desire for belonging. Nature's dual role as both healer and mirror in the novel accentuates the Romantic emphasis on the emotional resonance of the natural world with human experiences. Ultimately, nature in "Frankenstein" acts as a pivotal force that both shapes and reflects the journeys of Walton, Frankenstein, and the Creature.
+2. Frankenstein owes his creation the attention that he should have gave him from the start. In a sense, because this is Frankenstein's creation, it's very much similar to a parent-child relationship, in this case since the parent has thrown away their creation, it's ultimately up to what the creation should do. If taking responsibility means obliging with the creations demands, then go for it. If given this ultimatum, I would have agreed this ultimatum. The minimum in which Frankenstein should do is respect and acknowledgement of his decision.
+3. Frankenstein would be a relatively trustworthy narrator, as he already has been through the story, there does not seem much to lose for him. By lying or covering any of the details up, it wouldn't strictly give him any immediate benefits. The story he gives is filled with both the highs and lows, which make the story feel real and genuine. However, I still do see the possibility of Frankenstein lying to himself, as he is still may be in denial of his creation. This is supported as he initially refuses to acknowledge the existence of his creation, and even after he does, he still refuses to take responsibility for his creation. Therefore, I think it's likely that Frankenstein is being truthful, but he may be providing less emphasis on certain details that he wishes to forget/deny.
