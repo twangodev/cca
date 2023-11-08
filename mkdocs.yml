@@ -10,6 +10,8 @@ site_description: A handy guide and reference for students at California Crosspo
 
 nav:
   - Home: index.md
+  - Algebra 2 Honors:
+    - Final Cheat Sheet: algebra-2-honors/final-cheat-sheet.md
   - AP Calculus BC:
     - Assignments:
       - Limits Review: ap-calculus-bc/assignments/limits-review.pdf
