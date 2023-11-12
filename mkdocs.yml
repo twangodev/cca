@@ -10,6 +10,8 @@ site_description: A handy guide and reference for students at California Crosspo
 
 nav:
   - Home: index.md
+  - Algebra 2 Honors:
+    - Final Cheat Sheet: algebra-2-honors/final-cheat-sheet.md
   - AP Calculus BC:
     - Assignments:
       - Limits Review: ap-calculus-bc/assignments/limits-review.pdf
@@ -211,6 +213,7 @@ nav:
       - Module 7 Lesson 3: biology/unit-2-the-cell/m7-l3.md
       - Module 7 Lesson 4: biology/unit-2-the-cell/m7-l4.md
     - Unit 6 The Human Body:
+      - Module 23 Lesson 1: biology/unit-6-the-human-body/m23-l1.md
       - Module 25 Lesson 1: biology/unit-6-the-human-body/m25-l1.md
       - Module 25 Lesson 2: biology/unit-6-the-human-body/m25-l2.md
       - Module 25 Lesson 3: biology/unit-6-the-human-body/m25-l3.md
