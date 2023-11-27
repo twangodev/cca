@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cca.twango.dev/ap-calculus-bc/review/series-methods-and-tests.html</loc>
+         <lastmod>2023-11-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cca.twango.dev/ap-calculus-bc/take-home-quiz/quiz-1.html</loc>
          <lastmod>2023-11-27</lastmod>
          <changefreq>daily</changefreq>
@@ -652,6 +657,11 @@
     </url>
     <url>
          <loc>https://cca.twango.dev/ap-literature/assignments/frankenstein-feminist-quotes.html</loc>
+         <lastmod>2023-11-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/ap-literature/assignments/frankenstein-revenge-and-justice.html</loc>
          <lastmod>2023-11-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
