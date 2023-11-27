@@ -1,5 +1,7 @@
 # cca
 
+![](https://img.shields.io/github/repo-size/twangodev/cca)
+
 Notes and resources for some classes taken at [California Crosspoint Academy](https://crosspointacademy.org) during the 2017-2024 academic years.
 
 Resources for the courses are under the `./docs` directory, which others may find useful.
