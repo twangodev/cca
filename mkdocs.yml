@@ -8,6 +8,8 @@ site_author: James Ding
 site_url: https://cca.twango.dev
 site_description: A handy guide and reference for students at California Crosspoint Academy.
 
+docs_dir: src
+
 theme:
   name: material
   logo: assets/cca.png
@@ -22,6 +24,8 @@ theme:
     - content.tabs.link
 
   palette:
+    - primary: red
+    - accent: red
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: custom
@@ -39,7 +43,7 @@ plugins:
   - search
   - glightbox
   - offline
-#  - social
+  - social
   - charts
   - minify:
       minify_html: true
