@@ -66,7 +66,17 @@ This passage reminds us that, in our Lenten journey, we are called to acknowledg
 
 ## Personal Story
 
+In my high school robotics season, facing a significant challenge akin to Job's trials, we were grappling with the aftermath of a previous season's failure, feeling demoralized and uncertain. As we embarked on the new season, the words of Eliphaz to Job about strengthening feeble hands and supporting those who stumbled resonated with us. We were reminded of our past strengths, mirroring the scripture's exploration of human frailty versus divine strength.
+
+A crucial moment arose with a technical setback, similar to the challenges in Job’s discourse. Fixing a mechanical flaw under pressure became a testament to our collective resilience and learning, echoing the message of Job 4 about finding wisdom and strength beyond our individual capabilities. Through this experience, we learned profound lessons about humility, the importance of collaborative effort, and maintaining faith through adversity – themes reflecting the essence of the Lenten journey and mirroring Job’s spiritual trials.
+
 ## Prayer
+
+Dear God,
+
+As we reflect on Job's story, we're reminded of our own struggles and how small we can feel in the face of challenges. Help us to remember that it's okay not to have all the answers and to lean on You when things get tough. Give us the strength to keep going, even when the path isn't clear, and the humility to learn from our experiences. Remind us that we're not alone in our journey and that, just like Job, we can find hope and wisdom in the midst of our trials. Thank you for being with us every step of the way.
+
+Amen.
 
 ## Reflection Questions
 1. How can we offer support to others in their suffering, as Job once did, without judging the reasons for their pain?
