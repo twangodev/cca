@@ -41,3 +41,10 @@ $$
     $$
     sin(x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n+1}}{(2n+1)!}
     $$
+
+!!! example "Polynomial Definition of $cos(x)$"
+    To find the derivative of $cos(x)$ is always $-sin(x)$. Therefore, the derivative of $cos(x)$ at $x=0$ alternates between $1$ and $0$. This leaves us with an alternating series of only terms where $n$ is an even number. Using the MacLaurin Series definition, we can write the MacLaurin Series for $cos(x)$ as:
+
+    $$
+    cos(x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!}
+    $$
