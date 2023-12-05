@@ -1,4 +1,4 @@
-# Chapter 1 Notes
+# 1: An Economic Way of Thinking
 
 ## Factors That Contribute To Wealth
 - Natural resources 

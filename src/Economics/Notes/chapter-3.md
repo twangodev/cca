@@ -1,4 +1,4 @@
-# Chapter 3: Economic Systems
+# 3: Economic Systems
 
 ## Contrast in Economic Systems
 

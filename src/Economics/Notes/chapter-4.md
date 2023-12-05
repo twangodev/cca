@@ -1,4 +1,4 @@
-# Chapter 4: Gains from Trade
+# 4: Gains from Trade
 
 ## Introduction
 

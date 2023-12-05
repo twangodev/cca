@@ -42,7 +42,7 @@ Example: Using a computer as a random number generator, names in a bucket, etc.
 Cons: By randomness, you may get similar (homogeneous) people, repeats
 
 !!! warning
-    Ensure whether or not you need to include “without replacement”
+    Ensure whether you need to include “without replacement”
 
 
 #### Stratified Random Sample
@@ -113,10 +113,9 @@ Completely Randomized Design: Everything is randomized
 
 Randomized Block Design: Assign treatments to units (random within each block) in each block
 
-<aside>
-💡 Blocks are groups that or homogeneous, like strata
+!!! tip
+    Blocks are groups that or homogeneous, like strata
 
-</aside>
 
 #### Placebo
 
@@ -128,10 +127,8 @@ Single Blind: People do not know which treatment they received
 
 Double Blind: People/person giving treatments do not know
 
-<aside>
-💡 Not all experiments are able to be blind
-
-</aside>
+!!! tip
+Not all experiments are able to be blind
 
 ## Study Conclusions
 

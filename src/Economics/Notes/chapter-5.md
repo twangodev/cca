@@ -1,4 +1,4 @@
-# Chapter 5: Demand and Supply
+# 5: Demand and Supply
 
 ## Graphing Market Demand
 

@@ -1,4 +1,4 @@
-# Structured Markdown Notes on Entrepreneurs and Business Organizations
+# 9: Structured Markdown Notes on Entrepreneurs and Business Organizations
 
 ## Entrepreneurs
 - **Definition**: Individuals who start businesses, assuming the risk for profit.
