@@ -1,4 +1,4 @@
-# Money, Banking, Saving, and Investing
+# 8: Money, Banking, Saving, and Investing
 
 ## Understanding Money and Banking
 
