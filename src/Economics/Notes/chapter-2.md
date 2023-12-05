@@ -1,4 +1,4 @@
-# 2: Factors of Production
+# Factors of Production
 
 ## The Five Steps of Economic Decision-Making
 
