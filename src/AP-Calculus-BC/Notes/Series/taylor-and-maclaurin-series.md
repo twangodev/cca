@@ -35,16 +35,33 @@ $$
     e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!}
     $$
 
-!!! example "Polynomial Definition of $sin(x)$"
-    To find the derivative of $sin(x)$ is always $cos(x)$. Therefore, the derivative of $sin(x)$ at $x=0$ alternates between $0$ and $1$. This leaves us with an alternating series of only terms where $n$ is an odd number. Using the MacLaurin Series definition, we can write the MacLaurin Series for $sin(x)$ as:
+!!! example "Polynomial Definition of $\sin(x)$"
+    To find the derivative of $\sin(x)$ is always $\cos(x)$. Therefore, the derivative of $\sin(x)$ at $x=0$ alternates between $0$ and $1$. This leaves us with an alternating series of only terms where $n$ is an odd number. Using the MacLaurin Series definition, we can write the MacLaurin Series for $\sin(x)$ as:
 
     $$
-    sin(x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n+1}}{(2n+1)!}
+    \sin(x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n+1}}{(2n+1)!}
     $$
 
-!!! example "Polynomial Definition of $cos(x)$"
-    To find the derivative of $cos(x)$ is always $-sin(x)$. Therefore, the derivative of $cos(x)$ at $x=0$ alternates between $1$ and $0$. This leaves us with an alternating series of only terms where $n$ is an even number. Using the MacLaurin Series definition, we can write the MacLaurin Series for $cos(x)$ as:
+!!! example "Polynomial Definition of $\cos(x)$"
+    To find the derivative of $\cos(x)$ is always $-\sin(x)$. Therefore, the derivative of $\cos(x)$ at $x=0$ alternates between $1$ and $0$. This leaves us with an alternating series of only terms where $n$ is an even number. Using the MacLaurin Series definition, we can write the MacLaurin Series for $\cos(x)$ as:
 
     $$
-    cos(x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!}
+    \cos(x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!}
     $$
+
+
+### Practice Problems
+
+**Series of $x\cos(2x)$**
+
+Using the definition of $\cos(x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!}$, we can write the series for $x\cos(2x)$ as:
+
+$$
+x\cos(2x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n+1}4^n}{(2n)!}
+$$
+
+**Series of $x^2\ln(1+x^3)$**
+
+Using the definition of $\ln(1+x) = \sum_{n=0}^{\infty} \frac{(-1)^n x^{n+1}}{n+1}$, we can write the series for $x^2\ln(1+x^3)$ as:
+
+
