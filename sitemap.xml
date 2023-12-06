@@ -11,7 +11,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cca.twango.dev/AP-Calculus-BC/Notes/taylor-and-maclaurin-series.html</loc>
+         <loc>https://cca.twango.dev/AP-Calculus-BC/Notes/Series/power-series.html</loc>
+         <lastmod>2023-12-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/AP-Calculus-BC/Notes/Series/taylor-and-maclaurin-series.html</loc>
          <lastmod>2023-12-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
