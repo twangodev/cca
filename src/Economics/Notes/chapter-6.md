@@ -1,4 +1,4 @@
-# 6: Markets, Equilibrium, and Prices
+# Markets, Equilibrium, and Prices
 Markets constantly fluctuate in demand and price, and grasping how these changes affect equilibrium and pricing is vital for both consumers and producers.
 
 ## Core Concepts and Vocabulary

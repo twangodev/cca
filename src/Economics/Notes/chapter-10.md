@@ -1,4 +1,4 @@
-# 10: Human Capital and the Labor Market
+# Human Capital and the Labor Market
 
 ## Vocab
 

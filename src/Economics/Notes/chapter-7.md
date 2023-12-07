@@ -1,4 +1,4 @@
-# 7: Market Structures and Market Failures
+# Market Structures and Market Failures
 
 - **Market Configuration**: This encompasses the arrangement and functionality of a market, predominantly influenced by the level of competition present. Four primary types of market configurations exist.
 
