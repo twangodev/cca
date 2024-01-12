@@ -101,7 +101,9 @@
         \begin{aligned}
         &= \sum_{k=1}^{\infty} \ln(k) - \ln(k+1)\\
         &= \ln(1) - \ln(2) + \ln(2) - \ln(3) + \ln(3) - \ln(4) + \dots\\
-        &= 0 \text{ (Telescoping series)}
+        &= \lim_{k \to \infty} \ln(k) - \ln(k+1)\\
+        &= -ln(\infty)\\
+        &= -\infty \text{ (Divergent)}\\
         \end{aligned}
         $$
 
@@ -110,6 +112,7 @@
         $$
         \begin{aligned}
         &= \sum_{n=1}^{\infty} \frac{\sqrt{n+1}}{\sqrt{n(n+1)}} - \frac{\sqrt{n}}{\sqrt{n(n+1)}}\\
+        &= \frac{\sqrt{2}}{\sqrt{1 \cdot 2}} - \frac{\sqrt{1}}{\sqrt{1 \cdot 2}} + \frac{\sqrt{3}}{\sqrt{2 \cdot 3}} - \frac{\sqrt{2}}{\sqrt{2 \cdot 3}} + \frac{\sqrt{4}}{\sqrt{3 \cdot 4}} - \frac{\sqrt{3}}{\sqrt{3 \cdot 4}} + \dots\\
         &= 1 \text{ (Telescoping series)}
         \end{aligned}
         $$
@@ -186,10 +189,10 @@
     &= \frac{2}{2-x}\\
     &\int_{0}^{1} \frac{2}{2-x}\\
     u = 2-x&, du = -dx\\
-    &= \int_{1}^{2} \frac{-2}{u} du\\
-    &= -2\ln(u) \Biggr|_{1}^{2}\\
-    &= -2\ln(2) + 2\ln(1)\\
-    &= -2\ln(2)\\
+    &= \int_{1}^{2} \frac{2}{u} du\\
+    &= 2\ln(u) \Biggr|_{1}^{2}\\
+    &= 2\ln(2) + 2\ln(1)\\
+    &= 2\ln(2)\\
     \sqrt{e^{2\ln2}} &= e^{\ln2}\\
     &= 2
     \end{aligned}
