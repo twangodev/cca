@@ -1,4 +1,4 @@
-# Take Home Quiz 1
+# Basketball Free-Throw Percentage
 
 ## Prompt
 

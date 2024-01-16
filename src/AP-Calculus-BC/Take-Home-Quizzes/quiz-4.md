@@ -1,4 +1,4 @@
-# Take Home Quiz 4: Interesting Derivative and Areas
+# Interesting Derivative and Areas
 
 This take-home quiz you will take a look at an interesting property in math that involves derivatives and areas.
 

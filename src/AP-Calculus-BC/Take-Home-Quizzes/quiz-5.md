@@ -1,4 +1,4 @@
-# Take Home Quiz 5: Supplemental AP Calculus BC Final Exam
+# Supplemental AP Calculus BC Final Exam
 
 1. Let $f$ be the function that has derivatives of all orders (i.e. can be differentiated any number of times). Let $3-6(x-1)^2 + 5(x-3)^3 - 2(x-1)^4$ be the fourth-degree Taylor polynomial for $f$ about $x=1$. Does $f$ have a local minimum, local maximum, or neither at $x=1$? Explain how you know.
 
