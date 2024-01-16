@@ -91,7 +91,7 @@
         $$
         \begin{aligned}
         \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n+1}}{2n+1} &= \tan^{-1}(x)\\
-        \sum_{n=0}^{\infty} \frac{(-1)^n (\sqrt{3})^{2n+1}}{2n+1} &= \tan^{-1}(\sqrt{3})
+        3\sum_{n=0}^{\infty} \frac{(-1)^n (\sqrt{3})^{2n+1}}{2n+1} &= 3\tan^{-1}(\sqrt{3})
         \end{aligned}
         $$
    
