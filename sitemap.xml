@@ -966,7 +966,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Daily-Videos/1.2.html</loc>
+         <lastmod>2024-01-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/FRQ-Practice/1.1-1.2.html</loc>
+         <lastmod>2024-01-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/FRQ-Practice/1.2-1.3.html</loc>
          <lastmod>2024-01-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
