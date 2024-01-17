@@ -1,6 +1,6 @@
-# The Constitution: A New Vision of Government
+# 2: The Constitution: A New Vision of Government
 
-## The Articles of Confederation
+## 2.1 The Articles of Confederation
 
 ### Background and Ratification
 - Adopted in 1777 and ratified in 1781 by the Second Continental Congress.
@@ -39,7 +39,7 @@
 - Articles established a loose union with limited central power.
 - U.S. Constitution introduced a stronger federal structure with defined executive, legislative, and judicial branches.
 
-## The Constitutional Convention
+## 2.2: The Constitutional Convention
 
 - Held in May 1787 in Philadelphia.
 - Aimed to amend the Articles of Confederation.
