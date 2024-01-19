@@ -67,11 +67,11 @@
 ## Check for Understanding
 - Define confederation
 
-A confederation is an association of independent states or entities that come together for certain purposes, while retaining their individual sovereignty.
+    A confederation is an association of independent states or entities that come together for certain purposes, while retaining their individual sovereignty.
 
 - Explain how Article II creates circumstances that led to confusion and chaos under the Articles of Confederation.
 
-Article II, by retaining significant powers for states, led to a lack of centralized authority, causing inefficiencies and difficulties in collective decision-making and enforcement of national policies.
+    Article II, by retaining significant powers for states, led to a lack of centralized authority, causing inefficiencies and difficulties in collective decision-making and enforcement of national policies.
 
 - Describe two powers specifically given to the national government. Explain why these powers were given to the national government.
 
