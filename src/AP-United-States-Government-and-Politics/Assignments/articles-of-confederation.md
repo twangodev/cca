@@ -1,5 +1,7 @@
 # Articles of Confederation
 
+## Questions
+
 - Explain how the Article II guarantees that the states will retain most power in the Confederation.
 
     Article II of the Articles of Confederation stated that each state retains its sovereignty, freedom, and independence. This meant that the national government had limited authority, with most powers residing with the individual states.
