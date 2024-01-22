@@ -18,6 +18,8 @@ One of the topics we've discussed this school year was the concept of absolute v
     $$
     \begin{align}
     \lim_{n \to \infty} \left| \frac{x_{n+1}}{x_n} \right| &= x < 1\\\\
+    x = -1: \text{ Divergent} \\ 
+    x = 1: \text{ Divergent} \\
     \therefore (-1, 1)
     \end{align}
     $$
@@ -43,7 +45,9 @@ One of the topics we've discussed this school year was the concept of absolute v
     \lim_{n \to \infty} \left| \frac{xn}{n+1} \right| &< 1 \\
     x \lim_{n \to \infty} \left| \frac{n}{n+1} \right| &< 1 \\
     x &< 1 \\\\
-    \therefore (-1, 1)
+    x = -1: \text{ Divergent} \\
+    x = 1: \text{ Convergent} \\\\
+    \therefore (-1, 1]
     \end{align}
     $$
 
