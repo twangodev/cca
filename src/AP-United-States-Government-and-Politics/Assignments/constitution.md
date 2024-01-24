@@ -70,7 +70,7 @@
 
     The Constitution has enabled the expansion of presidential power through broad clauses like the Commander in Chief Clause and the Vesting Clause. However, significant checks exist, including Congressional control over funding, the power of impeachment, and judicial review.
 
-## Critical thinking Question
+## Critical Thinking Question
 Reconstitution created a democratic form of government that has survived more than 200 years the amendment process is one of the reasons the constitution has been able to change with the times period what amendment to the constitution would you like to see ratified? Explain how your proposal would strengthen democracy.
 
 - Purpose:
