@@ -6,55 +6,55 @@
 
 - How does Madison define faction so that all factions are groups, but not all groups are factions?
 
-Madison defines a faction as a group driven by shared interests or passions that are adverse to the rights of others or the community's interests. Not all groups are factions; only those that work against the common good qualify.
+    Madison defines a faction as a group driven by shared interests or passions that are adverse to the rights of others or the community's interests. Not all groups are factions; only those that work against the common good qualify.
 
 - How does this short paragraph preview the structure of Madison's argument? (factions) What are the methods for eliminating the causes of factions? Why is impossible to eliminate either cause?
 
-Madison's argument outlines that while the causes of factions are inherent to human nature and thus ineradicable, their effects can be controlled. He suggests a large republic as the solution, previewing his later detailed explanation.
+    Madison's argument outlines that while the causes of factions are inherent to human nature and thus ineradicable, their effects can be controlled. He suggests a large republic as the solution, previewing his later detailed explanation.
 
 - How does Madison describe human nature? How does the unequal distribution of wealth and property cause factions to form?
 
-Madison views human nature as intrinsically diverse, leading to varying property ownership and interests, which in turn cause factions. The unequal distribution of wealth creates different classes, often resulting in conflicting group interests.
+    Madison views human nature as intrinsically diverse, leading to varying property ownership and interests, which in turn cause factions. The unequal distribution of wealth creates different classes, often resulting in conflicting group interests.
 
 - How does this paragraph relate to separation of powers and checks and balances?
 
-Madison's discussion on factions underpins the necessity for a system of checks and balances and separation of powers. This framework prevents any single faction from gaining excessive power within the government.
+    Madison's discussion on factions underpins the necessity for a system of checks and balances and separation of powers. This framework prevents any single faction from gaining excessive power within the government.
 
 - Why dare legislators tempted to make laws that will benefit themselves? Why will the most powerful faction, or majority group probably win?
 
-Legislators may be tempted to enact self-serving laws due to personal interests or factional pressures. Madison acknowledges that the majority faction's power often prevails, potentially shaping legislation in its favor.
+    Legislators may be tempted to enact self-serving laws due to personal interests or factional pressures. Madison acknowledges that the majority faction's power often prevails, potentially shaping legislation in its favor.
 
 - How does Madison address the potential for bad leaders and the temptation for people to act in their immediate interests? How does (para. 10) this short paragraph serve as a transition in Madison's argument?
 
-Madison proposes a representative government to mitigate the risk of poor leadership and short-term interests. Paragraph 10 transitions his argument towards the mechanisms to control factional effects, emphasizing the impracticality of eliminating their causes.
+    Madison proposes a representative government to mitigate the risk of poor leadership and short-term interests. Paragraph 10 transitions his argument towards the mechanisms to control factional effects, emphasizing the impracticality of eliminating their causes.
 
 - Why is a cation of the majority more dangerous than a smaller faction? What are the two ways of controlling a faction of the majority?
 
-Majority factions pose a greater danger due to their capacity to enforce their will, potentially oppressing minority rights. Madison suggests controlling a majority faction either by preventing its common passion or limiting its ability to act cohesively.
+    Majority factions pose a greater danger due to their capacity to enforce their will, potentially oppressing minority rights. Madison suggests controlling a majority faction either by preventing its common passion or limiting its ability to act cohesively.
 
 - How does direct democracy harm the rights of the minority?
 
-In a direct democracy, the majority can directly impose its will, often neglecting minority rights and leading to a tyranny of the majority. Madison argues this form of government fails to protect diverse interests and viewpoints.
+    In a direct democracy, the majority can directly impose its will, often neglecting minority rights and leading to a tyranny of the majority. Madison argues this form of government fails to protect diverse interests and viewpoints.
 
 - How does Madison define a republic? What are the two differences between direct democracy and a republic? How does a representative government guard against the passions of citizens?
 
-Madison defines a republic as a representative form of government, differing from direct democracy in its representative structure and ability to manage a larger number of citizens and territory. This form tempers public passions and provides better governance.
+    Madison defines a republic as a representative form of government, differing from direct democracy in its representative structure and ability to manage a larger number of citizens and territory. This form tempers public passions and provides better governance.
 
 - How does Madison use compare and contrast?
 
-Madison effectively uses compare and contrast to highlight the differences between various forms of government, showing how a large republic can better manage factions and diverse interests. This technique clarifies the advantages of the proposed government structure.
+    Madison effectively uses compare and contrast to highlight the differences between various forms of government, showing how a large republic can better manage factions and diverse interests. This technique clarifies the advantages of the proposed government structure.
 
 - Why are large republics more likely to have representatives who are fit to serve? How does federalism lead to legislatures that are the right size to get things done? How does a large republic, with numerous factions, prevent a faction from taking control of the government?
 
-Large republics are more likely to elect competent representatives due to a larger pool of candidates. The size and federal structure ensure efficient legislation and prevent any single faction from dominating the government.
+    Large republics are more likely to elect competent representatives due to a larger pool of candidates. The size and federal structure ensure efficient legislation and prevent any single faction from dominating the government.
 
 - How is Madison's argument in favor of a large country similar to his argument in favor of a large republic?
 
-Madison's argument for a large country mirrors his support for a large republic, emphasizing that size and diversity dilute the influence of any single faction. This ensures a more balanced and representative governance.
+    Madison's argument for a large country mirrors his support for a large republic, emphasizing that size and diversity dilute the influence of any single faction. This ensures a more balanced and representative governance.
 
 - How so Madison in (para. 22) refute an argument made in Brutus I? What is Madison's conclusion about the proper
 
-In paragraph 22, Madison counters Brutus I's concern about a large republic's potential for tyranny, asserting that a larger republic better secures liberty and justice. He concludes that such a structure is essential for managing factions and protecting individual rights.
+    In paragraph 22, Madison counters Brutus I's concern about a large republic's potential for tyranny, asserting that a larger republic better secures liberty and justice. He concludes that such a structure is essential for managing factions and protecting individual rights.
 
 ## Purpose
 
