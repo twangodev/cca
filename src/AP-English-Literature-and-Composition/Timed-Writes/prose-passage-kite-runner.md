@@ -4,6 +4,35 @@
 
 The following is an excerpt from Chapter 8 of *The Kite Runner*. In this passage, the conflict established in Chapter 7 between Hassan and Amir grows deeper. Read the passage carefully. Then, in a well-written essay, analyze how Hosseini uses literary elements and techniques to develop contrasts that indicate a conflict of values
 
+??? quote "Chapter 8 - *The Kite Runner* by Khaled Hosseini"
+
+    We sat against the low cemetery wall under the shade thrown by the pomegranate tree. In another month or two, crops of scorched yellow weeds would blanket the hillside, but that year the spring showers had lasted longer than usual, nudging their way into early summer, and the grass was still green, peppered with tangles of wildflowers. Below us, Wazir Akbar Khan's white walled, flatEtopped houses gleamed in the sunshine, the laundry hanging on clotheslines in their yards stirred by the breeze to dance like butterflies.
+
+    We had picked a dozen pomegranates from the tree. I unfolded the story I'd brought along, turned to the first page, then put it down. I stood up and picked up an overripe pomegranate that had fallen to the ground.
+
+    "What would you do if I hit you with this?" I said, tossing the fruit up and 
+    down.
+
+    Hassan's smile wilted. He looked older than I'd remembered. No, not older, old. Was that possible? Lines had etched into his tanned face and creases framed his eyes, his mouth. I might as well have taken a knife and carved those lines myself.
+
+    "What would you do?" I repeated.
+
+    The color fell from his face. Next to him, the stapled pages of the story I'd promised to read him fluttered in the breeze. I hurled the pomegranate at him. It struck him in the chest, exploded in a spray of red pulp. Hassan's cry was pregnant with surprise and pain.
+
+    "Hit me back!" I snapped. Hassan looked from the stain on his chest to me.
+
+    "Get up! Hit me!" I said. Hassan did get up, but he just stood there, looking dazed like a man dragged into the ocean by a riptide when, just a moment ago, he was enjoying a nice stroll on the beach.
+
+    I hit him with another pomegranate, in the shoulder this time. The juice splattered his face. "Hit me back!" I spat. "Hit me back, goddamn you!" I wished he would. I wished he'd give me the punishment I craved, so maybe I'd finally sleep at night. Maybe then things could return to how they used to be between us. But Hassan did nothing as I pelted him again and again. "You're a coward!" I said. "Nothing but a goddamn coward!"
+
+    I don't know how many times I hit him. All I know is that, when I finally stopped, exhausted and panting, Hassan was smeared in red like he'd been shot by a firing squad. I fell to my knees, tired, spent, frustrated.
+
+    Then Hassan did pick up a pomegranate. He walked toward me. He opened it and crushed it against his own forehead. "There," he croaked, red dripping down his face like blood. "Are you satisfied? Do you feel better?" He turned around and started down the hill.
+
+    I let the tears break free, rocked back and forth on my knees.
+
+    "What am I going to do with you, Hassan? What am I going to do with you?" But by the time the tears dried up and I trudged down the hill, I knew the answer to that question.
+
 ## Response
 
 In Chapter 8 of *The Kite Runner*, Khaled Hosseini utilizes literary elements such as setting, juxtaposition, and train of thought to develop contrasts between innocence and guilt.
