@@ -14,19 +14,19 @@
 
 - What argument does Maryland make about the creation of the Constitution?
 
-Maryland argued that the creation of the Constitution was an agreement among states, and therefore, the federal government could not exercise powers not explicitly granted to it by the Constitution.
+    Maryland argued that the creation of the Constitution was an agreement among states, and therefore, the federal government could not exercise powers not explicitly granted to it by the Constitution.
 
 - What argument did Chief Justice Marshall make against Maryland's assertion about the creation of the Constitution?
 
-Marshall countered by asserting that the Constitution was ordained and established by the people, not just a compact among states. He emphasized that the government derived its powers from the people and was empowered to act for their benefit.
+    Marshall countered by asserting that the Constitution was ordained and established by the people, not just a compact among states. He emphasized that the government derived its powers from the people and was empowered to act for their benefit.
 
 - According to the Chief Justice Marshall what key provisions differentiates the Constitution and the Articles of Confederation when it comes to the idea of implied powers?
 
-Marshall pointed out that the Constitution provided a strong central government with the ability to act directly on behalf of the people, unlike the Articles of Confederation, which relied on state cooperation. The Necessary and Proper Clause was a key provision that allowed the federal government to exercise implied powers to achieve its constitutional objectives.
+    Marshall pointed out that the Constitution provided a strong central government with the ability to act directly on behalf of the people, unlike the Articles of Confederation, which relied on state cooperation. The Necessary and Proper Clause was a key provision that allowed the federal government to exercise implied powers to achieve its constitutional objectives.
 
 - Which enumerated powers imply Congress' right to charter a bank?
 
-The powers to levy taxes, borrow money, regulate commerce, and manage fiscal operations implied the need for a national bank to efficiently handle these responsibilities.
+    The powers to levy taxes, borrow money, regulate commerce, and manage fiscal operations implied the need for a national bank to efficiently handle these responsibilities.
 
 - Describe two definitions of the word necessary? How is Marshall's definition important to upholding the Constitution?
 
@@ -36,23 +36,20 @@ The powers to levy taxes, borrow money, regulate commerce, and manage fiscal ope
 
 - How does the necessary and proper clause ensure that the Constitution will endure in the future?
 
-This clause allows the Constitution to adapt over time, empowering Congress to pass laws essential for executing its enumerated powers, thus ensuring the Constitution remains a living, relevant document.
+    This clause allows the Constitution to adapt over time, empowering Congress to pass laws essential for executing its enumerated powers, thus ensuring the Constitution remains a living, relevant document.
 
 - What is the difference between legal code and a constitution?
 
-A legal code consists of specific, detailed laws governing behavior, while a constitution is a fundamental, overarching document outlining the structure, powers, and limits of a government.
+    A legal code consists of specific, detailed laws governing behavior, while a constitution is a fundamental, overarching document outlining the structure, powers, and limits of a government.
 
 - How are the sources of power for a state and Congress different?
 
-State power is derived from its people and is subject to the limitations of the Constitution. Congress's powers are granted by the Constitution and include both enumerated and implied powers necessary to govern effectively.
+    State power is derived from its people and is subject to the limitations of the Constitution. Congress's powers are granted by the Constitution and include both enumerated and implied powers necessary to govern effectively.
 
 - What does Marshall mean by "the power to destroy in relation to taxes?"
 
-Marshall argued that if states had the power to tax federal entities, they could effectively destroy those entities, undermining federal authority. This would contravene the principle of federal supremacy.
+    Marshall argued that if states had the power to tax federal entities, they could effectively destroy those entities, undermining federal authority. This would contravene the principle of federal supremacy.
 
 - What Constitutional clause does Marshall allude to?
 
-Marshall referred to the Supremacy Clause, which establishes that the Constitution and federal laws take precedence over state laws.
-
-
-
+    Marshall referred to the Supremacy Clause, which establishes that the Constitution and federal laws take precedence over state laws.
