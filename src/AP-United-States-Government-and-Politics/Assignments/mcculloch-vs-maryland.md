@@ -1,14 +1,14 @@
 # McCulloch vs. Maryland
 
 ## Background
-**Name of the Case:** McCulloch v. Maryland
-**Year Decided:** 1819
-**Facts:** The case involved a dispute over whether the state of Maryland had the right to tax the Second Bank of the United States, a federal entity.
-**Issue:** Whether Congress had the constitutional authority to establish a national bank and whether a state had the power to tax that bank.
-**Decision:** The Supreme Court ruled in favor of McCulloch, holding that Congress had the power to create the bank and that Maryland could not tax it.
-**Majority Decision Reasoning:** Chief Justice John Marshall, writing for the majority, reasoned that Congress possessed unenumerated powers not explicitly outlined in the Constitution. He held that the Necessary and Proper Clause gave Congress the authority to establish the national bank to fulfill its enumerated fiscal responsibilities.
-**Dissenting Opinion Reasoning:** There was no formal dissenting opinion in this case as it was a unanimous decision.
-**Impact of the Case:** This landmark decision established two important principles in constitutional law: (1) the federal government had implied powers in addition to its enumerated powers, and (2) federal law is supreme over state law.
+- **Name of the Case:** McCulloch v. Maryland
+- **Year Decided:** 1819
+- **Facts:** The case involved a dispute over whether the state of Maryland had the right to tax the Second Bank of the United States, a federal entity.
+- **Issue:** Whether Congress had the constitutional authority to establish a national bank and whether a state had the power to tax that bank.
+- **Decision:** The Supreme Court ruled in favor of McCulloch, holding that Congress had the power to create the bank and that Maryland could not tax it.
+- **Majority Decision Reasoning:** Chief Justice John Marshall, writing for the majority, reasoned that Congress possessed unenumerated powers not explicitly outlined in the Constitution. He held that the Necessary and Proper Clause gave Congress the authority to establish the national bank to fulfill its enumerated fiscal responsibilities.
+- **Dissenting Opinion Reasoning:** There was no formal dissenting opinion in this case as it was a unanimous decision.
+- **Impact of the Case:** This landmark decision established two important principles in constitutional law: (1) the federal government had implied powers in addition to its enumerated powers, and (2) federal law is supreme over state law.
 
 ## Questions
 
