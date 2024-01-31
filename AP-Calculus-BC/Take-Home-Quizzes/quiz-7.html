@@ -9853,29 +9853,125 @@ F_e(x)-f(x)=a_{0}+a_{1}\cos(x)+a_{2}\cos(2x)+a_{1}\cos(3x)+\cdots
 <ol>
 <li>
 <p>Use the above equation to find <span class="arithmatex">\(a_{0}\)</span> in terms of <span class="arithmatex">\(\int_{-\pi}^{\pi}f(x)\)</span></p>
+<div class="arithmatex">\[
+\begin{align}
+\int_{-\pi}^{\pi}f(x)&amp;=\int_{-\pi}^{\pi}a_{0}+a_{1}\cos(x)+a_{2}\cos(2x)+\cdots dx\\
+&amp;= 2\pi a_{0} + \sum_{n=1}^{\infty}a_{n}\int_{-\pi}^{\pi}\cos(nx) dx\\
+\end{align}
+\]</div>
+<p>The area under the curve of <span class="arithmatex">\(\cos(nx)\)</span> (given <span class="arithmatex">\(n\)</span> is an integer where <span class="arithmatex">\(n \neq 0\)</span>) over the interval <span class="arithmatex">\([-\pi,\pi]\)</span> is zero, since <span class="arithmatex">\(n\)</span> describes the number of complete waves within a period of <span class="arithmatex">\(2\pi\)</span>. In other words:</p>
+<div class="arithmatex">\[
+\begin{align}
+\int_{-\pi}^{\pi}\cos(nx) dx = 0
+\end{align}
+\]</div>
+<div class="arithmatex">\[
+\begin{align}
+\int_{-\pi}^{\pi}f(x) &amp;= 2\pi a_{0} + \sum_{n=1}^{\infty}a_{n}\int_{-\pi}^{\pi}\cos(nx) dx\\
+&amp;= 2\pi a_{0}\\\\
+a_0 &amp;= \frac{1}{2\pi}\int_{-\pi}^{\pi}f(x)dx
+\end{align}
+\]</div>
 </li>
 <li>
-<p>Simplify <span class="arithmatex">\(\cos(nx+mx)+\cos(nx-mx)\)</span> using trigonometric identities. Use those en simplifications to evaluate <span class="arithmatex">\(\int_{-\pi}^{\pi}cos(nx)cos(mx)dx\)</span> when <span class="arithmatex">\(m\ne n\)</span>. (Assume that <span class="arithmatex">\(m\)</span>, <span class="arithmatex">\(n\)</span> are integers).</p>
+<p>Simplify <span class="arithmatex">\(\cos(nx+mx)+\cos(nx-mx)\)</span> using trigonometric identities. Use those simplifications to evaluate <span class="arithmatex">\(\int_{-\pi}^{\pi}\cos(nx)\cos(mx)dx\)</span> when <span class="arithmatex">\(m\ne n\)</span>. (Assume that <span class="arithmatex">\(m\)</span>, <span class="arithmatex">\(n\)</span> are integers).</p>
+<div class="arithmatex">\[
+\begin{align}
+&amp;\cos(nx+mx)+\cos(nx-mx)\\
+&amp;= [\cos(nx)\cos(mx)-\sin(nx)\sin(mx)]+[\cos(nx)\cos(mx)+\sin(nx)\sin(mx)]\\
+&amp;= 2\cos(nx)\cos(mx)\\
+\end{align}
+\]</div>
+<div class="arithmatex">\[
+\begin{align}
+\int_{-\pi}^{\pi}\cos(nx)\cos(mx)dx &amp;= \int_{0}^{\pi}2\cos(nx)\cos(mx)dx\\
+&amp;= \int_{0}^{\pi}\cos(nx+mx)+\cos(nx-mx)dx\\
+&amp;= \int_{0}^{\pi}\cos(nx+mx)dx+\int_{0}^{\pi}\cos(nx-mx)dx\\
+&amp;= 0
+\end{align}
+\]</div>
+<p>The area under the curve of <span class="arithmatex">\(\cos(nx)\)</span> (given <span class="arithmatex">\(n\)</span> is any integer where <span class="arithmatex">\(n \neq 0\)</span>) over the interval <span class="arithmatex">\([0,\pi]\)</span> is zero, since <span class="arithmatex">\(n\)</span> describes half the number of complete waves within a period of <span class="arithmatex">\(\pi\)</span>. (Similar to #1)</p>
 </li>
 <li>
 <p>Now consider the previous question, but now let <span class="arithmatex">\(m=n\)</span> Evaluate <span class="arithmatex">\(\int_{-\pi}^{\pi}\cos(nx)\cos(mx)dx\)</span> (Hint: It will be useful to simplify the integrand before integrating)</p>
+<div class="arithmatex">\[
+\begin{align}
+\int_{-\pi}^{\pi}\cos(nx)\cos(mx)dx &amp;= \int_{-\pi}^{\pi}\cos(nx)\cos(nx)dx\\
+&amp;= \int_{0}^{\pi}2\cos(nx)\cos(nx)dx\\
+&amp;= 2\int_{0}^{\pi}\cos^{2}(nx)dx\\
+&amp;= 2\int_{0}^{\pi}\frac{1+\cos(2nx)}{2}dx\\
+&amp;= \int_{0}^{\pi}1+\cos(2nx)dx\\
+&amp;= \pi
+\end{align}
+\]</div>
 </li>
 <li>
-<p>Use the result from the previous questions to find the value of <span class="arithmatex">\(a_{1}\)</span> in terms of <span class="arithmatex">\(\int_{-\pi}^{\pi}\cos{x}f(x)dx\)</span>, knowing that <span class="arithmatex">\(\int_{-\pi}^{\pi}\cos{x}f(x)dx=\int_{-\pi}^{\pi}a_{0}\cos{x}+a_{1}\cos^{2}{x}+a_{2}\cos{x}\cos{2x}+a_{3}\cos{x}\cos{3x}+\cdots dx\)</span></p>
+<p>Use the result from the previous questions to find the value of <span class="arithmatex">\(a_{1}\)</span> in terms of <span class="arithmatex">\(\int_{-\pi}^{\pi}\cos(x)f(x)dx\)</span>, knowing that <span class="arithmatex">\(\int_{-\pi}^{\pi}\cos(x)f(x)dx=\int_{-\pi}^{\pi}a_{0}\cos{x}+a_{1}\cos^{2}{x}+a_{2}\cos{x}\cos{2x}+\cdots dx\)</span></p>
+<div class="arithmatex">\[
+\begin{align}
+\int_{-\pi}^{\pi}\cos(x)f(x)dx&amp;=\int_{-\pi}^{\pi}a_{0}\cos{x}+a_{1}\cos^{2}{x}+a_{2}\cos{x}\cos{2x}+\cdots dx\\
+&amp;= \int_{-\pi}^{\pi}a_{0}\cos{x}+a_{1}\cos^{2}{x} dx\\
+&amp;= \frac{a_{1}}{2}\int_{-\pi}^{\pi}1+\cos(2x)dx\\
+&amp;= a_{1}\pi\\\\
+a_{1}&amp;=\frac{1}{\pi}\int_{-\pi}^{\pi}\cos(x)f(x)dx
+\end{align}
+\]</div>
 </li>
 <li>
 <p>Now use a similar procedure to the previous question to determine <span class="arithmatex">\(a_{2}\)</span> in terms of <span class="arithmatex">\(\int_{-\pi}^{\pi}\cos{2x}f(x)dx.\)</span></p>
+<div class="arithmatex">\[
+\begin{align}
+\int_{-\pi}^{\pi}\cos(2x)f(x)dx&amp;=\int_{-\pi}^{\pi}a_{0}\cos{2x}+a_{1}\cos{x}\cos{2x}+a_{2}\cos^2{2x}+\cdots dx\\
+&amp;= \int_{-\pi}^{\pi}a_{2}\cos^2{2x}dx\\
+&amp;= \frac{a_{2}}{2}\int_{-\pi}^{\pi}1+\cos(4x)dx\\
+&amp;= a_{2}\pi\\\\
+a_{2}&amp;=\frac{1}{\pi}\int_{-\pi}^{\pi}\cos(2x)f(x)dx
+\end{align}
+\]</div>
 </li>
 <li>
 <p>Repeat to find <span class="arithmatex">\(a_{3}\)</span> in terms of <span class="arithmatex">\(\int_{-\pi}^{\pi}\cos{3x}f(x)\)</span>.</p>
+<div class="arithmatex">\[
+\begin{align}
+\int_{-\pi}^{\pi}\cos(3x)f(x)dx&amp;=\int_{-\pi}^{\pi}a_{0}\cos{3x}+a_1\cos{x}\cos{3x}+\cdots+a_{3}\cos^2{3x}+\cdots dx\\
+&amp;= \int_{-\pi}^{\pi}a_{3}\cos^2{3x}dx\\
+&amp;= \frac{a_{3}}{2}\int_{-\pi}^{\pi}1+\cos(6x)dx\\
+&amp;= a_{3}\pi\\\\
+a_{3}&amp;=\frac{1}{\pi}\int_{-\pi}^{\pi}\cos(3x)f(x)dx
+\end{align}
+\]</div>
 </li>
 <li>
 <p>Now generalize to find <span class="arithmatex">\(a_{n}\)</span> in terms of <span class="arithmatex">\(\int_{-\pi}^{\pi}\cos{nx}f(x)dx\)</span>. (For <span class="arithmatex">\(n\ge 1\)</span>)</p>
+<div class="arithmatex">\[
+\begin{align}
+\int_{-\pi}^{\pi}\cos(nx)f(x)dx&amp;=\int_{-\pi}^{\pi}a_{0}\cos{nx}+\cdots+a_{n}\cos^2{nx}+\cdots dx\\
+&amp;= \int_{-\pi}^{\pi}a_{n}\cos^2{nx}dx\\
+&amp;= \frac{a_{n}}{2}\int_{-\pi}^{\pi}1+\cos(2nx)dx\\
+&amp;= a_{n}\pi\\\\
+a_{n}&amp;=\frac{1}{\pi}\int_{-\pi}^{\pi}\cos(nx)f(x)dx
+\end{align}
+\]</div>
 </li>
 <li>
 <p>Now let <span class="arithmatex">\(f(x)=e^{-x^{2}}\)</span>, the interval <span class="arithmatex">\([-\pi,\pi]\)</span>. Use a calculator to determine the coefficients <span class="arithmatex">\(a_{0}\)</span>, <span class="arithmatex">\(a_{1}\)</span>, <span class="arithmatex">\(a_{2}\)</span> , <span class="arithmatex">\(a_{3}\)</span>, <span class="arithmatex">\(a_{4}\)</span> and <span class="arithmatex">\(a_{5}\)</span> Graph <span class="arithmatex">\(e^{-x^{x}}\)</span> on the interval <span class="arithmatex">\([-\pi,\pi]\)</span> and compare it to the graph of your series, <span class="arithmatex">\(F_{e}(x)=a_{0}+a_{1}cos(x)+a_{2}cos(2x)+\cdot\cdot\cdot+a_{5}cos(5x)\)</span> on the same interval.</p>
 </li>
 </ol>
+<div class="arithmatex">\[
+\begin{aligned}
+a_0 &amp;= \frac{1}{2\pi}\int_{-\pi}^{\pi}e^{-x^{2}}dx &amp;\approx 0.28209\\
+a_1 &amp;= \frac{1}{\pi}\int_{-\pi}^{\pi}e^{-x^{2}}\cos(x)dx &amp;\approx 0.43939\\
+a_2 &amp;= \frac{1}{\pi}\int_{-\pi}^{\pi}e^{-x^{2}}\cos(2x)dx &amp;\approx 0.20754\\
+a_3 &amp;= \frac{1}{\pi}\int_{-\pi}^{\pi}e^{-x^{2}}\cos(3x)dx &amp;\approx 0.05946\\
+a_4 &amp;= \frac{1}{\pi}\int_{-\pi}^{\pi}e^{-x^{2}}\cos(4x)dx &amp;\approx 0.01032\\
+a_5 &amp;= \frac{1}{\pi}\int_{-\pi}^{\pi}e^{-x^{2}}\cos(5x)dx &amp;\approx 0.00109\\\\
+\end{aligned}
+\]</div>
+<div class="arithmatex">\[
+F_e(x) = 0.28209 + 0.43939\cos(x) + 0.20754\cos(2x) + \cdots + 0.00109\cos(5x)
+\]</div>
+<iframe src="https://www.desmos.com/calculator/ixkivqtoux?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
 <p>On the next take-home quiz, you will be thinking about odd function Fourier series, and then generalizing to all functions!</p>
 
 
@@ -9899,7 +9995,7 @@ F_e(x)-f(x)=a_{0}+a_{1}\cos(x)+a_{2}\cos(2x)+a_{1}\cos(3x)+\cdots
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">January 29, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">January 31, 2024</span>
   </span>
 
     
