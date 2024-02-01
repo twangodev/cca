@@ -1,4 +1,4 @@
-# 2: The Constitution: A New Vision of Government
+# 2 - The Constitution: A New Vision of Government
 
 ## 2.1 The Articles of Confederation
 

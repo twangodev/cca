@@ -1,4 +1,4 @@
-# 1: American Government and Politics The Stories of Our Nation
+# 1 - American Government and Politics: The Stories of Our Nation
 
 ## 1.1 The Fight for Students’ Rights
 
