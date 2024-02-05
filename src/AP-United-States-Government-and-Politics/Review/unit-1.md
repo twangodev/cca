@@ -1,5 +1,7 @@
 # Unit 1
 
+## Multiple Choice
+
 1. The Americans with Disabilities Act, which provides protections for the disabled, is an example of **a federal mandate**
 2. In the early part of the twenty-first century, public opinion polls showed that a majority of Americans believed it should be illegal to burn the American flag. As a result, many members of Congress introduced amendments to make it illegal to burn or desecrate the American flag. However, these efforts have been unsuccessful. Which of the following statements best explains why these efforts have been unsuccessful? **The framers made the amendment process difficult in order to protect individual rights.**
 3. The debates between Federalists and Anti-Federalists were primarily about which of the following issues? **The scope of power of the central government**
@@ -63,3 +65,91 @@
 1. The House of Representatives impeaches the president. Which of the following scenarios represents how bicameralism is used as a check on the vote to impeach? **The Senate deliberates the case and votes to determine the president’s guilt or innocence.**
 2. In 1974, the House of Representatives approved a resolution granting the Judiciary Committee authority to investigate impeachment of President Nixon for obstruction of justice, abuse of power, and contempt of Congress. Which constitutional ideal of democracy is demonstrated in this scenario? **Limited government**
 3. The Declaration of Independence states “Governments are instituted among Men, deriving their just powers from the consent of the governed.” This was a revolutionary change from the system of British monarchy, which was based on the divine right of kings. For which of the ideals of democracy does this quote provide a foundation? **Popular sovereignty**
+
+## Free Response
+
+### Patriot Act
+
+On October 26, 2001, the 342-page USA PATRIOT ACT quickly passed through Congress and was signed into law just 45 days after 9/11. It expanded the federal government’s ability to access phone and e-mail communications to an unprecedented level. It gave the FBI the authority to obtain personal information on people suspected of terror-related activities without the approval of judges.
+
+Broad support for these additional security measures led to this quick response by Congress and the president, but it also ignited a long-standing debate in American government regarding the balance between civil liberties and social order. Groups such as the American Civil Liberties Union launched campaigns opposing the measures and cautioning against the erosion of civil liberties in the wake of the 9/11 attack.
+
+Question
+Respond to all parts of the question. In your response, use substantive examples where appropriate.
+
+1. Describe a section of the Constitution that a group such as the American Civil Liberties Union would likely say is most affected by the USA PATRIOT ACT.
+2. Explain how checks and balances could work to ensure that the section of the Constitution identified in Part A would be protected.
+3. Over time, some of the measures of the USA PATRIOT ACT have been challenged by state governments who do not wish to cooperate with the federal government. Explain a concept of American government and politics that this action illustrates.
+
+### Amending the Constitution
+
+Respond to all parts of the question. In your response, use substantive examples where appropriate.
+
+
+The framers believed that a constitution was necessary to create a stable political system that would protect individual rights. However, understanding the need for political change, they included a process to amend the constitution. Develop an argument that takes a position on whether the process to amend the United States Constitution should be simplified.
+
+Use at least one piece of evidence from one of the following foundational documents:
+
+The Federalist 10
+Brutus 1
+Article V of the United States Constitution
+In your essay, you must:
+
+✓ Respond to the prompt with a defensible claim or thesis that establishes a line of reasoning.
+
+✓ Support your claim with at least TWO pieces of specific and relevant evidence.
+
+One piece of evidence must come from one of the foundational documents listed above.
+A second piece of evidence can come from any other foundational document not used as your first piece of evidence, or it may be from your knowledge of course concepts.
+
+### Amending the Constitution Formally and Informally
+
+The United States Constitution has endured for more than two centuries as the framework of government. However, the meaning of the Constitution has been changed both by formal and informal methods.
+
+Identify two formal methods for adding amendments to the Constitution.
+
+Describe two informal methods that have been used to change the meaning of the Constitution. Provide one specific example for each informal method you described.
+
+Explain why informal methods are used more often than the formal amendment process.
+
+### Balance the Power in Federalism on Policy Making
+
+The United States Constitution establishes a federal system of government. Under federalism, policymaking is shared between national and state governments. Over time, the powers of the national government have increased relative to those of the state governments.
+
+Develop an argument about whether the expanded powers of the national government benefit or hinder policymaking.
+
+Use at least one piece of evidence from one of the following foundational documents:
+
+The Articles of Confederation
+Brutus 1
+The Federalist 10
+In your response you should do the following:
+
+✓	Respond to the prompt with a defensible claim or thesis that establishes a line of reasoning.
+✓	Support your claim with at least TWO pieces of accurate and relevant evidence.
+• One piece of evidence must come from one of the foundational documents listed above.
+• A second piece of evidence can come from any other foundational document not used as your first piece of evidence, or it may be from your knowledge of course concepts.
+✓	Use reasoning to explain why your evidence supports your claim or thesis.
+✓	Respond to an opposing or alternative perspective using refutation, concession, or rebuttal.
+
+### Housing and Urban Development Grants
+
+Republican President Gerald Ford signed the Housing and Community Development Act of 1974, which created a new grant program. The new program replaced many of the housing programs directly administered by the Department of Housing and Urban Development (HUD). Prior to the act, the federally administered HUD programs drew frequent criticism for their lack of bureaucratic efficiency. Rather than a one-size-fits-all national program, the grant program provided access to federal funding to states, local governments, nonprofits, and businesses to help support community development.
+
+The grants from the Housing and Community Development Act of 1974 are awarded by state or local governments to various projects. Big cities are automatically entitled to a certain level of funding but must submit a plan to HUD each year. Local governments may also obtain funding but must apply through their state governments.
+
+The grants require community input about projects and encourage local participation in project development. These projects can include providing housing, building libraries, renovating old buildings, and supporting food banks. Congress allocated $3.4 billion in fiscal year 2020 to the program.
+
+
+Question
+Republican President Gerald Ford signed the Housing and Community Development Act of 1974, which created a new grant program. The new program replaced many of the housing programs directly administered by the Department of Housing and Urban Development (HUD). Prior to the act, the federally administered HUD programs drew frequent criticism for their lack of bureaucratic efficiency. Rather than a one-size-fits-all national program, the grant program provided access to federal funding to states, local governments, nonprofits, and businesses to help support community development.
+
+The grants from the Housing and Community Development Act of 1974 are awarded by state or local governments to various projects. Big cities are automatically entitled to a certain level of funding but must submit a plan to HUD each year. Local governments may also obtain funding but must apply through their state governments.
+
+The grants require community input about projects and encourage local participation in project development. These projects can include providing housing, building libraries, renovating old buildings, and supporting food banks. Congress allocated $3.4 billion in fiscal year 2020 to the program.
+
+After reading the scenario, please respond to A, B, and C below.
+
+Referencing the scenario, describe the type of grant established in the legislation and explain how it affects the relationship between the states and the federal government.
+Explain why states might prefer the type of funding provided for the Housing and Community Development Act of 1974 to the type of funding provided for previous programs directly administered by HUD.
+Describe the constitutional amendment that most supports the power of state governments in this situation, and explain how it relates to the scenario.
