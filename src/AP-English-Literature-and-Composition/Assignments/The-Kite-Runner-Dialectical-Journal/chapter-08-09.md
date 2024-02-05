@@ -40,7 +40,7 @@ After you're done, use the space at the bottom to write a claim about Amir's com
         A --> Fear
     ```
 
-By standing up to Assef, Hassan demonstrates his strength and pride in winning the final kite. However, this moment also instills feelings of great shame, overwhelming his feelings of pride and victory.
+    By standing up to Assef, Hassan demonstrates his strength and pride in winning the final kite. However, this moment also instills feelings of great shame, overwhelming his feelings of pride and victory.
 
 ### Amir's Emotions
 
@@ -54,7 +54,8 @@ graph
     A --> Anger
  
 ```
-Amir's emotional complexity is evident in his simultaneous feelings of envy and love towards Hassan, coupled with a profound guilt and regret over his own actions. While he deeply cares for Hassan, his envy and desire for his father's approval lead him to acts of betrayal and dishonesty. This internal conflict reveals the nuanced nature of human emotions, where love and envy can coexist, leading to actions that are deeply regrettable.
+Amir's emotional complexity, marked by a blend of love and envy for Hassan, drives him towards betrayal and dishonesty in a quest for his father's approval, revealing the intricate interplay of human emotions where love coexists with regrettable actions.
+
 ### Amir's Actions
 
 ```mermaid
@@ -65,4 +66,4 @@ graph
     B --> Observing_Injustice[[Observing Injustice]]
     B --> Hiding_Feelings[[Hiding Feelings]]
 ```
-Amir's actions display a complex interplay between his desire for his father's approval and his moral compass. His participation in the kite tournament and his writing are driven by a longing for recognition from Baba, yet these actions contrast sharply with his betrayal of Hassan and avoidance of confronting his guilt. This duality in his actions highlights the complexity of human behavior, where the pursuit of personal desires can conflict with moral obligations and lead to deeply conflicting actions.
+Amir's quest for his father's approval and moral struggles manifest in his kite flying and writing, yet clash with his betrayal of Hassan, illustrating the intricate dance of human desires and moral dilemmas.
