@@ -1,0 +1,21 @@
+# Chapter 12
+
+## Quotes
+
+Record at least 5 quotes from your assigned reading. Include page numbers in the next column.
+
+Respond, using a variety of reflection types. Use the codes above to label your responses and try to include a variety of different reflections.
+
+- Question: Pose a question or record something that confuses you so far.
+- Understand: Explain how a previous question or uncertainty has been answered for you.
+- Evaluate: Make a judgment on the character's actions, the author's message, or another facet of the text.
+- Reflect: Apply the quote to a broader theme or universal conflict. What does it tell you about the human condition?
+- Your World: Make a connection between the text and your life or experiences.
+
+| Quote                                                                                                                                                           | Response                                                                                                                                                                                                                                                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| "It may be unfair, but what happens in a few days, sometimes even a single day, can change the course of a whole lifetime, Amir," he said.                      | Reflect: This quote speaks to the profound impact of pivotal moments in our lives. It highlights how a single event can set the course of our future, serving as a reminder of the weight of our actions and decisions.                                                                                                                             |
+| "Sad stories make good books," she said.                                                                                                                        | Evaluate: This quote suggests a deeper truth about human nature and our connection to stories of struggle. It indicates that through sadness, we find depth, empathy, and a greater understanding of the human experience, highlighting the value of storytelling in processing our emotions.                                                       |
+| "No one finds out about this, you hear me? No one. I don't want anybody's sympathy."                                                                            | Your World: This quote reflects a common pride and desire for privacy in times of suffering. It resonates with my observation of how people often choose to face their battles silently, valuing dignity over pity, which speaks to the complex nature of human pride and vulnerability.                                                            |
+| "You're twenty-two years old, Amir! A grown man!"                                                                                                               | Question: This quote prompts me to question the expectations placed on us by society and our families regarding age and maturity. What does it truly mean to be a grown man, and are these expectations realistic or fair?                                                                                                                          |
+| "He chain-smoked the rest of that day in front of the TV. I didn't know what or whom he was defying. Me? Dr. Amani? Or maybe the God he had never believed in." | Reflect: This contemplation on defiance in the face of terminal illness speaks to a broader theme of human nature's struggle against inevitable outcomes. It's a reflection on the ways we seek control over our lives, even in the smallest acts of rebellion, showcasing the human spirit's resilience and stubbornness in the face of adversity. |
