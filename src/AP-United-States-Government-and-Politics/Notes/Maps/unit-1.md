@@ -1,4 +1,4 @@
-# American Government and Politics: The Stories of Our Nation
+# Unit 1 Democracy and the Constitution
 
 ## The Fight for Students’ Rights
 
