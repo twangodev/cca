@@ -10242,21 +10242,134 @@
 <h1 id="volume-ratios">Volume Ratios</h1>
 <p>This take home quiz will revolve around volumes and the cylinder that it is taken from (also, did you notice the pun?)</p>
 <ol>
-<li>Let the function <span class="arithmatex">\(f(t) = at\)</span> where <span class="arithmatex">\(a\)</span> is a positive real number. If we revolve the area under the curve from <span class="arithmatex">\(0 \leq t \leq x\)</span>, where x is a positive real number, around the x-axis, it will create a familiar shape. Draw a sketch of this situation on a set of axes. What is the volume of this solid, in terms of <span class="arithmatex">\(x\)</span>?</li>
-<li>Now consider the cylinder that is created when revolving the region under the constant function <span class="arithmatex">\(y=f(x)\)</span> (where is the function from before) in the first quadrant around the x-axis. Draw this cylinder on the same set of axes as before. What is the ratio of the volume of the familiar shape to the cylinder? (Hint: You should recognize that you just proved a formula from geometry).</li>
-<li>Now let <span class="arithmatex">\(g(t)=at^3\)</span>. Find the ratio of the solid formed when revolving the region under <span class="arithmatex">\(g(t)\)</span> from <span class="arithmatex">\(0 \leq t \leq x\)</span> around the x-axis to the cylinder that it "sits" in.</li>
-<li>Let <span class="arithmatex">\(h(t) = a \sqrt{t}\)</span>. Do the same thing as the previous question.</li>
-<li>Show that for any power function of the form <span class="arithmatex">\(f(t) = at^k\)</span>, where <span class="arithmatex">\(a\)</span> and <span class="arithmatex">\(k\)</span> are positive real numbers, that the ratio of the volume and the cylinder that it "sits" in is always a constant.</li>
+<li>
+<p>Let the function <span class="arithmatex">\(f(t) = at\)</span> where <span class="arithmatex">\(a\)</span> is a positive real number. If we revolve the area under the curve from <span class="arithmatex">\(0 \leq t \leq x\)</span>, where x is a positive real number, around the x-axis, it will create a familiar shape. Draw a sketch of this situation on a set of axes. What is the volume of this solid, in terms of <span class="arithmatex">\(x\)</span>?</p>
+<p><a class="glightbox" href="cone.svg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img align="left" alt="cone" src="cone.svg" width="240" /></a></p>
+<div class="arithmatex">\[
+\begin{align}
+V(x) &amp;= \pi \int_0^x f^2(t) dt\\
+&amp;= \pi \int_0^x (at)^2 dt\\
+&amp;= \pi a^2 \int_0^x t^2 dt\\
+&amp;= \pi a^2 \left[\frac{t^3}{3}\right]_0^x\\
+&amp;= \frac{\pi}{3}a^2x^3
+\end{align}
+\]</div>
+</li>
+<li>
+<p>Now consider the cylinder that is created when revolving the region under the constant function <span class="arithmatex">\(y=f(x)\)</span> (where <span class="arithmatex">\(f\)</span> is the function from before) in the first quadrant around the x-axis. Draw this cylinder on the same set of axes as before. What is the ratio of the volume of the familiar shape to the cylinder? (Hint: You should recognize that you just proved a formula from geometry).</p>
+<p><a class="glightbox" href="cylinder.svg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img align="left" alt="cylinder" src="cylinder.svg" width="240" /></a></p>
+<div class="arithmatex">\[
+\begin{align}
+C(x) &amp;= \pi x \int_0^x f^2(x)dt\\
+&amp;= \pi x \cdot (ax)^2\\
+&amp;= \pi a^2 x^3\\\\
+\frac{V(x)}{C(x)} &amp;= \frac{\frac{\pi}{3}a^2x^3}{\pi a^2 x^3}\\
+&amp;= \frac{1}{3}
+\end{align}
+\]</div>
+</li>
+<li>
+<p>Now let <span class="arithmatex">\(g(t)=at^3\)</span>. Find the ratio of the solid formed when revolving the region under <span class="arithmatex">\(g(t)\)</span> from <span class="arithmatex">\(0 \leq t \leq x\)</span> around the x-axis to the cylinder that it "sits" in.</p>
+<div class="arithmatex">\[
+\begin{align}
+\pi \int_0^x g(t)^2 dt &amp;= \pi \int_0^x (at^3)^2 dt\\
+&amp;= \pi a^2 \int_0^x t^6 dt\\
+&amp;= \pi a^2 \left[\frac{t^7}{7}\right]_0^x\\
+&amp;= \frac{\pi}{7}a^2x^7\\\\
+C_2(x) &amp;= \pi x \int_0^x g(x)^2 dt\\
+&amp;= \pi x \cdot (ax^3)^2\\
+&amp;= \pi a^2 x^7\\\\
+\frac{V(x)}{C_2(x)} &amp;= \frac{\frac{\pi}{7}a^2x^7}{\pi a^2 x^7}\\
+&amp;= \frac{1}{7}
+\end{align}
+\]</div>
+</li>
+<li>
+<p>Let <span class="arithmatex">\(h(t) = a \sqrt{t}\)</span>. Do the same thing as the previous question.</p>
+<div class="arithmatex">\[
+\begin{align}
+\pi \int_0^x h(t)^2 dt &amp;= \pi \int_0^x (a\sqrt{t})^2 dt\\
+&amp;= \pi a^2 \int_0^x t dt\\
+&amp;= \pi a^2 \left[\frac{t^2}{2}\right]_0^x\\
+&amp;= \frac{\pi}{2}a^2x^2\\\\
+C_3(x) &amp;= \pi x \int_0^x h(x)^2 dt\\
+&amp;= \pi x \cdot (a\sqrt{x})^2\\
+&amp;= \pi a^2 x^2\\\\
+\frac{V(x)}{C_3(x)} &amp;= \frac{\frac{\pi}{2}a^2x^2}{\pi a^2 x^2}\\
+&amp;= \frac{1}{2}
+\end{align}
+\]</div>
+</li>
+<li>
+<p>Show that for any power function of the form <span class="arithmatex">\(f(t) = at^k\)</span>, where <span class="arithmatex">\(a\)</span> and <span class="arithmatex">\(k\)</span> are positive real numbers, that the ratio of the volume and the cylinder that it "sits" in is always a constant.</p>
+<div class="arithmatex">\[
+\begin{align}
+\pi \int_0^x f(t)^2 dt &amp;= \pi \int_0^x (at^k)^2 dt\\
+&amp;= \pi a^2 \int_0^x t^{2k} dt\\
+&amp;= \pi a^2 \left[\frac{t^{2k+1}}{2k+1}\right]_0^x\\
+&amp;= \frac{\pi}{2k+1}a^2x^{2k+1}\\\\
+C_4(x) &amp;= \pi x \int_0^x f(x)^2 dt\\
+&amp;= \pi x \cdot (ax^k)^2\\
+&amp;= \pi a^2 x^{2k+1}\\\\
+\frac{V(x)}{C_4(x)} &amp;= \frac{\frac{\pi}{2k+1}a^2x^{2k+1}}{\pi a^2 x^{2k+1}}\\
+&amp;= \frac{1}{2k+1}
+\end{align}
+\]</div>
+</li>
 </ol>
 <p>Let <span class="arithmatex">\(V(x)\)</span> be the volumes that you found before and <span class="arithmatex">\(C(x)\)</span> be the cylinders that you used before. You've shown <span class="arithmatex">\(\frac{V(x)}{C(x)}\)</span> should be constant for power functions. Now we're going to prove a more interesting result.</p>
 <ol>
-<li>Let <span class="arithmatex">\(y =  f\)</span> be a positive, increasing, twice-differentiable function. Let <span class="arithmatex">\(\frac{V(x)}{C(x)} = Q\)</span>, which is a constant Q. Differentiate both sides to show that <span class="arithmatex">\(V = \frac{cv'}{c'}\)</span></li>
-<li>Use <span class="arithmatex">\(C(x)=\pi x\cdot f^2(x)\)</span> and <span class="arithmatex">\(V(x) = \int_0^x \pi f^2(t) dt\)</span>. What is <span class="arithmatex">\(V'\)</span>?</li>
-<li>Let <span class="arithmatex">\(y=f(x)\)</span>. If <span class="arithmatex">\(V = \frac{cv'}{c'}\)</span>, show by implicit differentiation that <span class="arithmatex">\(y^2= \frac{(y+2xy')(3xy^2y'+y^3)-(xy^3)(3y'+2xy'')}{(y+2xy')^2}\)</span></li>
-<li>Now show that the above simplifies to <span class="arithmatex">\(xyy'' - xy'^2\)</span></li>
-<li>Divide both sides by <span class="arithmatex">\(xyy'\)</span> and then integrate. (Hint: If you're confused, use a u-sub)</li>
-<li>Solve the result for $\frac{y'}{y} and then integrate again. You should have shown something interesting about power functions.</li>
+<li>
+<p>Let <span class="arithmatex">\(y = f\)</span> be a positive, increasing, twice-differentiable function. Let <span class="arithmatex">\(\frac{V(x)}{C(x)} = Q\)</span>, which is a constant Q. Differentiate both sides to show that <span class="arithmatex">\(V = \frac{cv'}{c'}\)</span></p>
+<div class="arithmatex">\[
+\begin{align}
+\frac{d}{dx}\left[\frac{V(x)}{C(x)}\right] &amp;= \frac{d}{dx}Q\\
+\frac{C(x)V'(x)-V(x)C'(x)}{C(x)^2} &amp;= 0\\
+C(x)V'(x)-V(x)C'(x) &amp;= 0\\
+C(x)V'(x) &amp;= V(x)C'(x)\\\\
+V(x) &amp;= \frac{C(x)V'(x)}{C'(x)} \quad \blacksquare
+\end{align}
+\]</div>
+</li>
+<li>
+<p>Use <span class="arithmatex">\(C(x)=\pi x\cdot f^2(x)\)</span> and <span class="arithmatex">\(V(x) = \int_0^x \pi f^2(t) dt\)</span>. What is <span class="arithmatex">\(V'\)</span>?</p>
+<div class="arithmatex">\[
+\begin{align}
+\frac{d}{dx}V(x) &amp;= \frac{d}{dx}\int_0^x \pi f^2(t) dt\\
+&amp;= \pi f^2(x)
+\end{align}
+\]</div>
+</li>
+<li>
+<p>Let <span class="arithmatex">\(y=f(x)\)</span>. If <span class="arithmatex">\(V = \frac{cv'}{c'}\)</span>, show by implicit differentiation that</p>
+<div class="arithmatex">\[
+\begin{align}
+y^2= \frac{(y+2xy')(3xy^2y'+y^3)-(xy^3)(3y'+2xy'')}{(y+2xy')^2}\\\\
+\end{align}
+\]</div>
+</li>
+<li>
+<p>Now show that the above simplifies to <span class="arithmatex">\(xyy'' - xy'^2\)</span></p>
+</li>
 </ol>
+<div class="arithmatex">\[
+\begin{align}
+\end{align}
+\]</div>
+<ol>
+<li>Divide both sides by <span class="arithmatex">\(xyy'\)</span> and then integrate. (Hint: If you're confused, use a u-sub)</li>
+</ol>
+<div class="arithmatex">\[
+\begin{align}
+\end{align}
+\]</div>
+<ol>
+<li>Solve the result for <span class="arithmatex">\(\frac{y'}{y}\)</span> and then integrate again. You should have shown something interesting about power functions.</li>
+</ol>
+<div class="arithmatex">\[
+\begin{align}
+\end{align}
+\]</div>
 
 
 
@@ -10279,7 +10392,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 11, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 12, 2024</span>
   </span>
 
     
