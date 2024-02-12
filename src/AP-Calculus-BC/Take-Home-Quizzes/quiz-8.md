@@ -115,7 +115,6 @@ $$\int_{-\pi}^{\pi}f(x)=\int_{-\pi}^{\pi}b_{1}\sin(x)+b_{2}\sin(2x)+b_{3}\sin(3x
 
     <iframe src="https://www.desmos.com/calculator/u6cmpfjmnd?embed" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-
 6. Show, using identities, that the Fourier series that you generated is EXACTLY the same as $f(x)$.
 
 $$
@@ -135,7 +134,7 @@ Now we are going to consider the Fourier series for a general function.
 
 1. What is the value of $\int_{-\pi}^{\pi}\sin(nx)\cos(mx)dx$ for all values of $n=m$. and $n\ne m$? (Hint: Remember that one function is odd, one function is even. What kind of function must their product be? What does that mean about the integral?)
 
-    For $n=m$:
+    When $n=m$:
 
     $$
     \begin{align}
@@ -225,15 +224,15 @@ Now we are going to consider the Fourier series for a general function.
     \begin{aligned}
     a_0 &= \frac{1}{2\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}dx &= 0.5\\
     a_1 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\cos(x)dx &= 0\\
-    b_1 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\sin(x)dx &= -.3913\\
+    b_1 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\sin(x)dx &\approx -.3913\\
     a_2 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\cos(2x)dx &= 0\\
-    b_2 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\sin(2x)dx &= 0.1447\\
+    b_2 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\sin(2x)dx &\approx 0.1447\\
     a_3 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\cos(3x)dx &= 0\\
-    b_3 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\sin(3x)dx &= -0.0982\\
+    b_3 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\sin(3x)dx &\approx -0.0982\\
     a_4 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\cos(4x)dx &= 0\\
-    b_4 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\sin(4x)dx &= 0.0733\\
+    b_4 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\sin(4x)dx &\approx 0.0733\\
     a_5 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\cos(5x)dx &= 0\\
-    b_5 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\sin(5x)dx &= -0.0585\\
+    b_5 &= \frac{1}{\pi}\int_{-\pi}^{\pi}\frac{1}{1+e^{x}}\sin(5x)dx &\approx -0.0585\\
     \end{aligned}
     $$
 
