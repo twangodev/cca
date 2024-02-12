@@ -18,7 +18,7 @@
         <link rel="prev" href="quiz-6.html">
       
       
-        <link rel="next" href="quiz-9.html">
+        <link rel="next" href="quiz-8.html">
       
       
       <link rel="icon" href="../../assets/favicon.ico">
@@ -947,6 +947,27 @@
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="quiz-8.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fourier Series (Part 2)
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -10325,7 +10346,7 @@ F(x) = \sum_{k=0}^{\infty} a_k\cos{kx} + b_k\sin{kx}
 \]</div>
 <p>To write a Fourier series, the goal is to find values of <span class="arithmatex">\(a_{k}\)</span> and <span class="arithmatex">\(b_{k}\)</span> to approximate a function <span class="arithmatex">\(f(x)\)</span>.
 Here is a picture of approximating the function <span class="arithmatex">\(f(x)=e^{-x^{2}}\)</span> using a second-order Fourier approximation.</p>
-<iframe src="https://www.desmos.com/calculator/g9x9aptg8n?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/g9x9aptg8n?embed" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 <h2 id="fourier-series-for-even-functions">Fourier Series for Even Functions</h2>
 <p>We will begin by looking at only even functions, which have the property <span class="arithmatex">\(f(x)=f(-x)\)</span>, An even Fourier series, called <span class="arithmatex">\(F_{e}(x)\)</span> only has cosine terms (you should understand why...) and can be used to approximate the even function. Therefore,</p>
@@ -10435,7 +10456,7 @@ a_{3}&amp;=\frac{1}{\pi}\int_{-\pi}^{\pi}\cos(3x)f(x)dx
 <p>Now generalize to find <span class="arithmatex">\(a_{n}\)</span> in terms of <span class="arithmatex">\(\int_{-\pi}^{\pi}\cos{nx}f(x)dx\)</span>. (For <span class="arithmatex">\(n\ge 1\)</span>)</p>
 <div class="arithmatex">\[
 \begin{align}
-\int_{-\pi}^{\pi}\cos(nx)f(x)dx&amp;=\int_{-\pi}^{\pi}a_{0}\cos{nx}+\cdots+a_{n}\cos^2{nx}+\cdots dx\\
+\int_{-\pi}^{\pi}\cos(nx)f(x)dx&amp;=\int_{-\pi}^{\pi}\cdots + a_{n-1}\cos{x}\cos{nx}+a_{n}\cos^2{nx}+\cdots dx\\
 &amp;= \int_{-\pi}^{\pi}a_{n}\cos^2{nx}dx\\
 &amp;= \frac{a_{n}}{2}\int_{-\pi}^{\pi}1+\cos(2nx)dx\\
 &amp;= a_{n}\pi\\\\
@@ -10485,7 +10506,7 @@ F_e(x) = 0.28209 + 0.43939\cos(x) + 0.20754\cos(2x) + \cdots + 0.00109\cos(5x)
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">January 31, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 12, 2024</span>
   </span>
 
     
@@ -10564,13 +10585,13 @@ F_e(x) = 0.28209 + 0.43939\cos(x) + 0.20754\cos(2x) + \cdots + 0.00109\cos(5x)
         
         
           
-          <a href="quiz-9.html" class="md-footer__link md-footer__link--next" aria-label="Next: Volume Ratios">
+          <a href="quiz-8.html" class="md-footer__link md-footer__link--next" aria-label="Next: Fourier Series (Part 2)">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                Volume Ratios
+                Fourier Series (Part 2)
               </div>
             </div>
             <div class="md-footer__button md-icon">
