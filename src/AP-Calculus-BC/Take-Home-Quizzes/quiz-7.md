@@ -20,7 +20,7 @@ $$
 To write a Fourier series, the goal is to find values of $a_{k}$ and $b_{k}$ to approximate a function $f(x)$.
 Here is a picture of approximating the function $f(x)=e^{-x^{2}}$ using a second-order Fourier approximation.
 
-<iframe src="https://www.desmos.com/calculator/g9x9aptg8n?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/g9x9aptg8n?embed" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ## Fourier Series for Even Functions
 
@@ -141,7 +141,7 @@ $$
 
     $$
     \begin{align}
-    \int_{-\pi}^{\pi}\cos(nx)f(x)dx&=\int_{-\pi}^{\pi}a_{0}\cos{nx}+\cdots+a_{n}\cos^2{nx}+\cdots dx\\
+    \int_{-\pi}^{\pi}\cos(nx)f(x)dx&=\int_{-\pi}^{\pi}\cdots + a_{n-1}\cos{x}\cos{nx}+a_{n}\cos^2{nx}+\cdots dx\\
     &= \int_{-\pi}^{\pi}a_{n}\cos^2{nx}dx\\
     &= \frac{a_{n}}{2}\int_{-\pi}^{\pi}1+\cos(2nx)dx\\
     &= a_{n}\pi\\\\
