@@ -24,8 +24,6 @@ theme:
     - content.tabs.link
 
   palette:
-    - primary: red
-    - accent: red
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
