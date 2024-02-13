@@ -109,6 +109,36 @@ Let $V(x)$ be the volumes that you found before and $C(x)$ be the cylinders that
     \end{align}
     $$
 
+$$
+\begin{align}
+V'(x) &= (\frac{cv'}{c'})'\\
+&= \frac{c'[c'v' + cv''] -  cv'c''}{(c')^2}\\\\
+C'(x) &= (\pi y^2) + 2\pi xyy'\\
+&= \pi y(y + 2xy')\\\\
+C''(x) &= 2\pi yy' + 2\pi yy' + 2 \pi x (y')^2 + 2\pi x yy''\\
+&= 2\pi (2 yy' + x(y')^2 + xy'')\\\\
+V'(x) &= \pi y^2\\
+V''(x) &= 2\pi yy'\\\\
+\end{align}
+$$
+
+$$
+\begin{align}
+\small y^2 = \frac{(y+2xy')[(y+2xy')(\pi y) + (\pi xy^2)(2\pi yy') - (\pi x y^2)(\pi y^2)(2\pi) (2 yy' + x(y')^2 + xy''))(y)]}{(y+2xy')^2}
+\end{align}
+$$
+
+$$
+\begin{align}
+y^{2}&=\frac{y^{4}+2xy^{3}y^{\prime}+6x^{2}y^{2}(y)^{2}-2x^{2}y^{3}y^{\prime\prime}}{(y+2xy^{\prime})^{2}}\\\\
+&= (y+2xy^{\prime})(3xy^{2}y^{\prime}+y^{3})-(xy^{3})(3y+2xy^{\prime\prime}) \\
+&=3xy^{3}y^{\prime}+y^{4}+6x^{2}y^{2}(y^{\prime})^{2}+2xy^{3}y^{\prime} -3xy3y'-2x^2y^3y''\\
+&=y^{4}+2xy^{3}y^{\prime}+6x^{2}y^{2}(y^{\prime})^{2}-2x^{2}y^{5}y^{\prime\prime}\\
+&\text{ Expansion is equivalent to the original equation} \quad \blacksquare
+\end{align}
+$$
+
+
 4. Now show that the above simplifies to $xyy'' - xy'^2$
 
 $$
