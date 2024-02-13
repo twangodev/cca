@@ -8941,6 +8941,27 @@
 
               
             
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Senior-Bible/What-If-Jesus-Was-Serious/6.3-6.5.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pt. 6: 3-5
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -10423,8 +10444,6 @@ V(x) &amp;= \frac{C(x)V'(x)}{C'(x)} \quad \blacksquare
 y^2= \frac{(y+2xy')(3xy^2y'+y^3)-(xy^3)(3y'+2xy'')}{(y+2xy')^2}\\\\
 \end{align}
 \]</div>
-</li>
-</ol>
 <div class="arithmatex">\[
 \begin{align}
 V'(x) &amp;= (\frac{cv'}{c'})'\\
@@ -10451,27 +10470,48 @@ y^{2}&amp;=\frac{y^{4}+2xy^{3}y^{\prime}+6x^{2}y^{2}(y)^{2}-2x^{2}y^{3}y^{\prime
 &amp;\text{ Expansion is equivalent to the original equation} \quad \blacksquare
 \end{align}
 \]</div>
-<ol>
-<li>Now show that the above simplifies to <span class="arithmatex">\(xyy'' - xy'^2\)</span></li>
-</ol>
+</li>
+<li>
+<p>Now show that the above simplifies to <span class="arithmatex">\(xyy'' - xy'^2=-yy'\)</span></p>
 <div class="arithmatex">\[
 \begin{align}
+y^2 &amp;= \frac{3xy^3y' + y^4 + 6x^2y^2(y')^2 + 2xy'y^3 - 2x^2y^3y''}{y^2 + 4xyy' + 4x^2(y')^2}\\
+1 &amp;= \frac{y^2 + 6x^2(y')^2 + 2xy'y - 2x^2y''}{y^2 + 4xyy' + 4x^2(y')^2}\\\\
+y^2 + 4xyy' + 4x^2(y')^2 &amp;= y^2 + 6x^2(y')^2 + 2xy'y - 2x^2y''\\
+2yy' + 2x^2y'' &amp;= 2x^2y''\\
+xyy' -x(y')^2 &amp;= -yy' \quad \blacksquare
 \end{align}
 \]</div>
-<ol>
-<li>Divide both sides by <span class="arithmatex">\(xyy'\)</span> and then integrate. (Hint: If you're confused, use a u-sub)</li>
-</ol>
+</li>
+<li>
+<p>Divide both sides by <span class="arithmatex">\(xyy'\)</span> and then integrate. (Hint: If you're confused, use a u-sub)</p>
 <div class="arithmatex">\[
 \begin{align}
+\frac{xyy''}{xyy'} - \frac{x(y')^2}{xyy'} &amp;= -\frac{yy'}{xyy'}\\
+\frac{y''}{y'} - \frac{y'}{y} &amp;= -\frac{1}{x}\\
+\int \frac{y''}{y'} - \frac{y'}{y} dx &amp;= -\int \frac{1}{x} dx\\
+\ln|y'| - \ln|y| + C &amp;= -\ln|x|\\
 \end{align}
 \]</div>
-<ol>
-<li>Solve the result for <span class="arithmatex">\(\frac{y'}{y}\)</span> and then integrate again. You should have shown something interesting about power functions.</li>
-</ol>
+</li>
+<li>
+<p>Solve the result for <span class="arithmatex">\(\frac{y'}{y}\)</span> and then integrate again. You should have shown something interesting about power functions.</p>
 <div class="arithmatex">\[
 \begin{align}
+\ln|y'| - \ln|y| &amp;= -\ln|x| + C\\
+\ln\left|\frac{y'}{y}\right| &amp;= -\ln|x| + C\\
+\frac{y'}{y} &amp;= e^{-\ln|x| + C}\\
+\frac{y'}{y} &amp;= e^C \cdot e^{-\ln|x|}\\
+\frac{y'}{y} &amp;= e^C \cdot \frac{1}{x}\\
+\int \frac{y'}{y} &amp;= \int e^C \cdot \frac{1}{x} dx\\
+\ln|y| &amp;= e^C \cdot \ln|x| + D\\
+\ln|y| &amp;= \ln|x|^{e^C} + D\\
+y &amp;= x^D \cdot x^{e^C}\\
 \end{align}
 \]</div>
+<p>The result gives us a power function.</p>
+</li>
+</ol>
 
 
 
