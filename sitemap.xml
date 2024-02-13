@@ -1081,12 +1081,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Assignments/mcculloch-vs-maryland.html</loc>
+         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Cases/mcculloch-vs-maryland.html</loc>
          <lastmod>2024-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Assignments/new-york-vs-lopez.html</loc>
+         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Cases/new-york-vs-lopez.html</loc>
+         <lastmod>2024-02-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Cases/shaw-vs-reno.html</loc>
          <lastmod>2024-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
