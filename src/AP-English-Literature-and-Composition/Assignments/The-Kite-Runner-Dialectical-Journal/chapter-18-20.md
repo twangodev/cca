@@ -26,15 +26,15 @@ Consider the following quotes form various points in the novel. Knowing Baba's g
 
 - "But in none of his stories did Baba ever refer to Ali as his friend. The curious thing was, I never thought of Amir and me as friends either."
 
-  As an adult, Amir understands this distinction not merely as social or economic, but as a reflection of Baba's guilt and complex feelings towards Ali and Hassan. Baba's failure to acknowledge Ali as a friend mirrors his inability to publicly recognize Hassan as his son, reflecting the societal pressures and personal shame he feels.
+    As an adult, Amir understands this distinction not merely as social or economic, but as a reflection of Baba's guilt and complex feelings towards Ali and Hassan. Baba's failure to acknowledge Ali as a friend mirrors his inability to publicly recognize Hassan as his son, reflecting the societal pressures and personal shame he feels.
 
 - "It wasn't fair. Hassan hadn't done anything to earn Baba's affections; he'd just been born with that stupid harelip."
 
-  Knowing Baba's secret, this quote reveals Amir's jealousy and misunderstanding of the true nature of Baba's affection for Hassan. Baba's love for Hassan is paternal, not merely pity or favoritism, which Amir only fully comprehends later in life, recognizing his own failings and misinterpretations of his father's actions.
+    Knowing Baba's secret, this quote reveals Amir's jealousy and misunderstanding of the true nature of Baba's affection for Hassan. Baba's love for Hassan is paternal, not merely pity or favoritism, which Amir only fully comprehends later in life, recognizing his own failings and misinterpretations of his father's actions.
 
 - "A memory: Did you know Hassan and you fed from the same breast?... They say there is a brotherhood between people who've fed from the same breast. Did you know that?"
 
-  This takes on a deeper significance once Amir learns of their true relationship. It symbolizes the unacknowledged bond between them, not just as milk brothers but as half-brothers. Amir's adult perspective allows him to see the missed opportunities for brotherhood and connection, amplifying his feelings of guilt and longing for redemption.
+    This takes on a deeper significance once Amir learns of their true relationship. It symbolizes the unacknowledged bond between them, not just as milk brothers but as half-brothers. Amir's adult perspective allows him to see the missed opportunities for brotherhood and connection, amplifying his feelings of guilt and longing for redemption.
 
 
 Consider the quotes above and the book so far. Does Amir qualify as an unreliable narrator? Explain your answer with textual support.
