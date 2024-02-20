@@ -19,3 +19,13 @@
 2. How has seeking God's guidance and meditating on His Word brought clarity and peace to our life during challenging times?
 
     When I actually take a moment to seek God's guidance or think about what I've heard in church, it does make things feel less chaotic. It's like having a moment of quiet in the middle of a storm, even if I don't do it as often as I probably should.
+
+## Day 3: Lenten Reflection
+
+1. How can reflecting on God's attributes help you get through moments of doubt or despair in your life?
+
+    Reflecting on God's attributes, like His kindness, strength, and understanding, reminds me that I'm not alone in my struggles. It helps me trust that there's someone bigger than my doubts and despair, guiding and supporting me, even when I don't always see it or make time to acknowledge it.
+
+2. How has God been faithful in your life?
+
+    Even though I don't always notice it at the moment, looking back, I can see times when things just worked out when they shouldn't have, like doing well on a test I didn't think I was prepared for or getting through tough times with friends and family. It makes me think maybe that's God being faithful, making sure I'm okay even when I'm too busy to pay attention.
