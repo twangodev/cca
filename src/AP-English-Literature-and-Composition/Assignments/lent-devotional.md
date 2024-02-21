@@ -29,3 +29,14 @@
 2. How has God been faithful in your life?
 
     Even though I don't always notice it at the moment, looking back, I can see times when things just worked out when they shouldn't have, like doing well on a test I didn't think I was prepared for or getting through tough times with friends and family. It makes me think maybe that's God being faithful, making sure I'm okay even when I'm too busy to pay attention.
+
+## Day 4: Lenten Reflection
+
+1. When was the last time you were tempted?
+
+   The last time I was tempted was probably just yesterday, scrolling through my phone instead of studying for a big test coming up. It's like every time I know I have a lot to do, my phone becomes the most interesting thing in the world.
+
+2. How did you respond to this temptation? If you were tempted, do you regret giving in?
+
+   I ended up giving in to the temptation and wasted a bit of time watching videos and checking social media. Yeah, I do regret it because it made me even more stressed about the test. It's a constant battle to not let distractions take over when I really need to focus.
+
