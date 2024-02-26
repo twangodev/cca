@@ -1,4 +1,4 @@
-# Take Home Quiz 3: Higher Order Derivatives Using Limits
+#  Higher Order Derivatives Using Limits
 
 In class, you have used the limit definition of a derivative to find the derivative of a function. In this quiz, you are going to be using the limit definition to do higher order derivatives instead of using the usual "shortcut" methods.
 

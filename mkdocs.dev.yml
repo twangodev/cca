@@ -1,0 +1,109 @@
+site_name: CCA Guide
+
+repo_name: twangodev/cca
+repo_url: https://github.com/twangodev/cca
+edit_uri: edit/main/src/
+
+site_author: James Ding
+site_url: https://cca.twango.dev
+site_description: A handy guide and reference for students at California Crosspoint Academy.
+
+docs_dir: src
+
+theme:
+  name: material
+  logo: assets/cca.png
+  favicon: assets/favicon.ico
+  features:
+    - toc.follow
+    - navigation.top
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
+    - content.tabs.link
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to system preference
+
+#plugins:
+#  - search
+#  - glightbox
+#  - offline
+#  - social
+#  - charts
+#  - git-revision-date-localized:
+#      enable_creation_date: true
+#  - git-authors
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - def_list
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.keys
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - javascripts/kotlin.js
+  - https://unpkg.com/kotlin-playground@1
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+
+extra_css:
+  - stylesheets/kotlin.css
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css

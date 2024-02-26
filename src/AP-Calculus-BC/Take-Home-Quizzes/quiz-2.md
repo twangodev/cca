@@ -1,4 +1,4 @@
-# Take Home Quiz 2: Derivatives from a Different Perspective
+# Derivatives from a Different Perspective
 
 Typically, the derivative of a function is defined as:
 
