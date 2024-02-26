@@ -12,10 +12,9 @@ if (<condition1>) {
 }
 ```
 
-<aside>
-💡 Curly braces are not required for one-line if-else statements
+!!! tip
+    Curly braces are not required for one-line if-else statements
 
-</aside>
 
 ### Switch Statements
 
@@ -26,10 +25,8 @@ switch (<expression>) {
 	default: <expr>
 ```
 
-<aside>
-💡 Java will jump to the first matching case, and will execute blocks after matching case. To prevent execution of following cases, use `break` at the end of the block.
-
-</aside>
+!!! tip
+    Java will jump to the first matching case, and will execute blocks after matching case. To prevent execution of following cases, use `break` at the end of the block.
 
 ## Equality
 

@@ -23,21 +23,18 @@ double x = 1.1, y = 1.2, z; // only x and y are bound
 
 In Java, 8 primitive types are supported, and `String` (total 9). Each of these is **immutable**
 
-<aside>
-💡 `char` is defined with a single quote
+!!! tip
+    `char` is defined with a single quote
 
-</aside>
 
-<aside>
-💡 For precise calculations involving decimals, use `BigDecimal` instead of `float` or `double`, as floating points will result in rounding inaccuracies
-
-</aside>
+!!! tip
+    For precise calculations involving decimals, use `BigDecimal` instead of `float` or `double`, as floating points will result in rounding inaccuracies
 
 ### Arithmetic
 
 Integer - Integer division will result in a integer, but floored
 
-Other mixed arithmetic operations will covert all of the operands into doubles before dividing
+Other mixed arithmetic operations will covert all the operands into doubles before dividing
 
 #### Evaluation Rule
 
@@ -57,10 +54,8 @@ int c = ++a;
 System.out.println(a + " " + b + " " + c); // 2 0 2
 ```
 
-<aside>
-💡 Java’s order of evaluation of `a++` will bind `b` to `a`, then perform the `++` operation on `a`, incrementing the value of `a`. Likewise, `++a` will increment, then bind.
-
-</aside>
+!!! tip
+    Java’s order of evaluation of `a++` will bind `b` to `a`, then perform the `++` operation on `a`, incrementing the value of `a`. Likewise, `++a` will increment, then bind.
 
 The operation `--` has the same behavior as `++`, other than the fact that it subtracts
 
