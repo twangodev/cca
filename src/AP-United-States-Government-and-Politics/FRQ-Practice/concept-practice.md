@@ -4,7 +4,6 @@
 
 ### Prompt
 
-
 The Food and Drug Administration (FDA) is the federal agency responsible for the approval, regulation, and control of prescription medications. All prescription medications must complete an extensive FDA approval process, which can take years. In an attempt to expedite this process, Congress passed the Biologics Price Competition and Innovation Act in 2009, which created a faster approval pathway for biologic products that are highly similar to existing FDA-approved medications. The law applies only to biologic products, those produced with living organisms, but not to chemically produced drugs. Insulin is a vital prescription medication used to treat diabetes. Over an eight-year period, beginning in 2009, the average price of insulin increased from $90 to $275 a vial. Since insulin was not regulated as a biologic, the time necessary to gain FDA approval prevented new companies from developing less expensive alternatives.
 
 In 2017, public attention to the rising cost of insulin led the FDA to reclassify the drug as a biologic, thereby lessening the amount of time it took for new companies to get FDA approval. With more manufacturers competing in the marketplace, prices would likely drop.
