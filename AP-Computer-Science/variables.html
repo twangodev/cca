@@ -1128,7 +1128,7 @@
         
   
   <span class="md-ellipsis">
-    Base 10: Decimal
+    Number Systems
   </span>
   
 
@@ -11168,19 +11168,17 @@
 </span></code></pre></div>
 <h2 id="primitive-types">Primitive Types</h2>
 <p>In Java, 8 primitive types are supported, and <code>String</code> (total 9). Each of these is <strong>immutable</strong></p>
-<aside>
-💡 `char` is defined with a single quote
-
-</aside>
-
-<aside>
-💡 For precise calculations involving decimals, use `BigDecimal` instead of `float` or `double`, as floating points will result in rounding inaccuracies
-
-</aside>
-
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p><code>char</code> is defined with a single quote</p>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>For precise calculations involving decimals, use <code>BigDecimal</code> instead of <code>float</code> or <code>double</code>, as floating points will result in rounding inaccuracies</p>
+</div>
 <h3 id="arithmetic">Arithmetic</h3>
 <p>Integer - Integer division will result in a integer, but floored</p>
-<p>Other mixed arithmetic operations will covert all of the operands into doubles before dividing</p>
+<p>Other mixed arithmetic operations will covert all the operands into doubles before dividing</p>
 <h4 id="evaluation-rule">Evaluation Rule</h4>
 <p>Java follows PEMDAS: Parenthesis, Exponents, Multiply, Divide, Add, and Subtract</p>
 <h4 id="automatic-flooring">Automatic Flooring</h4>
@@ -11192,11 +11190,10 @@
 </span><span id="__span-2-4"><a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a><span class="kt">int</span><span class="w"> </span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="o">++</span><span class="n">a</span><span class="p">;</span>
 </span><span id="__span-2-5"><a id="__codelineno-2-5" name="__codelineno-2-5" href="#__codelineno-2-5"></a><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">a</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">&quot; &quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="s">&quot; &quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">c</span><span class="p">);</span><span class="w"> </span><span class="c1">// 2 0 2</span>
 </span></code></pre></div>
-<aside>
-💡 Java’s order of evaluation of `a++` will bind `b` to `a`, then perform the `++` operation on `a`, incrementing the value of `a`. Likewise, `++a` will increment, then bind.
-
-</aside>
-
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Java’s order of evaluation of <code>a++</code> will bind <code>b</code> to <code>a</code>, then perform the <code>++</code> operation on <code>a</code>, incrementing the value of <code>a</code>. Likewise, <code>++a</code> will increment, then bind.</p>
+</div>
 <p>The operation <code>--</code> has the same behavior as <code>++</code>, other than the fact that it subtracts</p>
 <h4 id="arithmetic-assignments-same-behavior-as-in-python">Arithmetic Assignments (same behavior as in Python)</h4>
 <p><code>+=</code>, <code>-=</code>, <code>*=</code>, <code>/=</code>, <code>%=</code></p>
@@ -11232,7 +11229,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 3, 2023</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 26, 2024</span>
   </span>
 
     

@@ -26,7 +26,7 @@
     
     
       
-        <title>Base 10: Decimal - CCA Guide</title>
+        <title>Number Systems - CCA Guide</title>
       
     
     
@@ -67,7 +67,7 @@
       
         <meta  property="og:type"  content="website" >
       
-        <meta  property="og:title"  content="Base 10: Decimal - CCA Guide" >
+        <meta  property="og:title"  content="Number Systems - CCA Guide" >
       
         <meta  property="og:description"  content="A handy guide and reference for students at California Crosspoint Academy." >
       
@@ -83,7 +83,7 @@
       
         <meta  name="twitter:card"  content="summary_large_image" >
       
-        <meta  name="twitter:title"  content="Base 10: Decimal - CCA Guide" >
+        <meta  name="twitter:title"  content="Number Systems - CCA Guide" >
       
         <meta  name="twitter:description"  content="A handy guide and reference for students at California Crosspoint Academy." >
       
@@ -119,7 +119,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#base-10-decimal" class="md-skip">
+        <a href="#number-systems" class="md-skip">
           Skip to content
         </a>
       
@@ -154,7 +154,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Base 10: Decimal
+              Number Systems
             
           </span>
         </div>
@@ -1133,15 +1133,219 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Number Systems
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="number-systems.html" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
-    Base 10: Decimal
+    Number Systems
   </span>
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#base-10-decimal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Base 10: Decimal
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#base-2-binary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Base 2: Binary
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Base 2: Binary">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#storing-binary-in-java" class="md-nav__link">
+    <span class="md-ellipsis">
+      Storing Binary in Java
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#recursively-converting-decimal-to-binary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Recursively Converting Decimal to Binary
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Recursively Converting Decimal to Binary">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#base-2-storage-units" class="md-nav__link">
+    <span class="md-ellipsis">
+      Base 2 Storage Units
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Base 2 Storage Units">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bit" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bit
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#byte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Byte
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kilobyte-kb" class="md-nav__link">
+    <span class="md-ellipsis">
+      Kilobyte (KB)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#megabyte-mb" class="md-nav__link">
+    <span class="md-ellipsis">
+      Megabyte (MB)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gigabyte-gb" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gigabyte (GB)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#base-8-octal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Base 8: Octal
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Base 8: Octal">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#storing-octal-in-java" class="md-nav__link">
+    <span class="md-ellipsis">
+      Storing Octal in Java
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#converting-decimal-to-octal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Converting Decimal to Octal
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#base-16-hexadecimal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Base 16: Hexadecimal
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Base 16: Hexadecimal">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#storing-hexadecimal-in-java" class="md-nav__link">
+    <span class="md-ellipsis">
+      Storing Hexadecimal in Java
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#converting-decimal-to-hexadecimal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Converting Decimal to Hexadecimal
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -10746,6 +10950,188 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#base-10-decimal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Base 10: Decimal
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#base-2-binary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Base 2: Binary
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Base 2: Binary">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#storing-binary-in-java" class="md-nav__link">
+    <span class="md-ellipsis">
+      Storing Binary in Java
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#recursively-converting-decimal-to-binary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Recursively Converting Decimal to Binary
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Recursively Converting Decimal to Binary">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#base-2-storage-units" class="md-nav__link">
+    <span class="md-ellipsis">
+      Base 2 Storage Units
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Base 2 Storage Units">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bit" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bit
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#byte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Byte
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kilobyte-kb" class="md-nav__link">
+    <span class="md-ellipsis">
+      Kilobyte (KB)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#megabyte-mb" class="md-nav__link">
+    <span class="md-ellipsis">
+      Megabyte (MB)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gigabyte-gb" class="md-nav__link">
+    <span class="md-ellipsis">
+      Gigabyte (GB)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#base-8-octal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Base 8: Octal
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Base 8: Octal">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#storing-octal-in-java" class="md-nav__link">
+    <span class="md-ellipsis">
+      Storing Octal in Java
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#converting-decimal-to-octal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Converting Decimal to Octal
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#base-16-hexadecimal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Base 16: Hexadecimal
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Base 16: Hexadecimal">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#storing-hexadecimal-in-java" class="md-nav__link">
+    <span class="md-ellipsis">
+      Storing Hexadecimal in Java
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#converting-decimal-to-hexadecimal" class="md-nav__link">
+    <span class="md-ellipsis">
+      Converting Decimal to Hexadecimal
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -10775,57 +11161,57 @@
   
 
 
-<h1 id="base-10-decimal">Base 10: Decimal</h1>
+<h1 id="number-systems">Number Systems</h1>
+<h2 id="base-10-decimal">Base 10: Decimal</h2>
 <p>Only 10 digits exist in the system: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9</p>
 <p>Used commonly in math, is the default representation of numbers in Java</p>
-<h1 id="base-2-binary">Base 2: Binary</h1>
+<h2 id="base-2-binary">Base 2: Binary</h2>
 <p>Only uses two digits, 0 and 1</p>
-<h2 id="storing-binary-in-java">Storing Binary in Java</h2>
+<h3 id="storing-binary-in-java">Storing Binary in Java</h3>
 <p>To store binary in Java, the <code>0b</code> header is used to indicate binary</p>
 <div class="language-java highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="kt">int</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mb">0b100110</span><span class="p">;</span>
 </span></code></pre></div>
-<h2 id="recursively-converting-decimal-to-binary">Recursively Converting Decimal to Binary</h2>
+<h3 id="recursively-converting-decimal-to-binary">Recursively Converting Decimal to Binary</h3>
 <div class="language-java highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="kt">int</span><span class="w"> </span><span class="nf">decimalToBinary</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">decimal</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
 </span><span id="__span-1-2"><a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a><span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">decimal</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
 </span><span id="__span-1-3"><a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="n">decimalToBinary</span><span class="p">(</span><span class="n">decimal</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="mi">2</span><span class="p">)</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="mi">10</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">decimal</span><span class="w"> </span><span class="o">%</span><span class="w"> </span><span class="mi">2</span><span class="p">;</span>
 </span><span id="__span-1-4"><a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a><span class="p">}</span>
 </span></code></pre></div>
-<h3 id="base-2-storage-units">Base 2 Storage Units</h3>
-<h4 id="bit">Bit</h4>
+<h4 id="base-2-storage-units">Base 2 Storage Units</h4>
+<h5 id="bit">Bit</h5>
 <p>The state of a single bit of memory, whether its <code>0</code> or <code>1</code>.</p>
-<h4 id="byte">Byte</h4>
+<h5 id="byte">Byte</h5>
 <p>8 bits</p>
-<h4 id="kilobyte-kb">Kilobyte (KB)</h4>
+<h5 id="kilobyte-kb">Kilobyte (KB)</h5>
 <p>1,024 Bytes</p>
-<h4 id="megabyte-mb">Megabyte (MB)</h4>
+<h5 id="megabyte-mb">Megabyte (MB)</h5>
 <p>1,024 KB</p>
-<h4 id="gigabyte-gb">Gigabyte (GB)</h4>
+<h5 id="gigabyte-gb">Gigabyte (GB)</h5>
 <p>1,024 MB</p>
-<h1 id="base-8-octal">Base 8: Octal</h1>
+<h2 id="base-8-octal">Base 8: Octal</h2>
 <p>Only 8 digits within the system: 0, 1, 2, 3, 4, 5, 6, 7</p>
-<h2 id="storing-octal-in-java">Storing Octal in Java</h2>
+<h3 id="storing-octal-in-java">Storing Octal in Java</h3>
 <p>To store octal in Java, the <code>0</code> header is used</p>
 <div class="language-java highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="kt">int</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mo">03</span><span class="mi">84</span><span class="p">;</span>
 </span></code></pre></div>
-<h2 id="converting-decimal-to-octal">Converting Decimal to Octal</h2>
-<p>Similar to <a href="https://www.notion.so/Recursively-Converting-Decimal-to-Binary-801bd64436414ca58f15a8b6c0ef38bc?pvs=21">Recursively Converting Decimal to Binary</a>, we use the 8 digits instead of 2</p>
+<h3 id="converting-decimal-to-octal">Converting Decimal to Octal</h3>
+<p>Similar to <a href="#recursively-converting-decimal-to-binary">Recursively Converting Decimal to Binary</a>, we use the 8 digits instead of 2</p>
 <div class="language-java highlight"><pre><span></span><code><span id="__span-3-1"><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="kt">int</span><span class="w"> </span><span class="nf">decimalToOctal</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">decimal</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
 </span><span id="__span-3-2"><a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a><span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">decimal</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
 </span><span id="__span-3-3"><a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a><span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">decimalToOctal</span><span class="p">(</span><span class="n">decimal</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="mi">8</span><span class="p">)</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="mi">10</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">decimal</span><span class="w"> </span><span class="o">%</span><span class="w"> </span><span class="mi">8</span><span class="p">;</span>
 </span><span id="__span-3-4"><a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a><span class="p">}</span>
 </span></code></pre></div>
-<h1 id="base-16-hexadecimal">Base 16: Hexadecimal</h1>
+<h2 id="base-16-hexadecimal">Base 16: Hexadecimal</h2>
 <p>Only 16 digits in the system: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F</p>
-<aside>
-💡 Hexadecimal uses characters A-F to represents 10-15, respectively
-
-</aside>
-
-<h2 id="storing-hexadecimal-in-java">Storing Hexadecimal in Java</h2>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Hexadecimal uses characters A-F to represents 10-15, respectively</p>
+</div>
+<h3 id="storing-hexadecimal-in-java">Storing Hexadecimal in Java</h3>
 <p>To store hexadecimal in Java, the <code>0x</code> header is used</p>
 <div class="language-java highlight"><pre><span></span><code><span id="__span-4-1"><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="kt">int</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mh">0x4CB3</span><span class="p">;</span>
 </span></code></pre></div>
-<h2 id="converting-decimal-to-hexadecimal">Converting Decimal to Hexadecimal</h2>
+<h3 id="converting-decimal-to-hexadecimal">Converting Decimal to Hexadecimal</h3>
 <div class="language-java highlight"><pre><span></span><code><span id="__span-5-1"><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="n">String</span><span class="w"> </span><span class="nf">getHexString</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">decimal</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="c1">// Map hex string to </span>
 </span><span id="__span-5-2"><a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a><span class="w">    </span><span class="k">switch</span><span class="w"> </span><span class="p">(</span><span class="n">decimal</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
 </span><span id="__span-5-3"><a id="__codelineno-5-3" name="__codelineno-5-3" href="#__codelineno-5-3"></a><span class="w">        </span><span class="k">case</span><span class="w"> </span><span class="mi">10</span><span class="p">:</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="s">&quot;A&quot;</span><span class="p">;</span>
@@ -10865,7 +11251,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 3, 2023</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 26, 2024</span>
   </span>
 
     
