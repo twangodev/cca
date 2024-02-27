@@ -1,4 +1,4 @@
-# Shaw vs Reno
+# Shaw vs. Reno
 
 ## Background
 - **Name of the Case:** Shaw v. Reno
