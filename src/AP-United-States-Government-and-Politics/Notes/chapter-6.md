@@ -24,7 +24,7 @@
 
 ### Caperton v. Massey Coal Co. Case
 
-- **Background**: The case focused on undue influence from campaign contributions on judicial decisions.
+- **Background**: The case focused on undue influence from campaign contributions to judicial decisions.
 - **Supreme Court's Decision**: Ruled that extraordinary contributions can create a conflict of interest, requiring recusal to ensure due process.
 
 ### Sotomayor's Appointment to the Supreme Court
