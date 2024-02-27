@@ -59,3 +59,34 @@
 2. How do we continue to have faith in God in times of hardship fear and turmoil?
 
    Keeping faith in God during tough times is really hard, especially when you're overwhelmed with school, friends, and everything else. For me, it's about trying to remember the times things turned out okay in the end and believing there's a bigger plan. Sometimes, just talking to someone who understands or praying in my own way helps me feel a bit more hopeful, even if it doesn't solve everything right away.
+
+## Tuesday, February 27, 2024
+
+1. Is there ever a moment where you think Go dwas not providing? If so, when?
+
+   There have definitely been times when I've felt unsupported, not necessarily looking to a higher power for provision but more so in terms of not seeing the outcomes I've hoped for in life's challenges, like academic or personal setbacks.
+
+2. How are you able to overcome feelings of doubt in your faith?
+
+   Dealing with doubt, for me, isn't so much about faith in a religious sense but more about finding inner strength and resilience. I overcome these feelings by focusing on what I can control, like my effort and attitude, and by seeking support and advice from people I trust, who understand my viewpoint and struggles.
+
+## Wednesday, February 28, 2024
+
+1. In what ways do you see yourself improving, whether it is mentally or spiritually, so that you can proudly embrace Jesus Lent? What obstacles do you think you will encounter?
+
+   I'm working on being more patient and understanding, but finding the time and staying motivated are big challenges for me.
+
+2. Do you think that peer pressure or friends of other faiths will dishearten you to behave or actin a away that is unlike what Jesus teachers you? How will you overcome them? Are you personally more likely to concede to their side or will you stand your ground?
+
+   Peer pressure is tough, but I try to stick to my values while respecting others'. It's all about balancing my beliefs with the influences around me.
+
+
+## Friday, March 1, 2024
+
+1. How did contemplating the vastness of creation deepen your appreciation for God's creation in your life?
+
+    Even though I don't spend much time on religion, thinking about the vastness of the universe does make me appreciate the complexity and beauty of the world around us. It's pretty awe-inspiring and makes me wonder about the bigger picture.
+
+2. How can you actively align your choices with God's commandments to experience the joy mentioned in Psalm 19:8?
+
+    By trying to make choices that are kind and fair to others, I guess I'm aligning with the spirit of many teachings, which could bring a sense of joy and peace, similar to what's mentioned in Psalm 19:8, even if I'm not actively practicing religion.
