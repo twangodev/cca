@@ -14,10 +14,9 @@ A snippet of the Hello World code
 
 Classes are often referred to as blueprints in programming. Specifically, they represent data abstractions. Classes are used to create, or “instantiate” objects, which can be updated to represent behaviors and change.
 
-<aside>
-💡 Java is an object-oriented language, meaning that everything must be contained within a class
+!!! tip
+    Java is an object-oriented language, meaning that everything must be contained within a class
 
-</aside>
 
 When thinking about classes, ask yourself, what does it represent? How does it behave?
 
@@ -29,45 +28,41 @@ Source code becomes Java bytecode (has ending of `.class`). Bytecode can run on 
 
 Compile java files in the command line with `javac`, then execute the generated `.class` file with `java`
 
-<aside>
-💡 File names must be the same as the class name, otherwise there will be a compilation error
+!!! tip
+    File names must be the same as the class name, otherwise there will be a compilation error
 
-</aside>
 
 ## Differences between `print()` and `println()`
 
 `print()` only appends to the standard output, but `println()` will print on a new line.
 
-<aside>
-💡 `println(str);` is equivalent to `print(str + "\n");`
-
-</aside>
+!!! tip 
+    `println(str);` is equivalent to `print(str + "\n");`
 
 ## Strings
 
 ### Relevant String Methods
 
-| Signature | Description | Return Type |
-| --- | --- | --- |
-| substring(startIndex, endIndex?) | Returns a substring from startIndex (inclusive) to endIndex (exclusive). If endIndex is not specified, it returns everything after startIndex | String |
-| toLowerCase() | Returns a String with all lowercase letters | String |
-| toUpperCase() | Returns a String with all uppercase letters | String |
-| replace(target, replacement) | Returns a String which replaces all instances of target with replacement | String |
+| Signature                        | Description                                                                                                                                   | Return Type |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| substring(startIndex, endIndex?) | Returns a substring from startIndex (inclusive) to endIndex (exclusive). If endIndex is not specified, it returns everything after startIndex | String      |
+| toLowerCase()                    | Returns a String with all lowercase letters                                                                                                   | String      |
+| toUpperCase()                    | Returns a String with all uppercase letters                                                                                                   | String      |
+| replace(target, replacement)     | Returns a String which replaces all instances of target with replacement                                                                      | String      |
 
-<aside>
-💡 Note: Methods that return a `String` will not change the original `String`, as `String` is immutable
+!!! note 
+    Methods that return a `String` will not change the original `String`, as `String` is immutable
 
-</aside>
 
 ### Escape Sequences
 
 Using the backslash character `\`, special characters can be formed
 
-| Sequence | Meaning |
-| --- | --- |
-| \n | New line or line-break character |
-| \t | Tab |
-| \\ | The backslash character \ |
+| Sequence | Meaning                          |
+|----------|----------------------------------|
+| \n       | New line or line-break character |
+| \t       | Tab                              |
+| \\       | The backslash character \        |
 
 ### String Concatenation
 
@@ -78,10 +73,8 @@ System.out.println("Hello" + " " + "World" + 5")
 
 Using the `+` operator, different primitive variables can be “added together”
 
-<aside>
-💡 Concatenation in Java is not dependent on type, unlike Python. This means combining numbers with strings isn’t a problem.
-
-</aside>
+!!! tip
+    Concatenation in Java is not dependent on type, unlike Python. This means combining numbers with strings isn’t a problem.
 
 #### Unique Cases
 

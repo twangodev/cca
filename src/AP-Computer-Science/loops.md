@@ -12,19 +12,16 @@ for (<init>, <predicate>, <update-expr>) { <body> }
 4. `<update-expr>` is executed
 5. Repeat from Step 2
 
-<aside>
-💡 When the `break` keyword is evaluated, the loop exists immediately
-
-</aside>
+!!! tip
+    When the `break` keyword is evaluated, the loop exists immediately
 
 ## Scope
 
 A new frame is created during execution of the `<body>`
 
-<aside>
-💡 Uninitialized variables outside the scope of body can be initialized within the child frame (local scope), but do not effect the parent frame (global scope)
+!!! tip
+    Uninitialized variables outside the scope of body can be initialized within the child frame (local scope), but do not effect the parent frame (global scope)
 
-</aside>
 
 ## While Loops
 
@@ -42,7 +39,6 @@ while (<condition>) { <body> }
 ```java
 do { <body> } while (<condition>);
 ```
-
 #### Evaluation Procedure
 
 1. `<body>` is executed, and `<condition>` is checked

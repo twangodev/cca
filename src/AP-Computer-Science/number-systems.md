@@ -1,14 +1,16 @@
-# Base 10: Decimal
+# Number Systems
+
+## Base 10: Decimal
 
 Only 10 digits exist in the system: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 
 Used commonly in math, is the default representation of numbers in Java
 
-# Base 2: Binary
+## Base 2: Binary
 
 Only uses two digits, 0 and 1
 
-## Storing Binary in Java
+### Storing Binary in Java
 
 To store binary in Java, the `0b` header is used to indicate binary
 
@@ -16,7 +18,7 @@ To store binary in Java, the `0b` header is used to indicate binary
 int x = 0b100110;
 ```
 
-## Recursively Converting Decimal to Binary
+### Recursively Converting Decimal to Binary
 
 ```java
 int decimalToBinary(int decimal) {
@@ -25,33 +27,33 @@ int decimalToBinary(int decimal) {
 }
 ```
 
-### Base 2 Storage Units
+#### Base 2 Storage Units
 
-#### Bit
+##### Bit
 
 The state of a single bit of memory, whether its `0` or `1`.
 
-#### Byte
+##### Byte
 
 8 bits
 
-#### Kilobyte (KB)
+##### Kilobyte (KB)
 
 1,024 Bytes
 
-#### Megabyte (MB)
+##### Megabyte (MB)
 
 1,024 KB
 
-#### Gigabyte (GB)
+##### Gigabyte (GB)
 
 1,024 MB
 
-# Base 8: Octal
+## Base 8: Octal
 
 Only 8 digits within the system: 0, 1, 2, 3, 4, 5, 6, 7
 
-## Storing Octal in Java
+### Storing Octal in Java
 
 To store octal in Java, the `0` header is used
 
@@ -59,9 +61,9 @@ To store octal in Java, the `0` header is used
 int x = 0384;
 ```
 
-## Converting Decimal to Octal
+### Converting Decimal to Octal
 
-Similar to [Recursively Converting Decimal to Binary](https://www.notion.so/Recursively-Converting-Decimal-to-Binary-801bd64436414ca58f15a8b6c0ef38bc?pvs=21), we use the 8 digits instead of 2
+Similar to [Recursively Converting Decimal to Binary](#recursively-converting-decimal-to-binary), we use the 8 digits instead of 2
 
 ```java
 int decimalToOctal(int decimal) {
@@ -70,16 +72,15 @@ int decimalToOctal(int decimal) {
 }
 ```
 
-# Base 16: Hexadecimal
+## Base 16: Hexadecimal
 
 Only 16 digits in the system: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
 
-<aside>
-💡 Hexadecimal uses characters A-F to represents 10-15, respectively
+!!! tip
+    Hexadecimal uses characters A-F to represents 10-15, respectively
 
-</aside>
 
-## Storing Hexadecimal in Java
+### Storing Hexadecimal in Java
 
 To store hexadecimal in Java, the `0x` header is used
 
@@ -87,7 +88,7 @@ To store hexadecimal in Java, the `0x` header is used
 int x = 0x4CB3;
 ```
 
-## Converting Decimal to Hexadecimal
+### Converting Decimal to Hexadecimal
 
 ```java
 String getHexString(int decimal) { // Map hex string to 
