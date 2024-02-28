@@ -34,51 +34,51 @@
 
 1. When was the last time you were tempted?
 
-   The last time I was tempted was probably just yesterday, scrolling through my phone instead of studying for a big test coming up. It's like every time I know I have a lot to do, my phone becomes the most interesting thing in the world.
+    The last time I was tempted was probably just yesterday, scrolling through my phone instead of studying for a big test coming up. It's like every time I know I have a lot to do, my phone becomes the most interesting thing in the world.
 
 2. How did you respond to this temptation? If you were tempted, do you regret giving in?
 
-   I ended up giving in to the temptation and wasted a bit of time watching videos and checking social media. Yeah, I do regret it because it made me even more stressed about the test. It's a constant battle to not let distractions take over when I really need to focus.
+    I ended up giving in to the temptation and wasted a bit of time watching videos and checking social media. Yeah, I do regret it because it made me even more stressed about the test. It's a constant battle to not let distractions take over when I really need to focus.
 
 ## Friday, February 23, 2024
 
 1. How has God's responsiveness in times of trouble help to shape your relationship with God?
 
-   It's hard to see sometimes, but when I'm really stressed or upset and I remember to ask for help, things often start to feel a bit better. It makes me think maybe God is listening, which is kind of comforting and makes me curious about getting to know Him a bit more, when I can find the time.
+    It's hard to see sometimes, but when I'm really stressed or upset and I remember to ask for help, things often start to feel a bit better. It makes me think maybe God is listening, which is kind of comforting and makes me curious about getting to know Him a bit more, when I can find the time.
 
 2. What ways are you able to participate in worshipping God with other believers in your community?
 
-   I don't get to participate in worship as much as I'd like because of my schedule, but sometimes I join online services or listen to worship music while studying. It's not much, but it helps me feel a bit connected to my faith and community.
+    I don't get to participate in worship as much as I'd like because of my schedule, but sometimes I join online services or listen to worship music while studying. It's not much, but it helps me feel a bit connected to my faith and community.
 
 ## Monday, February 26, 2024
 
 1. How do we continue to make sure that there is less evil and antagonism in this fallen world and continue to strive for a world promised by God?
 
-   As a high schooler with limited time, I think small acts of kindness and understanding can go a long way. We can't fix everything, but being nicer to people around us, standing up against bullying, and helping out where we can might make our little corner of the world better. It's about doing our part, no matter how small it seems, to spread more good and less evil.
+    As a high schooler with limited time, I think small acts of kindness and understanding can go a long way. We can't fix everything, but being nicer to people around us, standing up against bullying, and helping out where we can might make our little corner of the world better. It's about doing our part, no matter how small it seems, to spread more good and less evil.
 
 2. How do we continue to have faith in God in times of hardship fear and turmoil?
 
-   Keeping faith in God during tough times is really hard, especially when you're overwhelmed with school, friends, and everything else. For me, it's about trying to remember the times things turned out okay in the end and believing there's a bigger plan. Sometimes, just talking to someone who understands or praying in my own way helps me feel a bit more hopeful, even if it doesn't solve everything right away.
+    Keeping faith in God during tough times is really hard, especially when you're overwhelmed with school, friends, and everything else. For me, it's about trying to remember the times things turned out okay in the end and believing there's a bigger plan. Sometimes, just talking to someone who understands or praying in my own way helps me feel a bit more hopeful, even if it doesn't solve everything right away.
 
 ## Tuesday, February 27, 2024
 
 1. Is there ever a moment where you think Go dwas not providing? If so, when?
 
-   There have definitely been times when I've felt unsupported, not necessarily looking to a higher power for provision but more so in terms of not seeing the outcomes I've hoped for in life's challenges, like academic or personal setbacks.
+    There have definitely been times when I've felt unsupported, not necessarily looking to a higher power for provision but more so in terms of not seeing the outcomes I've hoped for in life's challenges, like academic or personal setbacks.
 
 2. How are you able to overcome feelings of doubt in your faith?
 
-   Dealing with doubt, for me, isn't so much about faith in a religious sense but more about finding inner strength and resilience. I overcome these feelings by focusing on what I can control, like my effort and attitude, and by seeking support and advice from people I trust, who understand my viewpoint and struggles.
+    Dealing with doubt, for me, isn't so much about faith in a religious sense but more about finding inner strength and resilience. I overcome these feelings by focusing on what I can control, like my effort and attitude, and by seeking support and advice from people I trust, who understand my viewpoint and struggles.
 
 ## Wednesday, February 28, 2024
 
 1. In what ways do you see yourself improving, whether it is mentally or spiritually, so that you can proudly embrace Jesus Lent? What obstacles do you think you will encounter?
 
-   I'm working on being more patient and understanding, but finding the time and staying motivated are big challenges for me.
+    I'm working on being more patient and understanding, but finding the time and staying motivated are big challenges for me.
 
 2. Do you think that peer pressure or friends of other faiths will dishearten you to behave or actin a away that is unlike what Jesus teachers you? How will you overcome them? Are you personally more likely to concede to their side or will you stand your ground?
 
-   Peer pressure is tough, but I try to stick to my values while respecting others'. It's all about balancing my beliefs with the influences around me.
+    Peer pressure is tough, but I try to stick to my values while respecting others'. It's all about balancing my beliefs with the influences around me.
 
 
 ## Friday, March 1, 2024
