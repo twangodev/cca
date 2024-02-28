@@ -78,7 +78,7 @@
 
 2. Do you think that peer pressure or friends of other faiths will dishearten you to behave or actin a away that is unlike what Jesus teachers you? How will you overcome them? Are you personally more likely to concede to their side or will you stand your ground?
 
-    Peer pressure is tough, but I try to stick to my values while respecting others'. It's all about balancing my beliefs with the influences around me.
+    Peer pressure is tough, but I try to stick to my values while respecting others'. It's all about balancing my beliefs with the surrounding influences.
 
 
 ## Friday, March 1, 2024
@@ -90,3 +90,43 @@
 2. How can you actively align your choices with God's commandments to experience the joy mentioned in Psalm 19:8?
 
     By trying to make choices that are kind and fair to others, I guess I'm aligning with the spirit of many teachings, which could bring a sense of joy and peace, similar to what's mentioned in Psalm 19:8, even if I'm not actively practicing religion.
+
+## Monday, March 4, 2024
+
+1. Everyone is busy nowadays, but do you think we truly don't have enough time to connect with God, or are we merely distracted by other aspects of our daily lives that take away the time we could've spent with Him?
+
+    It might be more about priorities and distractions than not having enough time. There's a lot competing for our attention every day, and it's easy to lose sight of what we could be making time for, including connecting with God for those who believe.
+
+2. What could you start doing to show God that you're willing to give up a part of your day to worship Him?
+
+    Even with my tight schedule, I could probably find moments for quiet reflection or gratitude, which could be a form of worship. It doesn't have to be a big chunk of time; just consistent, small moments could show a willingness to connect.
+
+## Tuesday, March 5, 2024
+
+1. What is an injustice in our world that you feel particularly called to serve in/have a heart for?
+
+    Climate change and environmental injustice stand out to me. Seeing how pollution and climate issues disproportionately affect the poorest communities globally makes me want to contribute to solutions, even in small ways.
+
+2. How can we grasp the complexity of God's compassionate and understanding character in tandem with his hatred towards sin and strong desire for justice? Is this a difficult concept for us to understand at times? Why?
+
+    Balancing the idea of a compassionate God with His disdain for sin and yearning for justice can be complex, especially from a perspective that doesn't deeply engage with religious texts. It might be difficult because human emotions and morality are nuanced, and we often see compassion and anger or justice as opposite ends of a spectrum, not traits that can coexist harmoniously within a single entity.
+
+## Wednesday, March 6, 2024
+
+1. How can we enact righteous anger?
+
+    Righteous anger can be enacted by channeling feelings of anger into positive actions, like advocating for change or helping those who are wronged, instead of resorting to harm or negativity. It's about standing up for what's right in a constructive way.
+
+2. How and when can we repent the sins we commit in our anger?
+
+    Repentance for sins committed in anger can happen as soon as we recognize our wrongdoing. It involves taking responsibility for our actions, apologizing to those affected, and making a sincere effort to change our behavior to prevent similar incidents in the future.
+
+## Friday, March 8, 2024
+
+1. For Christians, what are some of the ways we can show others the love of God?
+
+    Christians can show the love of God to others by practicing kindness, compassion, and forgiveness in their daily interactions. Acts of service, such as volunteering to help those in need or simply being a supportive friend, can also reflect God's love.
+
+2. How do we show love to all people?
+
+    Showing love to all people involves treating everyone with respect and dignity, regardless of their background, beliefs, or circumstances. Listening, offering help without judgment, and striving to understand others' perspectives are ways to demonstrate love universally.
