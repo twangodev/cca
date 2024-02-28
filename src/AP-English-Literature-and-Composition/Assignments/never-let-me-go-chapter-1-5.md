@@ -3,6 +3,7 @@
 ## Prompt
 
 Write two claims:
+
 - One which explores Kathy H's perspective and POV impacts the meaning of the text
 - One that explores the relationship between Kathy H and Tommy.
 
