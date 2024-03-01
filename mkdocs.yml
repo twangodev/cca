@@ -15,6 +15,9 @@ theme:
   logo: assets/cca.png
   favicon: assets/favicon.ico
   features:
+    - search.suggest
+    - search.highlight
+    - search.share
     - toc.follow
     - navigation.top
     - content.code.copy
