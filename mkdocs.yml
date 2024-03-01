@@ -56,8 +56,8 @@ plugins:
   - glightbox
   - offline
   - social:
-    - card_layout_options:
-      - background_color: "#ef5552"
+      card_layout_options:
+        background_color: "#ef5552"
   - charts
   - git-revision-date-localized:
       enable_creation_date: true
