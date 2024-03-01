@@ -1,8 +1,8 @@
 # cca
 
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/twangodev/cca/mkdocs)
-![GitHub License](https://img.shields.io/github/license/twangodev/cca)
 ![GitHub repo size](https://img.shields.io/github/repo-size/twangodev/cca)
+![GitHub License](https://img.shields.io/github/license/twangodev/cca)
 
 Notes and resources for some classes taken at [California Crosspoint Academy](https://crosspointacademy.org) during the 2017-2024 academic years.
 
