@@ -15,6 +15,9 @@ theme:
   logo: assets/cca.png
   favicon: assets/favicon.ico
   features:
+    - search.suggest
+    - search.highlight
+    - search.share
     - toc.follow
     - navigation.top
     - content.code.copy
@@ -24,8 +27,6 @@ theme:
     - content.tabs.link
 
   palette:
-    - primary: red
-    - accent: red
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
@@ -54,7 +55,9 @@ plugins:
   - search
   - glightbox
   - offline
-  - social
+  - social:
+      card_layout_options:
+        background_color: "#ef5552"
   - charts
   - git-revision-date-localized:
       enable_creation_date: true

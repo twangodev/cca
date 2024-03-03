@@ -1,4 +1,4 @@
-# C6 FRQ Practice Argumentative Essay
+# C5 FRQ Practice Argumentative Essay
 
 ## Prompt
 
