@@ -97,3 +97,42 @@ A merit-based system emphasizes professionalism and expertise, ensuring that bur
 - Evaluation is a critical, though often contested, part of the policymaking process, assessing whether policies meet their objectives.
 - Formal termination of a policy by Congress is rare, but policies can also be effectively terminated through court decisions or lack of continued support.
 
+## Checks on the Bureaucracy
+
+### Controlling the Bureaucracy
+
+#### The President's Role
+
+- The president has formal control over the bureaucracy, including the authority to appoint and remove top officials.
+- Presidential tools include shaping priorities through budget proposals, reorganizing agencies, and issuing executive orders.
+- Limitations include bureaucratic discretion and the sheer size and complexity of the bureaucracy, which can hinder direct presidential oversight.
+
+#### Congress's Role
+
+- The Senate confirms agency heads, and Congress controls funding, creating or terminating agencies.
+- Congress influences bureaucratic behavior through legislation, setting goals and structures.
+- Oversight functions, such as hearings and investigations, are used to monitor agency actions, with entities like the Government Accountability Office (GAO) playing key roles.
+
+### Impact of the Judiciary and the Media
+
+#### Judiciary
+
+- Judicial decisions can limit bureaucratic actions, as seen in cases like Michigan v. EPA, where the Supreme Court overturned EPA regulations.
+- The judiciary ensures that bureaucratic actions adhere to legal standards and interpretations of law.
+
+#### Media
+
+- The media's coverage (or lack thereof) of bureaucratic operations influences public awareness and opinion.
+- Significant crises can thrust bureaucratic actions into the public eye, affecting public perception and pressure for reform.
+
+### Reform and Reliance on Private Organizations
+
+- Post-crisis analyses often lead to questions about government reliance on private contractors and the effectiveness of bureaucratic responses.
+- Private organizations and individuals play significant roles in relief efforts, though not without challenges, including accusations of taking advantage of federal funding.
+- Public demands for effective policy implementation and concerns over excessive bureaucratic power highlight the delicate balance between strong governance and maintaining individual freedoms.
+
+#### Key Concepts
+
+- **Agency Capture**: A situation where regulatory agencies become dominated by the industries they are charged with regulating, potentially leading to a conflict of interest.
+- **Bureaucratic Discretion**: The authority of bureaucratic agencies to interpret legislation and implement laws, often allowing for significant autonomy in decision-making.
+- **Oversight**: The processes by which legislative and judicial bodies monitor and regulate the actions of the executive branch, including bureaucratic agencies, to ensure compliance with laws and efficient use of resources.
