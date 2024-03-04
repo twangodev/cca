@@ -15,8 +15,8 @@
 
 6. Find parametric equations that describe the following lines:
 
-      1. Through (3, 1) and (7, 3)
-      2. Through (7,-1) and (7, 3)
+      1. Through $(3, 1)$ and $(7, 3)$
+      2. Through $(7,-1)$ and $(7, 3)$
 
 7. A bug is moving along the line $3x + 4y = 12$ with constant speed 5 units per second. The bug crosses the x-axis when $t = 0$ seconds. It crosses the y-axis later. When? Where is the bug when $t = 2$? when $t=-1$? When $t = 1.5$? What does a negative t-value mean?
 
