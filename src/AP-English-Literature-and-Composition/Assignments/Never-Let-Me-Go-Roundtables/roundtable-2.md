@@ -1,0 +1,24 @@
+# Roundtable #2 (Culture Commenter)
+
+## Prompt
+
+## Directions while Reading
+1. Find three examples of textual details like actions/motivations/descriptions that are similar or different from your culture. Think about your family, their habits, how they treat others, etc.
+2. The choices should be understood as perspectives, values, or actions of characters/narrator.
+
+## Directions while Discussing
+Wait to speak until you hear someone mention the ideas of parts of the story that connect to your selected passages. Use your preparation to make the conversation better!
+
+## Response
+
+1. **Respect for Elders and Authority Figures**
+    - "Then she says we’ve got to have a talk, a good talk. I say fine, and so we go into the Orangery, into her study, put all the stuff down. And she tells me to sit down, and I end up exactly where I was the last time, you know, that time years ago. And I can tell she’s remembering that time as well, because she starts talking about it like it was only the day before. No explanations, nothing, she just starts off saying something like: ‘Tommy, I made a mistake, when I said what I did to you. And I should have put you right about it long before now.’ Then she’s saying I should forget everything she told me before." (Chapter 9)
+    - **Connection:** This moment between Tommy and Miss Lucy, where Tommy quietly acquiesces to her direction to sit and listen, mirrors the deep-seated respect for authority ingrained in Chinese culture. In my own family, this respect is paramount. During family gatherings, the youngest members are always the last to speak, and we listen intently to our elders' stories and advice, not unlike how Tommy listens to Miss Lucy. This deference is not just out of obligation but from a genuine reverence for the wisdom and life experience our elders possess. It's a respect that's subtly woven into our daily interactions, teaching us from a young age to value and uphold the hierarchy that keeps our family structure harmonious and strong.
+
+2. **Community and Collective Over Individual**
+    - "On the one hand we had, say, Miss Emily’s talks, when she’d tell us how important it was not to be ashamed of our bodies, to “respect our physical needs,” how sex was “a very beautiful gift” as long as both people really wanted it. But when it came down to it, the guardians made it more or less impossible for any of us actually to do much without breaking rules." (Chapter 8)
+    - **Connection:** This quote from "Never Let Me Go" resonates with the complex attitude towards sex education and discussions within many traditional Chinese families, where such topics are often considered taboo. While sex is acknowledged as a natural part of life—mirroring Miss Emily's description of it as a "very beautiful gift"—open discussions about sexual health, desires, or relationships are rare or heavily coded. This contradiction creates an environment where understanding and knowledge about sexual health and consent are often learned through indirect means rather than open, honest conversation. The guardians' restrictions on student interactions at Hailsham reflect this cultural hesitancy to directly address and navigate the topic of sex among young people, emphasizing a protective but ultimately silencing approach to a natural aspect of human development.
+
+3. **Discipline and Self-Control**
+    - "“Tommy, you look so stupid, laughing like that! If you want to pretend you’re happy, you don’t do it that way! Just take it from me, you don’t do it that way! You definitely don’t! Look, you’ve got to grow up. And you’ve got to get yourself back on track. Everything’s been falling apart for you just lately, and we both know why.” Tommy was looking puzzled. When he was sure I’d finished, he said: “You’re right. Things have been falling apart for me. But I don’t see what you mean, Kath. What do you mean, we both know? I don’t see how you could know. I haven’t told anyone.”" (Chapter 9)
+    - **Connection:** Tommy’s reaction to Kathy’s comments showcases a level of restraint and thoughtfulness that resonates with the values I was taught growing up in a Chinese household. The emphasis on self-control and maintaining harmony within any interaction is a key aspect of my culture. In my family, reacting impulsively to situations is discouraged. We are taught to take a moment, reflect, and then respond in a way that preserves harmony and respects all parties involved. This philosophy extends beyond family interactions to include academic and professional settings, where careful consideration and measured responses are valued over quick, possibly reckless, reactions. Tommy’s behavior in this moment mirrors the disciplined approach we embrace, highlighting the importance of patience and thoughtful consideration in all aspects of life.
