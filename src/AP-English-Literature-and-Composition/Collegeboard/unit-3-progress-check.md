@@ -1,0 +1,31 @@
+# Unit 3 Progress Check
+
+## Prompt
+
+The following excerpt is from Jamaica Kincaid’s novel Lucy, published in 1990. In this passage, Lucy, a young woman from the Caribbean, is talking to Mariah, an American woman. Lucy has recently come to the United States to work for Mariah as the family’s au pair (an arrangement in which she assists the family with childcare and other household duties in exchange for room and board). Read the passage carefully. Then, write a thesis statement that you would use for an essay that analyzes how Kincaid uses literary elements and techniques to develop the conflict that arises from the complex interaction of Lucy and Mariah’s different values. Beneath your thesis statement, write a paragraph in support of your thesis that uses at least one piece of evidence from the text.
+
+In your response you should do the following:
+
+Respond to the prompt with a thesis that presents a defensible interpretation.
+
+- Select and use evidence to support your interpretation.
+- Explain how the evidence supports your interpretation.
+- Use appropriate grammar and punctuation in communicating your argument.
+
+!!! quote "Excerpt from Lucy by Jamaica Kincaid"
+    One morning in early March, Mariah said to me, “You have never seen spring, have you?” And she did not have to await an answer, for she already knew. She said the word “spring” as if spring were a close friend, a friend who had dared to go away for a long time and soon would reappear for their passionate reunion. She said, “Have you ever seen daffodils pushing their way up out of the ground? And when they’re in bloom and all massed together, a breeze comes along and makes them do a curtsy to the lawn stretching out in front of them. Have you ever seen that? When I see that, I feel so glad to be alive.” And I thought, So Mariah is made to feel alive by some flowers bending in the breeze. How does a person get to be that way?
+
+    I remembered an old poem I had been made to memorize when I was ten years old and a pupil at Queen Victoria Girls’ School. I had been made to memorize it, verse after verse, and then had recited the whole poem to an auditorium full of parents, teachers, and my fellow pupils. After I was done, everybody stood up and applauded with an enthusiasm that surprised me, and later they told me how nicely I had pronounced every word, how I had placed just the right amount of special emphasis in places where that was needed, and how proud the poet, now long dead, would have been to hear his words ringing out of my mouth. I was then at the height of my two-facedness: that is, outside I seemed one way, inside I was another; outside false, inside true. And so I made pleasant little noises that showed both modesty and appreciation, but inside I was making a vow to erase from my mind, line by line, every word of that poem. The night after I had recited the poem, I dreamt, continuously it seemed, that I was being chased down a narrow cobbled street by bunches and bunches of those same daffodils that I had vowed to forget, and when finally I fell down from exhaustion they all piled on top of me, until I was buried deep underneath them and was never seen again. I had forgotten all of this until Mariah mentioned daffodils, and now I told it to her with such an amount of anger I surprised both of us. We were standing quite close to each other, but as soon as I had finished speaking, without a second of deliberation we both stepped back. It was only one step that was made, but to me it felt as if something that I had not been aware of had been checked.
+
+    Mariah reached out to me and, rubbing her hand against my cheek, said, “What a history you have.” I thought there was a little bit of envy in her voice, and so I said, “You are welcome to it if you like.”
+
+    After that, each day, Mariah began by saying, “As soon as spring comes,” and so many plans would follow that I could not see how one little spring could contain them. She said we would leave the city and go to the house on one of the Great Lakes, the house where she spent her summers when she was a girl. We would visit some great gardens. We would visit the zoo—a nice thing to do in springtime; the children would love that. We would have a picnic in the park as soon as the first unexpected and unusually warm day arrived. An early-evening walk in the spring air—that was something she really wanted to do with me, to show me the magic of a spring sky.
+
+
+Write a thesis statement that you would use for an essay that analyzes how Kincaid uses literary elements and techniques to develop the conflict that arises from the complex interaction of Lucy and Mariah’s different values. Beneath your thesis statement, write a paragraph in support of your thesis that uses at least one piece of evidence from the text.
+
+## Response
+
+In Jamaica Kincaid's "Lucy," through the use of imagery, contrast, and introspection, Kincaid crafts a vivid picture that juxtaposes Lucy's resilience against Mariah's idealistic naiveté, unraveling the intricate dance of conflict born from their clashing cultural vistas and personal philosophies.
+
+In "Lucy," Kincaid uses vivid descriptions to highlight the different ways Lucy and Mariah see the world, revealing the core of their conflict. Mariah talks about spring and daffodils with excitement, showing her optimistic view of life. This contrasts sharply with Lucy's memory of feeling suffocated by daffodils in a dream, symbolizing her struggles and past pressures. When Mariah shares her joy about spring, Lucy doesn't share the same enthusiasm; instead, she wonders how someone can be so moved by simple flowers. This difference in their reactions to daffodils isn't just about liking or not liking flowers. It's deeper, showing how their backgrounds and experiences shape how they view the world. Mariah sees beauty and joy in nature, something Lucy, who has faced tougher times, can't easily do. The way they respond to the daffodils shows their deep differences in seeing life, making Kincaid's story not just about two people but about how our past and where we come from influence our present.
