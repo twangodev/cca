@@ -130,3 +130,83 @@
 2. How do we show love to all people?
 
     Showing love to all people involves treating everyone with respect and dignity, regardless of their background, beliefs, or circumstances. Listening, offering help without judgment, and striving to understand others' perspectives are ways to demonstrate love universally.
+
+## Monday, March 11, 2024
+
+1. Have you ever faced a time when you felt hopeless and were in desperate need of something you didn’t have? If so, describe the situation.
+
+    I felt hopeless last year when I couldn't see any improvement in my grades despite studying hard. It felt like no matter what I did, I couldn't achieve the results I wanted.
+
+2. Did you ask God to provide for you, or did you try to solve the issue by yourself?
+
+    I didn't ask God for help; instead, I tried to solve it myself by changing my study habits and seeking help from teachers and friends.
+
+## Tuesday, March 12, 2024
+
+1. Where in your life are you most vulnerable to temptation?
+
+    I'm most vulnerable to temptation when I'm stressed or bored, especially with procrastination.
+
+2. How do you refrain from giving in to temptation? What role does God have in this escape?
+
+    I try to set limits for myself and find healthier ways to deal with stress, like exercising. I haven't really thought about God's role in helping me avoid temptation.
+
+## Wednesday, March 13, 2024
+
+1. How can you distinguish what is the "light" to your "darkness" in troubling situations?
+
+    The "light" in troubling situations for me is usually the support from friends and family, reminding me I'm not alone.
+
+2. In what ways can you continue to seek God when you are in the darkness?
+
+    Seeking God isn't something I typically consider, but in tough times, finding quiet moments for reflection can be a form of seeking peace or guidance, even if not directly attributed to God.
+
+## Friday, March 15, 2024
+
+1. In what parts of your life do you feel that you need forgiveness, not by others, but from God?
+
+    I feel I need forgiveness for times when I've been selfish or hurt others, even if unintentionally.
+
+2. What part of forgiveness do you fear? Why?
+
+    I fear the part of forgiveness that requires admitting I was wrong because it makes me feel vulnerable and exposed.
+
+## Monday, March 18, 2024
+
+1. How does recognizing your dependence on God's grace affect your confidence in navigating life's challenges?
+
+    Recognizing a need for grace (even more generally, for support and kindness from others) helps me feel less alone in facing challenges.
+
+2. In what ways can you actively embrace the life-giving nature of the Spirit and the freedom of the new covenant?
+
+    Embracing life's positives and finding joy in small things can be my way of accepting and spreading positive energy, akin to embracing the spirit.
+
+## Tuesday, March 19, 2024
+
+1. Can you pinpoint a time when you felt spiritually parched, and how did God's grace unexpectedly brought renewal?
+
+    I felt spiritually parched during a family crisis, and unexpected support from friends felt like a renewal of hope and strength.
+
+2. How can you be a source of God's refreshing streams for someone in your life during this Lenten season?
+
+    Being there for someone else, offering a listening ear or practical help, could be a way to bring them a sense of renewal and support.
+
+## Wednesday, March 20, 2024
+
+1. In what aspect of your life do you think you need to incorporate God in more?
+
+    Incorporating more mindfulness and gratitude into my daily life could help me appreciate the present more and possibly open up a space for spiritual growth.
+
+2. What values do you need to instill in yourself so that you can be godlier in your life?
+
+    Instilling values like patience, empathy, and open-mindedness would help me be a kinder and more understanding person.
+
+## Friday, March 22, 2024
+
+1. For Christians, in what ways do you feel this "peace and security" from God around you?
+
+    My sense of peace and security comes from knowing I have a supportive family and friends, along with a clear plan for my future.
+
+2. If not religious, what gives you your sense of peace and security?
+
+    This sense of security is reinforced by routines, healthy habits, and pursuing passions that make me feel fulfilled and grounded.
