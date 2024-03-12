@@ -54,7 +54,7 @@ plugins:
   - search
   - glightbox
   - offline
-#  - social
+  - social
   - charts
   - git-revision-date-localized:
       enable_creation_date: true
@@ -97,6 +97,10 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
+extra:
+  analytics:
+    provide: google
+    property: G-XQF9VM5ZSN
 
 extra_javascript:
   - javascripts/mathjax.js
