@@ -54,14 +54,13 @@ plugins:
   - search
   - glightbox
   - offline
-  - social:
-      card_layout_options:
-        background_color: "#ef5552"
+#  - social
   - charts
   - git-revision-date-localized:
       enable_creation_date: true
   - git-authors
-  - rss
+  - rss:
+      length: -1
 
 markdown_extensions:
   - abbr
