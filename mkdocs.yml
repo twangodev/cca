@@ -99,7 +99,7 @@ markdown_extensions:
 
 extra:
   analytics:
-    provide: google
+    provider: google
     property: G-XQF9VM5ZSN
 
 extra_javascript:
