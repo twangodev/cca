@@ -2830,9 +2830,7 @@ Subconsciously: Doing something naturally without realizing (habits, etc.)
 
 	Forced collectivization
 
-??? question "What policy is Gorbachev calling for in this statement?
-
-"Without glasnost there is not, and there cannot be, democratism, the political creativity of the masses and their participation in management." - Mikhail Gorbachev"
+??? question "What policy is Gorbachev calling for in this statement? 'Without glasnost there is not, and there cannot be, democratism, the political creativity of the masses and their participation in management.' - Mikhail Gorbachev"
 
 	Greater openness
 
@@ -3383,7 +3381,6 @@ Subconsciously: Doing something naturally without realizing (habits, etc.)
 ??? question "What was the main reason for the independence of the British colonies, like India, during the Cold War?"
 
 	World War II had weakened European military an financial resources for them to hold onto their colonies.
-World War II had weakened European military an financial resources for them to hold onto their colonies.
 
 ??? question "What was the main reason for the middle class merchant to resent the church?"
 
@@ -3933,9 +3930,7 @@ World War II had weakened European military an financial resources for them to h
 
 	Women
 
-??? question "Which group would have been most likely to support the following statement from the Balfour Declaration?
-
-"We should do nothing that will prejudice the religious or cultural rights of communities existing in the Palestine Mandate.""
+??? question "Which group would have been most likely to support the following statement from the Balfour Declaration? 'We should do nothing that will prejudice the religious or cultural rights of communities existing in the Palestine Mandate.'"
 
 	Arab residents of Palestine Mandate
 
