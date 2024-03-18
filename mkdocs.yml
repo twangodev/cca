@@ -54,7 +54,7 @@ plugins:
   - search
   - glightbox
   - offline
-#  - social
+  - social
   - charts
   - git-revision-date-localized:
       enable_creation_date: true
@@ -63,7 +63,7 @@ plugins:
       length: -1
   - open-in-new-tab
   - print-site:
-      toc_depth: 10
+      toc_depth: 6
 
 markdown_extensions:
   - abbr
