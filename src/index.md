@@ -4,6 +4,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/twangodev/cca)
 ![GitHub License](https://img.shields.io/github/license/twangodev/cca)
 
+---
+
 ##  Welcome to CCA Guide
 
 This is a collection of notes and resources for some courses at California Crosspoint Academy.
