@@ -12,6 +12,7 @@ mkdocs-git-revision-date-localized-plugin = "*"
 mkdocs-git-authors-plugin = "*"
 mkdocs-rss-plugin = "*"
 mkdocs-open-in-new-tab = "*"
+mkdocs-pdf-export-plugin = "*"
 
 [dev-packages]
 
