@@ -62,6 +62,7 @@ plugins:
   - rss:
       length: -1
   - open-in-new-tab
+  - print-site
 
 markdown_extensions:
   - abbr
