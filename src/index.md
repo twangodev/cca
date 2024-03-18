@@ -16,7 +16,7 @@ This is a collection of notes and resources for some courses at California Cross
 
 If you found this guide helpful, please consider starring the [GitHub repository](https://github.com/twangodev/cca) and sharing it with others.
 
-View the standalone page [here](https://cca.twango.dev/print_page/).
+View the standalone page [here](https://cca.twango.dev/print_page.html).
 
 ## Contributing
 If you notice that any information is incorrect, missing, or would like content removed, open an issue.

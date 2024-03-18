@@ -1,3 +1,5 @@
+# Final Cheat Sheet
+
 ## Inverse Variation
 
 ### Classifying Equations

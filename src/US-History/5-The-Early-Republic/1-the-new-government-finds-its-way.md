@@ -1,4 +1,4 @@
-## The New Government Finds Its Way
+# The New Government Finds Its Way
 
 ## Creating a New Government
 
