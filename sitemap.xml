@@ -1186,7 +1186,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Cases/mcdonald-vs-chicago.html</loc>
+         <lastmod>2024-03-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Cases/new-york-vs-lopez.html</loc>
+         <lastmod>2024-03-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Cases/ny-times-vs-united-states.html</loc>
          <lastmod>2024-03-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
