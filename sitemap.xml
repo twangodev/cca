@@ -1171,7 +1171,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Cases/brown-vs-board-of-education.html</loc>
+         <lastmod>2024-03-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Cases/engel-vs-vitale.html</loc>
+         <lastmod>2024-03-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/AP-United-States-Government-and-Politics/Cases/gideon-vs-wainwright.html</loc>
          <lastmod>2024-03-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
