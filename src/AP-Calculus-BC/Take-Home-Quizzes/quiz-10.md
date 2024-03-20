@@ -105,9 +105,9 @@ Now we will define something called the least-squares error, which takes the for
 
 5. For what value of $k$ does the least squares error of $T_k(x)$ first become less than 0.001? Show your work. (This is in contrast to #5, to show that eventually error can become smaller)
 
-        $$ E_k = \int_{-\pi}^{\pi}\left(f(x)- \sum_{n=0}^{k} \frac{(-1)^n x^{2n}}{n!} \right)^2dx $$
+    $$ E_k = \int_{-\pi}^{\pi}\left(f(x)- \sum_{n=0}^{k} \frac{(-1)^n x^{2n}}{n!} \right)^2dx $$
 
-        <iframe src="https://www.desmos.com/calculator/lxazgvn9xo?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+    <iframe src="https://www.desmos.com/calculator/lxazgvn9xo?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
     | $k$      | $E_k$                   |
     |----------|-------------------------|
