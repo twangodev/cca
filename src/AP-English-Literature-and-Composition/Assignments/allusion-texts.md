@@ -29,29 +29,29 @@ Journey of the Magi, Genesis, and A Little East of Jordan
 ### Genesis
 1. Find the passages in the book of Genesis to which this poem alludes. Would you call the allusions serious or playful, or both?
 
-   The poem alludes to the creation story of Adam and Eve in the Book of Genesis, specifically to the parts where Eve is created from Adam's rib (Genesis 2:21-22) and the story of Noah's Ark (though the Ark itself and the giraffes are not in the Genesis creation narrative, but in the story of Noah in Genesis chapters 6-9). The allusions can be considered both serious and playful: serious in their engagement with foundational religious narratives, but playful in their imaginative reinterpretation and casual, speculative tone, particularly the idea of reversing the creation order and including giraffes sticking their necks out of the ark.
+    The poem alludes to the creation story of Adam and Eve in the Book of Genesis, specifically to the parts where Eve is created from Adam's rib (Genesis 2:21-22) and the story of Noah's Ark (though the Ark itself and the giraffes are not in the Genesis creation narrative, but in the story of Noah in Genesis chapters 6-9). The allusions can be considered both serious and playful: serious in their engagement with foundational religious narratives, but playful in their imaginative reinterpretation and casual, speculative tone, particularly the idea of reversing the creation order and including giraffes sticking their necks out of the ark.
 
 2. Describe the relationship between the speaker and his partner.
 
-   The relationship between the speaker and his partner appears to be deeply intimate and affectionate, with a significant emphasis on emotional and intellectual connection. Their interaction is marked by shared speculation, playful conversation, and a deep appreciation for each other's qualities, as seen in the appreciation for a "flexible mind" and the tender act of counting ribs in a moment of closeness. This closeness is not just physical but also intellectual and emotional.
+    The relationship between the speaker and his partner appears to be deeply intimate and affectionate, with a significant emphasis on emotional and intellectual connection. Their interaction is marked by shared speculation, playful conversation, and a deep appreciation for each other's qualities, as seen in the appreciation for a "flexible mind" and the tender act of counting ribs in a moment of closeness. This closeness is not just physical but also intellectual and emotional.
 
 3. Most of this poem about the romantic relationship is set in the past. Why is this appropriate?
 
-   Setting most of the poem in the past is appropriate because it reflects on the development and deepening of the relationship over time. This temporal perspective allows the speaker to recount the progression of their bond from a shared intimate moment to a deeper, reflective connection in the present. It highlights the evolution of love and intimacy, suggesting that the memories and experiences shared in the past are foundational to their current relationship and understanding of each other.
+    Setting most of the poem in the past is appropriate because it reflects on the development and deepening of the relationship over time. This temporal perspective allows the speaker to recount the progression of their bond from a shared intimate moment to a deeper, reflective connection in the present. It highlights the evolution of love and intimacy, suggesting that the memories and experiences shared in the past are foundational to their current relationship and understanding of each other.
 
 ### A Little East of Jordan
 
 1. Discuss the biblical allusion in this poem. Does Dickinson hold fast to the biblical account or does she use it for her own purposes?
 
-   The poem references the biblical story of Jacob wrestling with an angel (or God) in Genesis 32:22-32, but Emily Dickinson employs the event for her own artistic purposes, blending the sacred with the accessible through her unique choice of words like "Gymnast" for Jacob and the informal setting of a "Breakfast" negotiation. This approach suggests a reinterpretation rather than a strict adherence to the biblical narrative, making the divine encounter more personal and immediate.
+    The poem references the biblical story of Jacob wrestling with an angel (or God) in Genesis 32:22-32, but Emily Dickinson employs the event for her own artistic purposes, blending the sacred with the accessible through her unique choice of words like "Gymnast" for Jacob and the informal setting of a "Breakfast" negotiation. This approach suggests a reinterpretation rather than a strict adherence to the biblical narrative, making the divine encounter more personal and immediate.
 
 2. In what sense has the "Gymnast" (15) "worsted God" (16)?
 
-   The "Gymnast" has "worsted God" in the sense that Jacob, through his persistence and refusal to let go without a blessing, triumphs in a moral or spiritual sense, convincing the divine being to grant him a blessing. This is not a physical overcoming but a metaphorical victory, showcasing the power of human determination and faith.
+    The "Gymnast" has "worsted God" in the sense that Jacob, through his persistence and refusal to let go without a blessing, triumphs in a moral or spiritual sense, convincing the divine being to grant him a blessing. This is not a physical overcoming but a metaphorical victory, showcasing the power of human determination and faith.
 
 3. Is the poem lighthearted or serious, or somewhere in between?
 
-   The poem straddles the line between being lighthearted and serious, infusing a profound biblical event with a touch of whimsy through the depiction of the wrestling as a breakfast-time tussle, yet it maintains a sense of gravity in its exploration of faith, struggle, and transformation. Dickinson's tone allows the reader to contemplate the depth of the biblical story while enjoying her imaginative and slightly irreverent take on it.
+    The poem straddles the line between being lighthearted and serious, infusing a profound biblical event with a touch of whimsy through the depiction of the wrestling as a breakfast-time tussle, yet it maintains a sense of gravity in its exploration of faith, struggle, and transformation. Dickinson's tone allows the reader to contemplate the depth of the biblical story while enjoying her imaginative and slightly irreverent take on it.
 
 ### Claim
 
