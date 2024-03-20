@@ -101,6 +101,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cca.twango.dev/AP-Calculus-BC/Take-Home-Quizzes/quiz-11.html</loc>
+         <lastmod>2024-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cca.twango.dev/AP-Computer-Science/arrays.html</loc>
          <lastmod>2024-03-20</lastmod>
          <changefreq>daily</changefreq>
@@ -687,6 +692,11 @@
     </url>
     <url>
          <loc>https://cca.twango.dev/AP-English-Language-and-Composition/Writing/verbs.html</loc>
+         <lastmod>2024-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cca.twango.dev/AP-English-Literature-and-Composition/Assignments/allusion-texts.html</loc>
          <lastmod>2024-03-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
