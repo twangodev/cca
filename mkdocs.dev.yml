@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
 site_name: CCA Guide
 
 repo_name: twangodev/cca
@@ -14,13 +16,21 @@ theme:
   name: material
   logo: assets/cca.png
   favicon: assets/favicon.ico
+  custom_dir: overrides
   features:
+    - search.suggest
+    - search.highlight
+    - search.share
     - toc.follow
     - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.indexes
     - content.code.copy
     - content.action.edit
     - content.action.view
-    - navigation.footer
     - content.tabs.link
 
   palette:
