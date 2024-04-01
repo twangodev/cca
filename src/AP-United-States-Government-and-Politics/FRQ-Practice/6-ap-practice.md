@@ -40,7 +40,7 @@
     1. The Supreme Court might deliberately take power away from Congress.
     2. Congress must trust the court system to uphold the Constitution.
     3. Congress may check the Supreme Court by publicly degrading its decisions.
-    4. C**ongress may check the Supreme Court through impeachment.**
+    4. **Congress may check the Supreme Court through impeachment.**
 6. A Supreme Court Justice who writes the following words, “Generations from now, lawyers and judges will look back at today’s ruling with utter contempt,” is probably writing a
     1. concurring opinion
     2. majority opinion
