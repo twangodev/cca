@@ -53,7 +53,6 @@ $$
     \end{aligned}
     $$
 
-
     Within the interval $[0, 1]$:
 
     <iframe src="https://www.desmos.com/calculator/nx63bspwas?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
@@ -64,9 +63,45 @@ $$
 
 3. Now we will consider a piecewise function. For the function $f(x) = \begin{cases} x + 1 & 0 \leq x \leq \frac{1}{2} \\ -x + 2 & \frac{1}{2} \leq x \leq 1 \end{cases}$ find the coefficients of the third-order Fourier approximation. Consider that this function will be repeating with a period of one. (Hint: Think of the period that we want, and also the interval of the function that we want to model. These two things are different, so you need to adjust the integrals to account for this). Graph $f(x)$ and $F_3(x)$ on the same axes.
 
-    <iframe src="https://www.desmos.com/calculator/wkafw5owvj?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+    $$
+    \begin{align}
+    c = 0, \quad d = 1, \quad \beta = \tau = 2 \pi\\
+    \end{align}
+    $$
+
+    $$
+    \begin{aligned}
+    a_0 &= \frac{1}{1-0} \int_{0}^{1} f(x) dx & = 1.25\\
+    a_1 &= \frac{2}{1-0} \int_{0}^{1} f(x) \cos(\beta x) dx & \approx -0.2026\\
+    b_1 &= \frac{2}{1-0} \int_{0}^{1} f(x) \sin(\beta x) dx & = 0\\
+    a_2 &= \frac{2}{1-0} \int_{0}^{1} f(x) \cos(2\beta x) dx & = 0\\
+    b_2 &= \frac{2}{1-0} \int_{0}^{1} f(x) \sin(2\beta x) dx & = 0\\
+    a_3 &= \frac{2}{1-0} \int_{0}^{1} f(x) \cos(3\beta x) dx & \approx -0.0225\\
+    b_3 &= \frac{2}{1-0} \int_{0}^{1} f(x) \sin(3\beta x) dx & = 0\\
+    \end{aligned}
+    $$
+
+    <iframe src="https://www.desmos.com/calculator/dwvqkphrto?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 4. Now consider the piecewise function $f(x) = \begin{cases} 0 & 0 \leq x < \frac{3}{4} \\ 1 & \frac{3}{4} \leq x \leq 1 \end{cases}$. Repeat #3 with this function.
 
-    <iframe src="https://www.desmos.com/calculator/lzovrr0p0z?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+    $$
+    \begin{align}
+    c = 0, \quad d = 1, \quad \beta = \tau = 2 \pi\\
+    \end{align}
+    $$
+
+    $$
+    \begin{aligned}
+    a_0 &= \frac{1}{1-0} \int_{0}^{1} f(x) dx & = \frac{1}{4}\\
+    a_1 &= \frac{2}{1-0} \int_{0}^{1} f(x) \cos(\beta x) dx & \approx 0.3183\\
+    b_1 &= \frac{2}{1-0} \int_{0}^{1} f(x) \sin(\beta x) dx & \approx -0.3183\\
+    a_2 &= \frac{2}{1-0} \int_{0}^{1} f(x) \cos(2\beta x) dx & = 0\\
+    b_2 &= \frac{2}{1-0} \int_{0}^{1} f(x) \sin(\beta x) dx & \approx -0.3183\\
+    a_3 &= \frac{2}{1-0} \int_{0}^{1} f(x) \cos(3\beta x) dx & \approx -0.1061\\
+    b_3 &= \frac{2}{1-0} \int_{0}^{1} f(x) \sin(3\beta x) dx & \approx -0.1061\\
+    \end{aligned}
+    $$
+
+    <iframe src="https://www.desmos.com/calculator/9t6svg7gug?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
