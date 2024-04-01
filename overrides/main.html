@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+    {{ super() }}
+    <script type="application/ld+json">
+        {
+            "@context" : "https://schema.org",
+            "@type" : "WebSite",
+            "name" : "CCA Guide",
+            "url" : "https://cca.twango.dev/"
+        }
+    </script>
+{% endblock %}
