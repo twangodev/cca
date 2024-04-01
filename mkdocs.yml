@@ -11,7 +11,7 @@ docs_dir: src
 
 theme:
   name: material
-  logo: assets/cca
+  logo: assets/cca.png
   favicon: assets/favicon.ico
   features:
     - search.suggest
