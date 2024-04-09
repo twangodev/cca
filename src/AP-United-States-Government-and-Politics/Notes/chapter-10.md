@@ -63,3 +63,45 @@ Political socialization is a lifelong process where individuals form and modify 
 - **Primary vs. Secondary Sources:** Understanding political socialization involves analyzing both types of sources—primary sources offer direct insights or data, while secondary sources provide interpretations based on primary data.
 - **Diverse Influences:** Besides generational effects, factors such as economic conditions, educational experiences, and social interactions play critical roles in shaping political ideologies and behaviors.
 
+## Globalization and Its Impact on American Core Values
+
+Globalization, the process of increasing interconnectedness worldwide, affects political, economic, and cultural dimensions across the globe. This complex phenomenon challenges traditional boundaries between domestic and international politics, necessitating a nuanced understanding of its implications on American core values.
+
+### Global Actors and Their Roles
+
+#### Countries
+- Historically dominant in international relations, setting policies affecting global dynamics.
+
+#### Multinational Corporations (MNCs)
+- Operate in multiple countries, significantly influencing global economy and local cultures.
+- Challenges in regulating their overseas activities.
+
+#### Nongovernmental Organizations (NGOs)
+- Work towards public causes, sometimes highlighting governmental failures.
+- Can inadvertently affect local economies and clash with host countries' policies.
+
+#### Intergovernmental Organizations (IGOs)
+- Comprise member states, sacrificing some sovereignty for collective benefits.
+- Examples include the European Union (EU) and the World Trade Organization (WTO).
+
+### Global Economy and Trade Agreements
+- American policies have traditionally supported free trade to enhance global economic prosperity.
+- Trade agreements can be bilateral or regional, impacting domestic job markets and production.
+- Controversies around the effects of agreements like NAFTA and TPP.
+
+### Democracy and Globalization
+- Potential to spread democratic values through adherence to international organization standards.
+- NGOs and access to technology enable greater transparency and citizen activism.
+
+### Challenges of Globalization
+#### Economic Impact
+- Outsourcing leads to job losses in developed countries.
+- A "race to the bottom" in environmental and labor standards among competing countries.
+
+#### Cultural Effects
+- Threat to traditional cultures and local businesses.
+- Global homogenization of culture.
+
+#### Security Concerns
+- Facilitates coordination among extremist groups and international crime syndicates.
+- Challenges in combating global networks of illegal activities.
