@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   push:
 
-permissions:
-  contents: write
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
