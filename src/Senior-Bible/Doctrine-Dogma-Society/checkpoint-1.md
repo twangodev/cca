@@ -8,4 +8,6 @@
 
 ### Dogma
 - Sabbath
+
+### Social Issue/Context
 - Marijuana
