@@ -64,7 +64,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - git-committers:
-      repository: squidfunk/mkdocs-material
+      repository: twangodev/cca
       branch: main
   - rss:
       length: -1
