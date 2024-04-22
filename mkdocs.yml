@@ -59,7 +59,7 @@ plugins:
   - search
   - glightbox
   - offline
-#  - social
+  - social
   - charts
   - git-revision-date-localized:
       enable_creation_date: true
