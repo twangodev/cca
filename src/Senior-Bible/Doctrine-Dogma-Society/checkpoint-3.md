@@ -32,6 +32,8 @@ This doctrine asserts that Jesus Christ, the Son of God, took on human flesh. Th
 
 The Trinity describes the Christian Godhead as one God in three persons: Father, Son, and Holy Spirit. This fundamental doctrine emphasizes the uniqueness of God's nature and the complexity of His being, crucial for understanding the interconnectedness of God’s actions in the world
 
+#### Additional Dogmas
+
 #### Virgin Birth
 
 This dogma proclaims that Jesus was born of the Virgin Mary, conceived by the Holy Spirit without a human father. It highlights the divine nature of Jesus' birth and serves as a sign of his messianic identity.
