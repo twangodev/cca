@@ -1,4 +1,4 @@
-# Doctrine, Domaga vs. Society Handout
+# Doctrine, Dogma vs. Society Handout
 
 ## Objective(s)
 
