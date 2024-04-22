@@ -4,13 +4,13 @@ site_name: CCA Guide
 
 repo_name: twangodev/cca
 repo_url: https://github.com/twangodev/cca
-edit_uri: edit/main/docs/
+edit_uri: edit/main/src/
 
 site_author: James Ding
 site_url: https://cca.twango.dev
 site_description: A handy guide and reference for students at California Crosspoint Academy.
 
-docs_dir: docs
+docs_dir: src
 
 theme:
   name: material
@@ -56,16 +56,6 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to system preference
-
-#plugins:
-#  - search
-#  - glightbox
-#  - offline
-#  - social
-#  - charts
-#  - git-revision-date-localized:
-#      enable_creation_date: true
-#  - git-authors
 
 markdown_extensions:
   - abbr
