@@ -64,7 +64,7 @@ plugins:
   - git-committers:
       repository: twangodev/cca
       branch: main
-      docs_dir: src
+      docs_path: src
   - git-revision-date-localized:
       enable_creation_date: true
   - rss:
