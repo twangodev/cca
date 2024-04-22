@@ -61,12 +61,11 @@ plugins:
   - offline
   - social
   - charts
-  - git-revision-date-localized:
-      enable_creation_date: true
   - git-committers:
       repository: twangodev/cca
       branch: main
-      docs_path: docs
+  - git-revision-date-localized:
+      enable_creation_date: true
   - rss:
       length: -1
   - open-in-new-tab
