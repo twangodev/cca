@@ -69,3 +69,27 @@
 
 !!! note
     All projects include an Annotated Bibliography with the 8-10 reputable sources
+
+## Reading List for Essay Assignment
+
+- *Compassion & Conviction: The And Campaign's Guide to Faithful Civic Engagement* by Justin Giboney, Michael Wear and Chris Butler
+- *Shoutin' in the Fire* by Dante Stewart
+- *Exclusion & Embrace* by Miroslav Volf
+- *Water Buffalo Theology* by Kosuke Koyama
+- *Mañana: Christian Theology from a Hispanic Theology* by Justo L. González
+- *Julian of Norwich: Wisdom in a Time of a Pandemic-and Beyond* by Matthew Fox
+- *This Here Flesh* by Cole Arthur Riley
+- *A Black Theology of Liberation* by James Cone
+- *The Color of Compromise: The Truth about American Church's Complicity in Racism* by Jemar Tisby
+- *Reading While Black: African American Biblical Interpretation as an Exercise in Hope* by Dr. Esau McCaulley
+- *Resident Aliens* by Stanley Hauerwas & William H. Willimon
+- *The Making of Biblical Womanhood: How the Subjugation of Women Became Gospel Truth* by Dr. Beth Allison Barr
+- *The Deeply Formed Life* by Rich Villodas
+- *Life on the Vine: Cultivating the Fruit of the Spirit in Christian Community* by Phillip D. Kenneson
+- *The Reason for God: Belief in an Age of Skepticism* by Timothy Keller
+- *Mere Christianity* by C.S. Lewis
+- *Embodied: Transgender Identities, The Church, and What the Bible has to Say* by Preston Sprinkle
+- *The Language of God: A Scientist Presents Evidence for Belief* by Dr. Francis Collins
+
+!!! note
+    Other Book Ideas need to be approved by Mr. Keil
