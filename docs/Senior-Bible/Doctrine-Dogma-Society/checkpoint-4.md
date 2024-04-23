@@ -4,6 +4,8 @@
 
 Submit the list of 2-3 books from the list (or other ones - **must be approved**) and 3-4 sentences for why you want to use that book and how you think it will help with the research of your project.
 
+## Response
+
 ### [Mere Christianity](https://www.hoopladigital.com/ebook/mere-christianity-c-s-lewis/12507844) by C.S. Lewis
 
 "Mere Christianity" explores essential Christian doctrines, providing a comprehensive overview of the faith's moral and ethical reasoning. Lewis explores fundamental Christian doctrines such as the nature of God, the concept of sin, and the redemption offered through Christ, making philosophical and theological concepts accessible to a lay audience. It could be useful for examining how universal Christian principles can inform and guide responses to contemporary social issues.
