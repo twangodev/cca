@@ -30,6 +30,5 @@ jobs:
           cache: pipenv
       - run: python3 -m pip install --upgrade pip pipenv
       - run: pipenv sync
-      - run: echo $MKDOCS_GIT_COMMITTERS_APIKEY
       - name: Deploy Documentation
         run: pipenv run mkdocs gh-deploy --force
