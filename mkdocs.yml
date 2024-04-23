@@ -7,9 +7,6 @@ site_description: A handy guide and reference for students at California Crosspo
 
 repo_name: twangodev/cca
 repo_url: https://github.com/twangodev/cca
-edit_uri: edit/main/docs/
-
-docs_dir: docs
 
 theme:
   language: en
@@ -59,7 +56,7 @@ plugins:
   - search
   - glightbox
   - offline
-#  - social
+  - social
   - charts
   - git-committers:
       repository: twangodev/cca
