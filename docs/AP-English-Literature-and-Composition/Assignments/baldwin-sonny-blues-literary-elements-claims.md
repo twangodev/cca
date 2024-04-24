@@ -5,6 +5,6 @@ Write 3 claims that address the significance of choices made by Baldwin regardin
 
 ## Response
 
-- By characterizing Sonny as both a jazz musician and a heroin addict, James Baldwin reveals the profound complexities of suffering and salvation, showing that personal expression and vulnerability are not only part of Sonny's identity but are also essential for his and the reader's understanding of redemption.
-- Baldwin sets "Sonny's Blues" in Harlem, employing the neighborhood's rich cultural heritage and its socioeconomic struggles as a dynamic setting that shapes the plot and reflects the themes of entrapment and liberation, thereby intensifying the narrative’s emotional and thematic depth.
-- Baldwin's strategic use of a first-person point of view from Sonny’s brother accentuates the theme of perception versus reality, guiding the reader through a transformative realization that challenges initial judgments and underscores the narrative’s broader implications about the redemptive capacity of empathy and artistic expression.
+- James Baldwin characterizes Sonny as both a jazz musician and a heroin addict, using his personal struggles to explore themes of suffering and redemption, demonstrating how individual challenges can reflect universal human experiences.
+- By setting "Sonny's Blues" in Harlem, Baldwin integrates the neighborhood's cultural richness and economic hardships into the storyline, effectively using the setting to underscore the characters' feelings of entrapment and their quests for freedom.
+- Baldwin's choice of a first-person narrative from the perspective of Sonny’s brother allows the story to unfold through a lens of personal biases and gradual understanding, emphasizing the theme that empathy and artistic expression can lead to personal and communal healing.
