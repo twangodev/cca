@@ -22,8 +22,10 @@ jobs:
         with:
           python-version: 3
           cache: pipenv
-      - run: python3 -m pip install --upgrade pip pipenv
-      - run: pipenv sync
+      - name: Install pipenv
+        run: python3 -m pip install --upgrade pip pipenv
+      - name: Install Dependencies
+        run: pipenv sync
       - name: Build Documentation
         run: pipenv run mkdocs build
       - name: Upload Pages Artifact
