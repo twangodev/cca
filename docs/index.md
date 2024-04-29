@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Home
 
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/twangodev/cca/mkdocs)
