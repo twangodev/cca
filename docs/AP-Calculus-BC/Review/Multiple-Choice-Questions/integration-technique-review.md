@@ -1,0 +1,24 @@
+# Integration Technique Review
+
+1. $\int_1^2 (9x^2 - 4x + 1) \ln x \, dx$
+2. The function $f$ has a continuous derivative. The table below gives values of $f$ and its derivative for $x=0$ and $x=4$. If $\int_0^4 f(x) \, dx = 8$, what is the value of $\int_0^4 xf'(x) \, dx$?
+
+    | $x$ | $f(x)$ | $f'(x)$ |
+    |-----|--------|---------|
+    | $0$ | $2$    | $5$     |
+    | $4$ | $-3$   | $11$    | 
+
+3. $\int x \sin(6x) \, dx$
+4. $x f(x) \, dx$
+5. If $\int f(x) \sin x \, dx = - f(x) \cos x + \int 3x^2 \cos x \, dx$, then $f(x)$ could be
+6. $\int_1^e x^4 \ln x \, dx$
+7. $\int \frac{7x}{(2x-3)(x+2)} \, dx$
+8. $\int \frac{1}{x^2 - 7x + 10} \, dx$
+9. Which of the following expressions is equal to $\int_0^2 \frac{17x+4}{3x^2-7x-6} \, dx$?
+10. $\int \frac{2x}{(x+2)(x+1)} \, dx$
+11. Let $R$ be the region between the graph of $y=e^{-2x}$ and the $x$-axis for $x \geq 3$. The area of $R$ is
+12. $\int_0^3 \frac{dx}{(1-x)^2}$
+13. $\int_1^{\infty} xe^{-x^2} \, dx$
+14. What are all values of $p$ for which $\int_1^{\infty} \frac{1}{x^{3p + 1}} \, dx$ converges?
+15. An antiderivative of $\frac{e^x}{e^x - 1}$ is $\ln |e^x - 1|$. Which of the following statements about the integral $\int_{-2}^2 \frac{e^x}{e^x - 1} \, dx$ is true?
+16. $\int_0^4 \frac{1}{\sqrt{x}(1+\sqrt{x})} \, dx$
