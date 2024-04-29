@@ -3,8 +3,6 @@ name: Deploy Documentation
 on:
   workflow_dispatch:
   push:
-    branches:
-      - main
 
 env:
   MKDOCS_GIT_COMMITTERS_APIKEY: ${{ secrets.MKDOCS_GIT_COMMITTERS_APIKEY }}
@@ -36,6 +34,7 @@ jobs:
   deploy:
     name: Deploy
     needs: build
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       pages: write
