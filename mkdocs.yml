@@ -67,6 +67,7 @@ plugins:
   - rss:
       length: -1
   - open-in-new-tab
+  - privacy
   - print-site:
       toc_depth: 6
 
