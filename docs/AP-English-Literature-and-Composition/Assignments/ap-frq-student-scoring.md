@@ -1,4 +1,4 @@
-# FRQ Evaluation
+# 2022 AP FRQ Student Scoring
 
 ## 1A
 
@@ -28,7 +28,7 @@ A few literary claims (2), which weren't very strong, and they summarized the st
 
 1-4-0
 
-They had all their claims, they had a good thesis, there was no sophistication or conclsion paragraph. Pretty specific wityh examples because theres not enough commentary
+They had all their claims, they had a good thesis, there was no sophistication or conclusion paragraph. Pretty specific with examples because there's not enough commentary
 
 ## 2C
 
