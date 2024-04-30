@@ -1,1 +1,1 @@
-mkdocs serve -f mkdocs.dev.yml --dirty
+mkdocs serve -f base.yml --dirty
