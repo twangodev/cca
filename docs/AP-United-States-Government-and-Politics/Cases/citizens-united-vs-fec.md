@@ -1,4 +1,15 @@
-# Citizens United v. Federal Election Commission
+## Citizens United v. Federal Election Commission
+
+### Background
+
+- **Name of the Case:** Citizens United v. Federal Election Commission
+- **Year Decided:** 2010
+- **Facts:** Citizens United, a conservative non-profit organization, produced a film critical of Hillary Clinton, a candidate in the 2008 Democratic presidential primaries. The organization sought to distribute the film during the election period, which was prohibited under the Bipartisan Campaign Reform Act (BCRA), commonly known as the McCain-Feingold Act. This act restricted "electioneering communications" from corporations and unions close to elections.
+- **Issue:** The key legal issue was whether the BCRA’s restrictions on corporate and union expenditures related to elections violated the First Amendment’s free speech clause.
+- **Decision:** The Supreme Court ruled 5-4 in favor of Citizens United, striking down those provisions of the BCRA that prohibited corporations and unions from funding independent political broadcasts in candidate elections.
+- **Majority Decision Reasoning:** The majority opinion, delivered by Justice Kennedy, held that corporate funding of independent political broadcasts in candidate elections cannot be limited under the First Amendment. The court asserted that political speech is indispensable to a democracy, which cannot be curtailed even if the speaker is a corporation or union.
+- **Dissenting Opinion Reasoning:** The dissent, led by Justice Stevens, argued that the Court's decision was a rejection of the common sense of the American people, who recognize the potential for corruption in outright corporate and union spending in elections. The dissent feared that the ruling would undermine the integrity of elected institutions across the nation.
+- **Impact of the Case:** The decision significantly altered the landscape of American political campaigns, leading to a dramatic increase in political spending and the rise of Super PACs, organizations that can raise and spend unlimited amounts of money on behalf of candidates, so long as they do not coordinate directly with campaigns or candidates. This has raised ongoing debates about the influence of money in politics and the definition of free speech.
 
 ## Questions
 
