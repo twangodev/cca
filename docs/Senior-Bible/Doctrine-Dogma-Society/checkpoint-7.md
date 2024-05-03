@@ -9,3 +9,4 @@
 
 ## Response
 
+See [outline](./outline.md).
