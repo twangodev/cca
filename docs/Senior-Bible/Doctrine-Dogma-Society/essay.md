@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# The Doctrine of the Church, Salvation, and the Sabbath in the Context of Marijuana Legalization
+# Essay
 
 In the contemporary Christian landscape, the interaction between established religious doctrines and current social issues offers a unique opportunity for discourse and development of ethical guidelines. The doctrines of the Church and Salvation, coupled with the traditional dogma of the Sabbath, provide a robust framework through which believers can explore and respond to modern challenges, including the debate over marijuana legalization.[^1] By integrating the doctrines of the Church and Salvation with the Sabbath dogma, Christians can formulate a principled yet compassionate stance on marijuana legalization, balancing ethical considerations with societal needs.[^2] This approach not only aligns with Christian moral imperatives but also addresses the practical realities faced by communities today [^3].
 
