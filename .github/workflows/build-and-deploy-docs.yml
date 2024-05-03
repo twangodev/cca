@@ -28,12 +28,24 @@ jobs:
         run: python3 -m pip install --upgrade pip pipenv
       - name: Install Dependencies
         run: pipenv sync
+      - name: Set up Build Cache
+        uses: actions/cache/restore@v4
+        with:
+          key: mkdocs-material-${{ hashfiles('.cache/**') }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
       - name: Build Documentation
         run: pipenv run mkdocs build
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
+      - name: Save build cache
+        uses: actions/cache/save@v4
+        with:
+          key: mkdocs-material-${{ hashfiles('.cache/**') }}
+          path: .cache
 
   deploy:
     name: Deploy
