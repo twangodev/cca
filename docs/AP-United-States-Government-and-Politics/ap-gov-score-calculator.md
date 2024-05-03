@@ -11,12 +11,14 @@ When an AP Exam is administered, psychometric analysis determines the score rang
 |-----------------------|---------------|
 | 99-120                | 5             |
 | 91-98                 | 4             |
-| 73-90                 | 3             |    
+| 73-90                 | 3             |
 | 53-72                 | 2             |
 | 0-52                  | 1             |
 
 !!! note
     Use this calculator to estimate your AP US Government and Politics score.
+
+    **You may need to reload the page in order for the code envorionment to start.**
 
 Calculate your score by entering the number of correct multiple-choice questions and free-response questions in the code below, then run the code to see your score.
 
