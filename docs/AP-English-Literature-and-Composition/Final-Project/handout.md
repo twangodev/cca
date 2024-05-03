@@ -22,7 +22,7 @@ You must submit me to me no later than Tuesday, May 7th. Your proposal should in
 - A brief-1-2 sentence explanation about why you chose that character.
 - An MLA citation for that specific story.
 
-### Written Reflection (3-4 Pages):
+### Written Reflection (3-4 Pages)
 
 - **Characterization:** Detailed reflection about each character choice and the reasons why you selected them. What is it about these characters that connect with you?
 - **Setting:** Detailed description of your scene. Does this scene come from a specific literary work or a scene in your own life? Provide the details, dialogue, or other significant information about the scene. Consider additional elements of setting: weather, timing, how it might contrast or illustrate emotions, etc.
