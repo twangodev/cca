@@ -17,18 +17,3 @@
 | Brown v. Board of Education                               | 1954 case challenging the doctrine of "separate but equal" in public education.                                            | Declared state laws establishing separate public schools for black and white students unconstitutional.                     | Majority by Earl Warren                    | Landmark in civil rights movement, beginning the process of desegregation in public schools.      | No directly related cases                                                                                                       |
 | Gideon v. Wainwright                                      | 1963 case on the right to counsel for criminal defendants under the Sixth Amendment.                                       | Held that states are required to provide counsel in criminal cases fordefendants unable to afford their own attorneys.      | Majority by Hugo Black                     | Ensured the right to counsel, fundamentally changing criminal defense in the U.S.                 | No directly related cases                                                                                                       |
 | Schneck v. United States                                  | 1919 case dealing with enforcement of the Espionage Act during World War I, particularly speech that obstructed the draft. | Held that speech creating a "clear and present danger" of substantive evils Congress has right to prevent can be curtailed. | Majority by Oliver Wendell Holmes          | Introduced the "clear and present danger" test, impacting interpretations of free speech.         | No directly related cases                                                                                                       |
-
-McCulloch v. Maryland - No direct related cases from the provided list.
-United States v. Lopez - No direct related cases from the provided list.
-Marbury v. Madison - No direct related cases from the provided list.
-Engel v. Vitale - 
-Wisconsin v. Yoder - 
-Tinker v. De Moines Independent Community School District - 
-New York Times Co v. United States - 
-McDonald v. Chicago - No direct related cases from the provided list.
-Baker v. Carr -
-Shaw v. Reno - 
-Citizens United v. Federal Election Commission - No direct related cases from the provided list.
-Brown v. Board of Education - No direct related cases from the provided list.
-Gideon v. Wainwright - No direct related cases from the provided list.
-Schneck v. United States - No direct related cases from the provided list.
