@@ -28,7 +28,7 @@ jobs:
         run: python3 -m pip install --upgrade pip pipenv
       - name: Install Dependencies
         run: pipenv sync
-      - name: Set up Build Cache
+      - name: Restore Build Cache
         uses: actions/cache/restore@v4
         with:
           key: mkdocs-material-${{ hashfiles('.cache/**') }}
@@ -41,7 +41,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
-      - name: Save build cache
+      - name: Save Build Cache
         uses: actions/cache/save@v4
         with:
           key: mkdocs-material-${{ hashfiles('.cache/**') }}
