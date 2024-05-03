@@ -1,6 +1,6 @@
-## Citizens United v. Federal Election Commission
+# Citizens United v. Federal Election Commission
 
-### Background
+## Background
 
 - **Name of the Case:** Citizens United v. Federal Election Commission
 - **Year Decided:** 2010
