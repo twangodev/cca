@@ -22,7 +22,7 @@ You must submit me to me no later than Tuesday, May 7th. Your proposal should in
 - A brief-1-2 sentence explanation about why you chose that character.
 - An MLA citation for that specific story.
 
-### Written Reflection (3-4 Pages):
+### Written Reflection (3-4 Pages)
 
 - **Characterization:** Detailed reflection about each character choice and the reasons why you selected them. What is it about these characters that connect with you?
 - **Setting:** Detailed description of your scene. Does this scene come from a specific literary work or a scene in your own life? Provide the details, dialogue, or other significant information about the scene. Consider additional elements of setting: weather, timing, how it might contrast or illustrate emotions, etc.
@@ -43,16 +43,4 @@ You must submit me to me no later than Tuesday, May 7th. Your proposal should in
 | Written Reflection (45 points)                 | The reflection is detailed and insightful, thoroughly discussing characterization, setting, plot structure, themes, and literary techniques. Demonstrates a deep personal connection to literature.                                        | The reflection covers all required elements with good detail and understanding, showing a personal connection to the Literature.                                                    | The reflection addresses all elements but lacks depth or critical analysis, showing a basic connection to the literature.                                                  | The reflection is incomplete, superficial, or fails to connect personal experiences with literary analysis.          |
 | Presentation and Explanation (30 points)       | Presentation is engaging, clear, and well-organized. The student effectively explains their choices and responds confidently to questions.                                                                                                 | Presentation is clear and organized, with a good explanation of choices. Responses to questions are adequate but may lack depth.                                                    | Presentation is somewhat clear but poorly organized or explained. Responses to questions are tentative or superficial.                                                     | Presentation is unclear or disorganized with poor explanations and weak responses to questions.                      |
 | Adherence to Project Guidelines (25 points)    | Fully adheres to all project guidelines, including deadlines, format, and content requirements.                                                                                                                                            | Generally adheres to guidelines with minor deviations.                                                                                                                              | Adheres to most guidelines but overlooks or incorrectly implements some aspects.                                                                                           | Fails to adhere to multiple key aspects of the guidelines.                                                           |
-
-
-
-
-
-
-
-
-
-
-
-
 
