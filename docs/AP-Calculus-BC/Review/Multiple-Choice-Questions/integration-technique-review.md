@@ -41,6 +41,25 @@
     $$
 
 3. $\int x \sin(6x) \, dx$
+
+    $$
+    \begin{align}
+    u &= x \\
+    dv &= \sin(6x) \, dx \\
+    du &= dx \\
+    v &= -\frac{1}{6} \cos(6x)
+    \end{align}
+    $$
+
+    $$
+    \begin{align}
+    \int x \sin(6x) \, dx &= -x \frac{1}{6} \cos(6x) - \int -\frac{1}{6} \cos(6x) \, dx \\
+    &= -\frac{x}{6} \cos(6x) + \frac{1}{6} \int \cos(6x) \, dx \\
+    &= -\frac{x}{6} \cos(6x) + \frac{1}{6} \left[ \frac{1}{6} \sin(6x) \right] \\
+    &= -\frac{x}{6} \cos(6x) + \frac{1}{36} \sin(6x) + C \quad \blacksquare
+    \end{align}
+    $$
+
 4. $x f(x) \, dx$
 5. If $\int f(x) \sin x \, dx = - f(x) \cos x + \int 3x^2 \cos x \, dx$, then $f(x)$ could be
 6. $\int_1^e x^4 \ln x \, dx$
