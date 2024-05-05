@@ -10,7 +10,7 @@
     &= \left[ 24 \ln 2 - 8 - 3 \ln 1 + 1 \right] - \left[ 8 \ln 2 - 4 - 4 \ln 1 + 1 \right] + \left[ 2 \ln 2 - 2 - \ln 1 + 1 \right] \\
     &= 24 \ln 2 - 8 - 3 + 1 - 8 \ln 2 + 4 + 4 - 1 + 2 \ln 2 - 2 - 1 + 1 \\
     &= 24 \ln 2 - 8 \ln 2 + 2 \ln 2 - 8 + 4 + 4 - 3 - 1 - 2 - 1 + 1 \\
-    &= 18 \ln 2 - 7
+    &= 18 \ln 2 - 7 \quad \blacksquare
     \end{align}
     $$
 
