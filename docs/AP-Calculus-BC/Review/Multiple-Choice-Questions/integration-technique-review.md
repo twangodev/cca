@@ -1,12 +1,25 @@
 # Integration Technique Review
 
 1. $\int_1^2 (9x^2 - 4x + 1) \ln x \, dx$
+
+    $$
+    \begin{align}
+    &= \int_1^2 9x^2 \ln x \, dx - \int_1^2 4x \ln x \, dx + \int_1^2 \ln x \, dx \\
+    &= \left[ 3x^3 \ln x - \int 3x^2 \, dx \right]_1^2 - \left[ 2x^2 \ln x - \int 2x \, dx \right]_1^2 + \left[ x \ln x - x \right]_1^2 \\
+    &= \left[ 3x^3 \ln x - x^3 \right]_1^2 - \left[ 2x^2 \ln x - x^2 \right]_1^2 + \left[ x \ln x - x \right]_1^2 \\
+    &= \left[ 24 \ln 2 - 8 - 3 \ln 1 + 1 \right] - \left[ 8 \ln 2 - 4 - 4 \ln 1 + 1 \right] + \left[ 2 \ln 2 - 2 - \ln 1 + 1 \right] \\
+    &= 24 \ln 2 - 8 - 3 + 1 - 8 \ln 2 + 4 + 4 - 1 + 2 \ln 2 - 2 - 1 + 1 \\
+    &= 24 \ln 2 - 8 \ln 2 + 2 \ln 2 - 8 + 4 + 4 - 3 - 1 - 2 - 1 + 1 \\
+    &= 18 \ln 2 - 7
+    \end{align}
+    $$
+
 2. The function $f$ has a continuous derivative. The table below gives values of $f$ and its derivative for $x=0$ and $x=4$. If $\int_0^4 f(x) \, dx = 8$, what is the value of $\int_0^4 xf'(x) \, dx$?
 
     | $x$ | $f(x)$ | $f'(x)$ |
     |-----|--------|---------|
     | $0$ | $2$    | $5$     |
-    | $4$ | $-3$   | $11$    | 
+    | $4$ | $-3$   | $11$    |
 
 3. $\int x \sin(6x) \, dx$
 4. $x f(x) \, dx$
