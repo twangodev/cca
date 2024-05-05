@@ -26,7 +26,7 @@
     u &= x \\
     dv &= f'(x) \, dx \\
     du &= dx \\
-    v &= f(x) \\\\
+    v &= f(x)
     \end{align}
     $$
 
