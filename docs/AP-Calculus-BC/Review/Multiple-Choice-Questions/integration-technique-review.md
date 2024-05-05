@@ -23,10 +23,8 @@
 
     $$
     \begin{align}
-    u &= x \\
-    dv &= f'(x) \, dx \\
-    du &= dx \\
-    v &= f(x)
+    u = x \quad & dv = f'(x) \, dx \\
+    du = dx \quad & v = f(x)
     \end{align}
     $$
 
@@ -44,10 +42,8 @@
 
     $$
     \begin{align}
-    u &= x \\
-    dv &= \sin(6x) \, dx \\
-    du &= dx \\
-    v &= -\frac{1}{6} \cos(6x)
+    u = x \quad & dv = \sin(6x) \, dx \\
+    du = dx \quad & v = -\frac{1}{6} \cos(6x)
     \end{align}
     $$
 
@@ -61,6 +57,14 @@
     $$
 
 4. $x f(x) \, dx$
+
+$$
+\begin{align}
+u = x \quad & dv = f(x) \, dx \\
+\end{align}
+$$
+
+
 5. If $\int f(x) \sin x \, dx = - f(x) \cos x + \int 3x^2 \cos x \, dx$, then $f(x)$ could be
 6. $\int_1^e x^4 \ln x \, dx$
 7. $\int \frac{7x}{(2x-3)(x+2)} \, dx$
