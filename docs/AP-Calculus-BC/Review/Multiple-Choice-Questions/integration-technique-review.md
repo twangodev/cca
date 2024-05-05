@@ -21,6 +21,25 @@
     | $0$ | $2$    | $5$     |
     | $4$ | $-3$   | $11$    |
 
+    $$
+    \begin{align}
+    u &= x \\
+    dv &= f'(x) \, dx \\
+    du &= dx \\
+    v &= f(x) \\\\
+    \end{align}
+    $$
+
+    $$
+    \begin{align}
+    \int_0^4 xf'(x) \, dx &= \left[ x f(x) \right]_0^4 - \int_0^4 f(x) \, dx \\
+    &= 4f(4) - 0f(0) - 8 \\
+    &= 4(-3) - 0(2) - 8 \\
+    &= -12 - 8 \\
+    &= -20 \quad \blacksquare
+    \end{align}
+    $$
+
 3. $\int x \sin(6x) \, dx$
 4. $x f(x) \, dx$
 5. If $\int f(x) \sin x \, dx = - f(x) \cos x + \int 3x^2 \cos x \, dx$, then $f(x)$ could be
