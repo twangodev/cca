@@ -58,12 +58,11 @@
 
 4. $x f(x) \, dx$
 
-$$
-\begin{align}
-u = x \quad & dv = f(x) \, dx \\
-\end{align}
-$$
-
+    $$
+    \begin{align}
+    u = x \quad & dv = f(x) \, dx \\
+    \end{align}
+    $$
 
 5. If $\int f(x) \sin x \, dx = - f(x) \cos x + \int 3x^2 \cos x \, dx$, then $f(x)$ could be
 6. $\int_1^e x^4 \ln x \, dx$
