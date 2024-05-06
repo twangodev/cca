@@ -39,6 +39,7 @@ jobs:
         run: pipenv run mkdocs build
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
         with:
           path: site
       - name: Save Build Cache
