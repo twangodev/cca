@@ -44,3 +44,84 @@ You must submit me to me no later than Tuesday, May 7th. Your proposal should in
 | Presentation and Explanation (30 points)       | Presentation is engaging, clear, and well-organized. The student effectively explains their choices and responds confidently to questions.                                                                                                 | Presentation is clear and organized, with a good explanation of choices. Responses to questions are adequate but may lack depth.                                                    | Presentation is somewhat clear but poorly organized or explained. Responses to questions are tentative or superficial.                                                     | Presentation is unclear or disorganized with poor explanations and weak responses to questions.                      |
 | Adherence to Project Guidelines (25 points)    | Fully adheres to all project guidelines, including deadlines, format, and content requirements.                                                                                                                                            | Generally adheres to guidelines with minor deviations.                                                                                                                              | Adheres to most guidelines but overlooks or incorrectly implements some aspects.                                                                                           | Fails to adhere to multiple key aspects of the guidelines.                                                           |
 
+## Past Texts
+
+### Short Stories
+
+- First Day
+- Everyday Use
+- Miss Brill
+- Araby
+- A Family Supper
+- Hills Like White Elephants
+- Blind Date
+- Babylon Revisited
+- The Jilting of Granny Weatherall
+- Young Goodman Browne
+- The Minister's Black Veil There Will Come Soft Rains
+- Fall of the House of Usher Orientation
+- Cannibalism in the Cars
+- A Rose for Emily
+- Life After High School
+- The Scarf
+- Sonny's Blues
+
+### Poems
+
+- Labor Day
+- Red Wheelbarrow
+- Suicide's Note
+- Digging
+- Solitude
+- A Noiseless Spider
+- Promises Like Pie Crust
+- My Yellow Coat
+- My Heart and I
+- Harlem
+- Metaphors
+- Divorce
+- I Taste a Liquor Never Brewed
+- Happiness
+- Running into a New Year
+- To an Athlete Dying Young
+- The Flea
+- Bright Star
+- Children
+- The Road Not Taken
+- To the Virgins Make Much Time
+- Redemption
+- Barbie Doll
+- Midterm Break
+- Inner City
+- Eurydice
+- In Just
+- Journey of the Magi
+- East of the Jordan
+- Genesis
+- Loveliest of Trees
+- Stoppying by Woods on a Snowy Evening
+- The Colonel
+- The Night When Joy Began
+- The Waking
+- Music Lessons
+- Eight O'Clock
+- White City
+- Villanelle for an Anniversary
+- History Lessons
+- Church Going
+- The Peace of Wild Things
+- Weighing the Dog
+
+### Plays
+
+- *Pygmalion*
+- *The Glass Menagerie*
+- *Riders on the Sea*
+- *Trifles*
+- *Poof!*
+
+### Novels
+
+- *Frankenstein*
+- *The Kite Runner*
+- *Never Let Me Go*
