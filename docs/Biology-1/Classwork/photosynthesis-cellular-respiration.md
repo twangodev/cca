@@ -21,7 +21,7 @@
 ## Response
 
 1. Photosynthesis and cellular respiration are opposite processes. Photosynthesis uses carbon dioxide and water, in the presence of sunlight, to produce glucose and oxygen. On the other hand, cellular respiration uses glucose and oxygen to produce carbon dioxide, water, and energy ($ATP$). Essentially, photosynthesis converts light energy into chemical energy, while cellular respiration converts chemical energy into usable energy ($ATP$).
-2. There are two main types of fermentation: 
+2. There are two main types of fermentation:
     - Alcoholic Fermentation: Occurs in yeast and some types of bacteria. It converts glucose into ethanol, carbon dioxide, and a small amount of energy.
     - Lactic Acid Fermentation: Occurs in certain bacteria and in muscle cells when oxygen is scarce. It converts glucose into lactic acid and a small amount of energy.
 3. Parts of $ATP$ and $ADP$ Molecules:
@@ -56,13 +56,13 @@
 14. CAM Plants: These are plants that use Crassulacean Acid Metabolism (CAM), a specialized form of photosynthesis. CAM plants open their stomata at night to minimize water loss, storing CO2 in the form of an acid before using it for photosynthesis during the day. This adaptation is beneficial in arid conditions. Examples include cacti and some succulents.
 15. The percentage of energy from one mole of glucose that is transformed into useful energy in the form of $ATP$ in the body is approximately 38.76%. This calculation assumes that one mole of glucose, through cellular respiration, produces about 38 $ATP$ molecules, and each $ATP$ molecule releases $51 \text{ kJ}$ of energy upon hydrolysis.
 
-$$
-E_{glucose} = 5000 \text{ kJ} \\\
-E_{ATP} = 51 \text{ kJ} \\\
-\text{ATP molecules per glucose} = 38 \\\
-$$
+    $$
+    E_{glucose} = 5000 \text{ kJ} \\\
+    E_{ATP} = 51 \text{ kJ} \\\
+    \text{ATP molecules per glucose} = 38 \\\
+    $$
 
-$$
-E_{total} = 38 \cdot 51 = 1938 \text{ kJ} \\\
-E_{useful} = \frac{E_{total}}{E_G} \cdot 100 = \frac{1938}{5000} \cdot 100 = 38.76\%
-$$
+    $$
+    E_{total} = 38 \cdot 51 = 1938 \text{ kJ} \\\
+    E_{useful} = \frac{E_{total}}{E_G} \cdot 100 = \frac{1938}{5000} \cdot 100 = 38.76\%
+    $$
