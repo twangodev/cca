@@ -122,3 +122,29 @@
     3. The process is the first step of aerobic respiration but not anaerobic respiration.
     4. **The process requires electron carriers to be available.**
     5. **The process occurs in both prokaryotes and eukaryotes.**
+
+13. During the Krebs Cycle process, which reactants are used?
+
+    I. Pyruvate<br>
+    II. ATP<br>
+    III. O2<br>
+    IV. Water<br>
+    V. NADH<br>
+    VI. FADH2<br>
+    VII. NAD+<br>
+    VIII. FAD+<br>
+
+    1. I, II, III
+    2. II, IV, V
+    3. **I, VII, VIII**
+    4. II, III, VI
+
+14. CAM plants close their stomata at night to prevent water loss and maximize CO2 production.
+
+    1. True
+    2. **False**
+
+15. Humans are eukaryotes capable of both aerobic and anaerobic respiration.
+
+    1. **True**
+    2. False
