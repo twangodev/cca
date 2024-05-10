@@ -97,9 +97,9 @@
     II. NADH
     III. Carbon dioxide
     IV. Water
-    V. $NADP^+$
+    V. NADP+
     VI. Oxygen
-    VII. $NAD^+$
+    VII. NAD+
     VIII. ATP
 
     1. **I, IV, and V**
@@ -148,3 +148,73 @@
 
     1. **True**
     2. False
+
+## Short Answer
+
+The picture below shows a self-sustaining chamber where it is a CLOSED SYSTEM (no exchange of matter outside the chamber).
+
+![terrarium](terrarium.png)
+
+In the closed chamber, you have plants, some mini snails, and water (in the gravel layer). You purchased three of these closed chambers and decided to do an extensive experiment on them.
+
+1. You want to find out whether photosynthesis will happen faster under red light. This is your experiment's set up:
+
+    Chamber A was left at room temperature (25°C) under regular sunlight.<br>
+    Chamber B was left in a temperature-regulated closet with no light at 25°C.<br>
+    Chamber C was put under a red-light lamp at 25°C.<br>
+
+    1. Identify the negative control and justify the use of this control in this experiment (1 pt)
+
+        The negative control in this experiment is Chamber B, where the plants were kept in a temperature-regulated closet with no light at the same temperature as the other chambers. This chamber serves as the negative control because it does not receive any light, which is essential for photosynthesis to occur. By comparing the other chambers to this control, you can determine the effect of light presence (sunlight and red light) on the rate of photosynthesis, as Chamber B is expected to have little to no photosynthesis due to the absence of light.
+
+    2. Identify the positive control and justify the use of this control in this experiment (1 pt)
+
+        Chamber A, where the plants were left under regular sunlight at room temperature, serves as the positive control. This setup represents typical conditions under which photosynthesis naturally occurs. By using this chamber as the positive control, it confirms that the experimental conditions are suitable for photosynthesis. Comparing the other chambers to this one helps establish a baseline for how effective regular sunlight is in driving the photosynthetic process compared to red light.
+
+    3. Predict which chamber would have the highest rate of photosynthesis. Explain your prediction. (2 pts)
+
+        I predict that Chamber C, which was exposed to red light, might show the highest rate of photosynthesis among the three setups. Red light is part of the wavelengths that are highly effective in driving photosynthesis. Specifically, red light is absorbed well by chlorophyll pigments, which play a crucial role in the photosynthesis process. Although regular sunlight (as in Chamber A) includes red light among other wavelengths, the concentrated red light in Chamber C could potentially drive a higher rate of photosynthesis by providing an optimized wavelength specific for the absorption peaks of the photosynthetic pigments.
+
+2. On Day 2, your mischievous sibling decided to play a prank on you by taking the chamber that was under the red-light lamp and hiding it in a cabinet in the storage room with night at 15$^\circ$C. You took three days to find the chamber.
+
+    1. Name the photosynthetic reaction that stopped occurring immediately when your siting first hid it. (1 pt)
+
+        When the chamber was moved to a dark cabinet, the light-dependent reactions of photosynthesis would have stopped occurring immediately. These reactions require light to drive the process of converting light energy into chemical energy (ATP and NADPH).
+
+    2. Identify the location within the chloroplast where the photosynthetic reaction you named in Zaj occur. (1 pt)
+
+        The light-dependent reactions occur in the thylakoid membranes of the chloroplast. These membranes house the photosynthetic pigments (like chlorophyll) and the electron transport chain components that are critical for capturing light energy and converting it into chemical energy.
+
+    3. List all the products the photosynthetic reaction you named in 2a) produce? (1 pt)
+
+        In the light-dependent reactions, light energy is used to split water molecules (photolysis), producing oxygen as a by-product. The energy derived from light is then used to convert ADP into ATP and NADP+ into NADPH. These products (ATP and NADPH) are vital for the subsequent light-independent reactions (Calvin cycle) to synthesize glucose.
+
+3. Immediately after you found the chamber, you put it back under regular sunlight and discovered that the mini snails died
+
+    1. Explain why the mini snails might have died. (1 pt)
+
+        The mini snails may have died due to a lack of oxygen and the accumulation of carbon dioxide within the sealed chamber when it was kept in darkness. Normally, plants produce oxygen during the light-dependent reactions of photosynthesis, which requires light. Without light, these reactions ceased, halting oxygen production. Snails rely on oxygen for respiration, and in a sealed environment without fresh oxygen being produced, they likely suffocated from oxygen depletion and possibly also from the buildup of toxic carbon dioxide that they exhaled.
+
+    2. As a result of the death of the mini snails, name the photosynthetic reaction(s) that would be limited. Explain your answer. (2 pts)
+
+        The death of the mini snails would primarily affect the Calvin Cycle, or the light-independent reactions of photosynthesis. Normally, snails respire, releasing carbon dioxide as a waste product, which plants use as a raw material in the Calvin Cycle to synthesize glucose. With the death of the snails, the carbon dioxide level within the chamber would decrease, potentially limiting the availability of CO₂ for the Calvin Cycle. This reduction in CO₂ could restrict the plant's ability to synthesize glucose, thus impacting overall plant health and growth, as the Calvin Cycle depends on a steady supply of carbon dioxide to operate efficiently.
+
+## Extra Credit
+
+1. Say one mole of glucose contains 3000kJ of energy. The hydrolysis (breaking down) of one mole of ATP releases 31kJ of energy. Calculate the percentage of energy that is transformed to useful energy in the body. Show you work. (2 pt)
+
+    $$
+    \begin{align}
+    \text{Total Energy} &= \text{Number of ATP moles} \times \text{Energy per mole of ATP} \\
+    &= 38 \, \text{moles} \times 31 \, \text{kJ/mole} \\
+    &= 1178 \, \text{kJ} \\\\
+    \text{Percentage} &= \left( \frac{\text{Energy from ATP}}{\text{Energy in Glucose}} \right) \times 100 \\
+    &= \left( \frac{1178 \, \text{kJ}}{3000 \, \text{kJ}} \right) \times 100 \\
+    &= 39.27\% \\
+    \end{align}
+    $$
+
+2. Explain why the spinach leaves were able to sink at the beginning of the experiment, and why they slowly floated when placed under light. (1 pt)
+
+    - At the start of the experiment, the spinach leaves sink because they may still be denser than water, especially if they are devoid of internal air spaces (which are usually filled with gases). Additionally, if the leaves have been recently cut or washed, they might have absorbed some water, increasing their density.
+    - When placed under light, the spinach leaves begin to photosynthesize. During photosynthesis, one of the by-products is oxygen. This oxygen can accumulate in the form of tiny bubbles on the surface of the leaves or within the internal air spaces, decreasing their overall density. As these air spaces fill with oxygen, the buoyancy of the leaves increases, causing them to float. This is often used in experiments to demonstrate the production of oxygen via photosynthesis, as the leaves will float more as photosynthesis increases under light exposure.
