@@ -114,3 +114,11 @@
     2. **Chloroplast generates a lot of ATP that is used for G3P production, while mitochondria generates a lot of ATP for use as cellular energy.**
     3. Mitochondria and chloroplast have both types of electron transport molecules, NADH/NADPH and $FADH_2$/$FADPH_2$.
     4. **Both mitochondria and chloroplast utilize H+ concentration gradient to create ATP through ATP synthase.**
+
+12. Which of the following statements is/are TRUE about glycolysis? Select all possible choice(s).
+
+    1. **The process does not require oxygen.**
+    2. **The process occurs in the cytoplasm.**
+    3. The process is the first step of aerobic respiration but not anaerobic respiration.
+    4. **The process requires electron carriers to be available.**
+    5. **The process occurs in both prokaryotes and eukaryotes.**
