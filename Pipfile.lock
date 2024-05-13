@@ -435,12 +435,12 @@
         },
         "mkdocs-print-site-plugin": {
             "hashes": [
-                "sha256:2257e8116cdea6c4063a2bbd84c8cf00ace62de4cb2e09516124a08c20fc2033",
-                "sha256:b44d4533c5be8bd4676d61ff9b8a946dc340ef5e745a8c60fe1072e22032b2d8"
+                "sha256:8c05bdd6b34095fdfdb77a37a117106d4ba362ac5145a1664a3bef53b8cc9ba5",
+                "sha256:c62eda1d47b65e48aa5a9316cb8ea93c035a342b5648b84bd892f48729aea6c9"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==2.4.0"
+            "version": "==2.4.1"
         },
         "mkdocs-rss-plugin": {
             "hashes": [
