@@ -109,15 +109,15 @@ Now we will define something called the least-squares error, which takes the for
 
     <iframe src="https://www.desmos.com/calculator/lxazgvn9xo?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-    | $k$      | $E_k$                   |
-    |----------|-------------------------|
-    | 2        | 1001.0305               | 
-    | 3        | 6416.1698               | 
-    | $\cdots$ | $\cdots$                |
-    | 23       | 0.0463                  |
-    | 24       | 0.007                   |
-    | 25       | 0.001                   |
-    | 26       | 1.3145 \times 10 ^ {-4} |
+    | $k$      | $E_k$                     |
+    |----------|---------------------------|
+    | 2        | 1001.0305                 |
+    | 3        | 6416.1698                 |
+    | $\cdots$ | $\cdots$                  |
+    | 23       | 0.0463                    |
+    | 24       | 0.007                     |
+    | 25       | 0.001                     |
+    | 26       | $1.3145 \times 10 ^ {-4}$ |
 
     The least squares error of $T_{26}(x)$ first becomes less than 0.001.
 
