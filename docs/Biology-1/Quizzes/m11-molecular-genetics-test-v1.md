@@ -4,7 +4,7 @@
 
 1. DNA replication is a process where each strand of a parent DNA molecule serves as a template for a complementary strand in a daughter molecule. The result is two identical DNA molecules. (6 points total)
 
-    ![dna-replication](dna-replication.png)
+    ![dna-replication](assets/dna-replication.png)
 
     1. **Draw** an "X" on the diagram above to Indicate where the "replication fork" is. **Label** the leading strand. [1 pt]
 
@@ -61,7 +61,7 @@
 
 For the next two questions, use the following diagram:
 
-![diagram](diagram.png)
+![diagram](assets/diagram.png)
 
 1. Which structure is #29 pointing to?
 

@@ -20,7 +20,7 @@
 
 3. Look at the figure below. All the following are parts of an ADP molecule except
 
-    ![adp](adp.png)
+    ![adp](assets/adp.png)
 
     1. Structure A
     2. Structure B
@@ -30,7 +30,7 @@
 
 4. What process do the arrows for oxygen going in and water coming out represent in the diagram of the mitochondria?
 
-    ![mitochondria](mitochondria-1.png)
+    ![mitochondria](assets/mitochondria-1.png)
 
     1. **Electron Transport Chain**
     2. Fermentation
@@ -40,7 +40,7 @@
 
 5. Which structure in the mitochondria shown below is where H+ (protons) is transported to create a gradient for ATP synthesis?
 
-    ![mitochondria](mitochondria-2.png)
+    ![mitochondria](assets/mitochondria-2.png)
 
     1. A
     2. B
@@ -49,7 +49,7 @@
 
 6. Imagine that the y-axis of each graph in the figure below represents the rate of photosynthesis and the x-axis represents the temperature from 0°C to 35°C. The optimal water temperature for aquatic plants for photosynthesis is between 25°C and 32°C. Which of the following graphs best represents the effect of water temperature on the rate of photosynthesis in aquatic plants?
 
-    ![graph](graph.png)
+    ![graph](assets/graph.png)
 
     1. A
     2. B
@@ -71,7 +71,7 @@
 
 8. Where in the chloroplast are NADPH and ATP used to begin to modify $CO_2$ into G3P?
 
-    ![chloroplast](chloroplast.png)
+    ![chloroplast](assets/chloroplast.png)
 
     1. A
     2. B
@@ -153,7 +153,7 @@
 
 The picture below shows a self-sustaining chamber where it is a CLOSED SYSTEM (no exchange of matter outside the chamber).
 
-![terrarium](terrarium.png)
+![terrarium](assets/terrarium.png)
 
 In the closed chamber, you have plants, some mini snails, and water (in the gravel layer). You purchased three of these closed chambers and decided to do an extensive experiment on them.
 
