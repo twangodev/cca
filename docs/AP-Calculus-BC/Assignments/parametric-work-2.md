@@ -55,7 +55,7 @@
 
 8. (continued) To help find the parametric equation for the cycloid, first assume the wheel is just spinning without any translation (or "transcription"...) Use the diagram to help you (note the spin is clockwise since we eventually want to move to the right):
 
-    1. What are the x and y coordinates at t=0,.25,0.5,0.75, and 17
+    1. What are the x and y coordinates at $t=0$,$t=.25$,$t=0.5$,$t=0.75$, and $t=17$
     2. Can you find an equation for the y-coordinate as a function of time? X-coordinate?
     3. After one second, there's been one revolution. How far does the center move? 2 seconds? t seconds?
     4. What is the parametric equation for the cycloid? Make a nice graph (on Desmos probably)
