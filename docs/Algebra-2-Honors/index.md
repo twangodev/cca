@@ -1,5 +1,11 @@
 # Algebra 2 Honors
 
-## Finals Cheat Sheet
+## Notes
 
-[Algebra 2 Honors Final Review Sheet](cheat-sheet.pdf)
+- [Notes](notes.pdf)
+- [Additional Topics](additional-topics.pdf)
+
+## Finals Material
+
+- [Final Notes](final-notes.pdf)
+- [Final Review Sheet Cheat Sheet](cheat-sheet.pdf)
