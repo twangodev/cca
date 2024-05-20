@@ -6,7 +6,7 @@
     C = 2\pi r = 2\pi(3) = 6\pi \\
     $$
 
-    Therefore, it takes $2 \pi$ seconds to walk around the edge of the table. Since $2 \pi$ radians is 360 degrees, the bug walks at a rate of 1 radian per second. 
+    Therefore, it takes $2 \pi$ seconds to walk around the edge of the table. Since $2 \pi$ radians is 360 degrees, the bug walks at a rate of 1 radian per second.
 
     - After 1 second, the bug is at $\theta = 1$ radian
     - After 2 seconds, the bug is at $\theta = 2$ radians
@@ -45,7 +45,7 @@
 
     <iframe src="https://www.desmos.com/calculator/fyfb04uaaa?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-    The same line is traced out by both parametric equations, but the second one is much faster, as the curve is goes to greater values with the same values bounds of $t$. $x(t) = t^3$, $y(t) = t^6$ also has a negative x-axis, while $x(t) = t^2$, $y(t) = t^4$ does not. 
+    The same line is traced out by both parametric equations, but the second one is much faster, as the curve is goes to greater values with the same values bounds of $t$. $x(t) = t^3$, $y(t) = t^6$ also has a negative x-axis, while $x(t) = t^2$, $y(t) = t^4$ does not.
 
 5. Consider $x(t)=tcos(t)$, $y(t)=tsin(t)$ for $0 \le t \le 4 \pi$. What graph do you make here? Why does that happen?
 
@@ -53,12 +53,9 @@
 
 7. Finn the Human is riding his bike and runs aver a piece of gum on one of his 30-inch wheels. Assume that he's riding such that the wheel makes one revolution per second. Also assume that at t=0 is when the gum is on the very bottom of the wheel. Draw a graph of the path that the gum would take as the wheel rolls along a flat surface. (This graph is very special, called a cycloid).
 
-8. (continued) To help find the parametric equation for the cycloid, first assume the wheel is just spinning without any translation (or "transcription"...] Use the diagram to help you (note the spin is clockwise since we eventually want to move to the right):
+8. (continued) To help find the parametric equation for the cycloid, first assume the wheel is just spinning without any translation (or "transcription"...) Use the diagram to help you (note the spin is clockwise since we eventually want to move to the right):
 
-a. What are the x and y coordinates at t=0,.25,0.5,0.75, and 17
-
-b. Can you find an equation for the y-coordinate as a function of
-
-time? X-coordinate? c. After one second, there's been one revolution. How far does the center move? 2 seconds? t seconds?
-
-d. What is the parametric equation for the cycloid? Make a nice graph (on Desmos probably)
+    1. What are the x and y coordinates at t=0,.25,0.5,0.75, and 17
+    2. Can you find an equation for the y-coordinate as a function of time? X-coordinate?
+    3. After one second, there's been one revolution. How far does the center move? 2 seconds? t seconds?
+    4. What is the parametric equation for the cycloid? Make a nice graph (on Desmos probably)
