@@ -51,7 +51,7 @@ E. Mummification<br>
     C. biotic; abiotic<br>
     D. biotic; biotic<br>
 
-8. In Miller & Urey's experiment and the spontaneous generation hypothesis, they suggest that _ arose from _. **C**
+8. In Miller & Urey's experiment and the spontaneous generation hypothesis, they suggest that __ arose from __. **C**
 9. The theory of biogenesis suggests that_ arose from_. **D**
 10. According to Darwin, the species found on earth today:
 

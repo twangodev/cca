@@ -80,7 +80,7 @@
 
     The Vietnam War had a devastating impact on the Vietnamese population. The article mentions that after years of warfare, an estimated 2 million Vietnamese were killed, 3 million were wounded, and 12 million became refugees. The country's infrastructure and economy were severely damaged, and reconstruction proceeded slowly.
 
-24. In the United States, the effects of the Vietnam War would linger long after the last troops returned home in 1973. The nation spent more than _ billion on the conflict in Vietnam from 1965-73
+24. In the United States, the effects of the Vietnam War would linger long after the last troops returned home in 1973. The nation spent more than __ billion on the conflict in Vietnam from 1965-73
 
     In the United States, the effects of the Vietnam War lingered long after the last troops returned home in 1973. The nation spent more than $120 billion on the conflict in Vietnam from 1965-73.
 
