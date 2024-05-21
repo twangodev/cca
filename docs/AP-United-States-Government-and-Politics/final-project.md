@@ -6,6 +6,9 @@
 
 ## Script
 
+!!! note
+    This script is purely fictional and does not represent the opinions or views of any real-life individuals or organizations.
+
 Today, we're diving into a crucial aspect of the upcoming 2024 election—the party platforms of the Democratic and Republican parties. These platforms are not just policy wish lists; they shape the direction of our country and reflect our values. We'll be using the U.S. Constitution as our foundational document to understand how these platforms align with the core principles of American democracy.
 
 Party platforms have been a cornerstone of American political conventions since the 1860s. They serve two main purposes: uniting party members around a common set of principles and presenting voters with a clear outline of what the party stands for. Internally, platforms get all party faithful on the same page, and externally, they act as a blueprint for what the candidate would do if elected president.
