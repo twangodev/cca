@@ -1,0 +1,16 @@
+# Reflective Writing Exercise
+
+## Prompt
+What can we, as individuals, groups and nations, do to prevent massive acts of violence is the future?
+
+## Response
+
+Genocide and other acts of mass killing is possible because of discrimination and how people judge others. When a single leader agrees with something, and the society also agrees with it, anything is possible. This is how Hitler was able to execute millions of Jews, he didn't like Jews to begin with and society at the time was looking for someone to blame during the Great Depression. When Hitler told society that the Jews were the reason behind the Great Depression, they hopped along the train and allowed this to happen. However, if society does not agree, he will probably be overthrown for doing this.
+
+Individuals, groups and nations can prevent massive acts of violence, such as the Holocaust, by raising awareness. I personally don't think that this will completely never happen again - history is always bound to repeat itself and evil acts will always happen, but I think raising awareness can delay acts like these from happening again. A majority of people already realized this, and are spreading awareness.
+
+At the moment, we are getting introduced to the Holocaust in schools. This is helpful because it raises awareness that acts like this are evil - and schools teach and ask students to reflect on why the Holocaust. This is beneficial as because we are younger, things that are taught to us become ingrained in our heads, it becomes the normal - it's how most of us differentiate right from wrong. Once people know that massive acts of violence are evil, that they aren't right; people can stand up against these acts, or even prevent these acts from happening in the first place. Educating students about such acts, thus raising awareness, can prevent acts like these from happening.
+
+On September 11th, 2001, a series of terrorist attacks were launched against the United States. This attack killed around 3 thousand people and injured around 25 thousand people. This happened because airport security at the time wasn't as strict as the current security. This act raised awareness for airport security, and thus the United States government responded by setting restrictions on what people can bring to airplanes and what people cannot. This event rose awareness and thus prevented similar terrorist attacks from taking place - on an international scale. Awareness of events mass acts of violence can encourage people to take action and prevent acts like these from happening again.
+
+Raising awareness also widen's people's perspectives, that something like this can actually happen and is not fictional. I originally didn't think this was possible, but after learning about this, I'm now aware that this can happen. We, people, learn from mistakes that we've made previously. For example, a lot of people get phished on the internet, and foolishly get anti-malware software to protect themselves. However, because I'm aware of everything that I get on the internet, I don't even have the anti-virus enabled. I've made mistakes previously and because I'm aware now, I can implement measures to protect myself. Being aware can allow people to not make the same mistake again.
