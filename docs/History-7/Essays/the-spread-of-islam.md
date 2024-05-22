@@ -14,5 +14,5 @@ Trade, good rules, laws, and conquest all pushed Islam out into the world. Trade
 
 ### Bibliography
 
-http://history-world.org/islam4.htm
+[http://history-world.org/islam4.htm](http://history-world.org/islam4.htm)
 
