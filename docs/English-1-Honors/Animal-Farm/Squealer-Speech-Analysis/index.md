@@ -1,0 +1,1 @@
+# Animal Farm Squealer Speech Analysis
