@@ -1,4 +1,4 @@
-# Part V. Multiple Alleles
+# Multiple Alleles
 
 ## Prompt
 
