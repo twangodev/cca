@@ -13,6 +13,7 @@ mkdocs-rss-plugin = "*"
 mkdocs-open-in-new-tab = "*"
 mkdocs-print-site-plugin = "*"
 mkdocs-git-committers-plugin-2 = "*"
+mkdocs-awesome-pages-plugin = "*"
 
 [dev-packages]
 

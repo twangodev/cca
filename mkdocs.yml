@@ -4,6 +4,7 @@ INHERIT: base.yml
 
 plugins:
   - search
+  - awesome-pages
   - glightbox
   - offline
   - social

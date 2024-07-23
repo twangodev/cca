@@ -93,6 +93,8 @@ markdown_extensions:
       generic: true
   - footnotes
 
+plugins:
+  - awesome-pages
 
 extra_javascript:
   - javascripts/mathjax.js
