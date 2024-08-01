@@ -392,12 +392,12 @@
         },
         "mkdocs-awesome-pages-plugin": {
             "hashes": [
-                "sha256:9c795587695bd1ee85a8b7e43293005418df5a8b9ef296a3e628be427b693b4d",
-                "sha256:c3f7d366ecfe99b64524c49a84d8e13c576c19a918ea2e6f59bb486a259313af"
+                "sha256:1ba433d4e7edaf8661b15b93267f78f78e2e06ca590fc0e651ea36b191d64ae4",
+                "sha256:bdf6369871f41bb17f09c3cfb573367732dfcceb5673d7a2c5c76ac2567b242f"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.7'",
-            "version": "==2.9.2"
+            "markers": "python_full_version >= '3.8.1'",
+            "version": "==2.9.3"
         },
         "mkdocs-charts-plugin": {
             "hashes": [
