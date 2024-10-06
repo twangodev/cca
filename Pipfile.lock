@@ -461,12 +461,12 @@
         },
         "mkdocs-open-in-new-tab": {
             "hashes": [
-                "sha256:a40231901b12f01a1d4b798112712d475741356e550d8f3adf3ca23e332a7d2c",
-                "sha256:e2ddfa02f53d7c16d8430f5c0b3d98c4b98c82e1b8aa6fbdc91c78e89bbeb5f1"
+                "sha256:319c8a394d6a1d079b1524177c0256559bf5f8d1aa0ea32c28d80dc308962193",
+                "sha256:82114617f8fcd43859e7151bddf05950cc27dcc8682bc82c001ffec37353f344"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==1.0.3"
+            "version": "==1.0.5"
         },
         "mkdocs-print-site-plugin": {
             "hashes": [
