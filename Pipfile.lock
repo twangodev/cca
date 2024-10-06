@@ -470,12 +470,12 @@
         },
         "mkdocs-print-site-plugin": {
             "hashes": [
-                "sha256:48b3d41ae80384de72062b2712fce677f2e46d8364d9fe603ba837b0cf7156a4",
-                "sha256:95dccc8d5cc8a59da67815a2d3304ef0101b065e363f2b9ac919c23d6196dd24"
+                "sha256:621e3eed4907b87c93f930a065c5c423ef11e0a2a058e78c6bd9a149df0ab918",
+                "sha256:f226686cafb549a6b6fa20b1f7acd50e8da98b16978a7df5df5457168cf2adda"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==2.5.0"
+            "version": "==2.6.0"
         },
         "mkdocs-rss-plugin": {
             "hashes": [
