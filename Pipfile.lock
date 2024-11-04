@@ -417,12 +417,12 @@
         },
         "mkdocs-charts-plugin": {
             "hashes": [
-                "sha256:875844599c2cf9d552ffffbde82e5ee25469d4665eefd3db5d2dcf6eadff6e99",
-                "sha256:d82e34f9933ea4537c34386c242765b7b721bfd6cb0ffd2bd881c1e554738ee6"
+                "sha256:095150824a966852a4556fe5f501d17c08346acccdd0d43c340e3adcea686314",
+                "sha256:b3b2c8b06d87903e7f50318dd8c908e44455ea83ffc99c49d518ab0cf93a2ec2"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.6'",
-            "version": "==0.0.11"
+            "markers": "python_version >= '3.7'",
+            "version": "==0.0.12"
         },
         "mkdocs-get-deps": {
             "hashes": [
