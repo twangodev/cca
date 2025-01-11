@@ -53,6 +53,7 @@
 - [6.2-1-2](assets/6.2-1-2.jpg)
 - [6.2-2-1](assets/6.2-2-1.jpg)
 - [6.2-2-2](assets/6.2-2-2.jpg)
+- [6.3-1-corrected](assets/6.3-1-corrected.jpg)
 - [6.3-1](assets/6.3-1.jpg)
 - [6.3-2-1](assets/6.3-2-1.jpg)
 - [6.3-2-2](assets/6.3-2-2.jpg)
