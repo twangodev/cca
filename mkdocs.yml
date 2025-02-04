@@ -2,6 +2,8 @@
 
 INHERIT: base.yml
 
+site_url: https://cca.twango.dev
+
 plugins:
   - search
   - awesome-pages
