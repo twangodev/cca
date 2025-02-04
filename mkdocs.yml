@@ -7,7 +7,8 @@ plugins:
   - awesome-pages
   - glightbox
   - offline
-  - social
+  - social:
+      enabled: !ENV [CI, false]
   - charts
   - git-committers:
       repository: twangodev/cca
