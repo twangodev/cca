@@ -27,10 +27,12 @@ jobs:
         run: python3 -m pip install --upgrade pip pipenv
       - name: Install Dependencies
         run: pipenv sync
+      - name: Setup Build Cache
+        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
       - name: Restore Build Cache
-        uses: actions/cache/restore@v4
+        uses: actions/cache@v4
         with:
-          key: mkdocs-material-${{ hashfiles('.cache/**') }}
+          key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
@@ -41,11 +43,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           path: site
-      - name: Save Build Cache
-        uses: actions/cache/save@v4
-        with:
-          key: mkdocs-material-${{ hashfiles('.cache/**') }}
-          path: .cache
 
   deploy:
     name: Deploy
