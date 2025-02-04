@@ -7,7 +7,8 @@ plugins:
   - awesome-pages
   - glightbox
   - offline
-  - social
+  - social:
+      enabled: !ENV [CI, false]
   - charts
   - git-committers:
       repository: twangodev/cca
@@ -15,8 +16,6 @@ plugins:
       token: !ENV ["MKDOCS_GIT_COMMITTERS_APIKEY"]
   - git-revision-date-localized:
       enable_creation_date: true
-  - rss:
-      length: -1
   - open-in-new-tab
   - print-site:
       toc_depth: 6

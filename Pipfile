@@ -13,7 +13,6 @@ mkdocs-print-site-plugin = "*"
 mkdocs-git-committers-plugin-2 = "*"
 mkdocs-awesome-pages-plugin = "*"
 mkdocs-material = {extras = ["imaging"], version = "*"}
-mkdocs-rss-plugin = "*"
 
 [dev-packages]
 
