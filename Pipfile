@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-mkdocs-material = "*"
 mkdocs-glightbox = "*"
 cairosvg = "*"
 mkdocs-charts-plugin = "*"
@@ -14,6 +13,7 @@ mkdocs-open-in-new-tab = "*"
 mkdocs-print-site-plugin = "*"
 mkdocs-git-committers-plugin-2 = "*"
 mkdocs-awesome-pages-plugin = "*"
+mkdocs-material = {extras = ["imaging"], version = "*"}
 
 [dev-packages]
 
