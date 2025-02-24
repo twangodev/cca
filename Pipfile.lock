@@ -447,11 +447,12 @@
                 "imaging"
             ],
             "hashes": [
-                "sha256:71d90dbd63b393ad11a4d90151dfe3dcbfcd802c0f29ce80bebd9bbac6abc753",
-                "sha256:a3de1c5d4c745f10afa78b1a02f917b9dce0808fb206adc0f5bb48b58c1ca21f"
+                "sha256:aad3e6fb860c20870f75fb2a69ef901f1be727891e41adb60b753efcae19453b",
+                "sha256:b714679a8c91b0ffe2188e11ed58c44d2523e9c2ae26a29cc652fa7478faa21f"
             ],
+            "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==9.6.2"
+            "version": "==9.6.5"
         },
         "mkdocs-material-extensions": {
             "hashes": [
