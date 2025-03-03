@@ -24,6 +24,18 @@
             "markers": "python_version >= '3.8'",
             "version": "==2.17.0"
         },
+        "backrefs": {
+            "hashes": [
+                "sha256:2cab642a205ce966af3dd4b38ee36009b31fa9502a35fd61d59ccc116e40a6bd",
+                "sha256:2e1c15e4af0e12e45c8701bd5da0902d326b2e200cafcd25e49d9f06d44bb61b",
+                "sha256:a66851e4533fb5b371aa0628e1fee1af05135616b86140c9d787a2ffdf4b8fdc",
+                "sha256:bbef7169a33811080d67cdf1538c8289f76f0942ff971222a16034da88a73486",
+                "sha256:c67f6638a34a5b8730812f5101376f9d41dc38c43f1fdc35cb54700f6ed4465d",
+                "sha256:e3a63b073867dbefd0536425f43db618578528e3896fb77be7141328642a1585"
+            ],
+            "markers": "python_version >= '3.9'",
+            "version": "==5.8"
+        },
         "bracex": {
             "hashes": [
                 "sha256:12c50952415bfa773d2d9ccb8e79651b8cdb1f31a42f6091b804f6ba2b4a66b6",
@@ -447,11 +459,12 @@
                 "imaging"
             ],
             "hashes": [
-                "sha256:71d90dbd63b393ad11a4d90151dfe3dcbfcd802c0f29ce80bebd9bbac6abc753",
-                "sha256:a3de1c5d4c745f10afa78b1a02f917b9dce0808fb206adc0f5bb48b58c1ca21f"
+                "sha256:3e2c1fceb9410056c2d91f334a00cdea3215c28750e00c691c1e46b2a33309b4",
+                "sha256:8a159e45e80fcaadd9fbeef62cbf928569b93df954d4dc5ba76d46820caf7b47"
             ],
+            "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==9.6.2"
+            "version": "==9.6.7"
         },
         "mkdocs-material-extensions": {
             "hashes": [
