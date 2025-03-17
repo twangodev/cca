@@ -439,12 +439,12 @@
         },
         "mkdocs-git-revision-date-localized-plugin": {
             "hashes": [
-                "sha256:c1c4fd622e44eb81b9b0b0402f0367fb28f597828b1463c55452df691ceb54ca",
-                "sha256:cc805d020e0eb2df9d52cfad195f89237a8c6a47ac5ca9e5a5ba95aee06f2140"
+                "sha256:395ae0b9eec565c78a76fffc938b70f52774bf2971245482d31aba47018c5fa9",
+                "sha256:9e37f1343d314c9cd8f9cbbf117c4bdc1d2d24a0653c5bbd7059d072f2cd0972"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==1.4.4"
+            "version": "==1.4.5"
         },
         "mkdocs-glightbox": {
             "hashes": [
