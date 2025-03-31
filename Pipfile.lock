@@ -455,11 +455,13 @@
             "version": "==0.4.0"
         },
         "mkdocs-material": {
+            "extras": [
+                "imaging"
+            ],
             "hashes": [
                 "sha256:25a453c1f24f34fcf1f53680c03d2c1421b52ce5247f4468153c87a70cd5f1fc",
                 "sha256:36168548df4e2ddeb9a334ddae4ab9c388ccfea4dd50ffee657d22b93dcb1c3e"
             ],
-            "index": "pypi",
             "markers": "python_version >= '3.8'",
             "version": "==9.6.10"
         },
@@ -482,12 +484,12 @@
         },
         "mkdocs-print-site-plugin": {
             "hashes": [
-                "sha256:621e3eed4907b87c93f930a065c5c423ef11e0a2a058e78c6bd9a149df0ab918",
-                "sha256:f226686cafb549a6b6fa20b1f7acd50e8da98b16978a7df5df5457168cf2adda"
+                "sha256:7de6ae4a8195994eb08629aed42f5ffbf892139ba01bed57bbce058f90287d77",
+                "sha256:f70138607a9a3a9549ddcf6bae1582c82cee177735a8b744e4794180cdb432e7"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==2.6.0"
+            "version": "==2.7.2"
         },
         "natsort": {
             "hashes": [
