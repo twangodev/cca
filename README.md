@@ -1,6 +1,5 @@
 # cca
 
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/twangodev/cca/mkdocs)
 ![GitHub repo size](https://img.shields.io/github/repo-size/twangodev/cca)
 ![GitHub License](https://img.shields.io/github/license/twangodev/cca)
 
